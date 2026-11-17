@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 125</title><sparkle:version>125</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 125</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 125
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 126</title><sparkle:version>126</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 126</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 126
 
-更新与阅读接续
-- 检查更新后，可直接下载、验签、安装并重启应用。
-- 更新时继续阅读，安装重启由你主动选择。
-- 重启前可保存原文件、保留本机草稿，或取消。
-- 更新后恢复当前文档、窗口大小、阅读位置、查找与历史。
-- 保留未保存草稿和源码选区；撤销记录会重新开始。
+更新体验
+- 更新提示明确显示当前和目标 Build，便于区分 Alpha 版本。
+- 保留安装前的保存、保留草稿与取消选择。
+- 更新后接续文档、选区、查找序号、窗口和阅读历史。
 
-安全与兼容
-- GitHub 分发；版本清单与更新包均通过 Ed25519 验签。
-- 保留「帮助 → 下载更新 ZIP…」的手动下载入口。
-- Build124 及更早版本需手动安装一次此版，之后可在应用内更新。
+本轮验证
+- 重新验证下载中断后的重试、取消后继续编辑、损坏签名拦截。
+- 发布后补齐 Build125 → 126 的 GitHub HTTPS 下载、真实替换与重启回执。
 
-当前仍为未公证 Alpha，尚无 Developer ID 签名。
-包含 Intel 与 Apple Silicon 架构；本轮实机验证来自 Intel/macOS12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build125/Markeen-0.1.0-alpha-build125.zip" length="5667502" type="application/octet-stream" sparkle:edSignature="lqcWV8hSKXM7J36RFwIFNQ53Kor7E3K+k/2V8MuBbKyMsyOVOFIzRtQJ+Ckts1oKUVOlQsy5xgnHfhDuliYhBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: EXi0pgUpUhJNWvVWkD9WRZA6RzPGbwpGfpCywRhfBWELk6ko4Yc4LysRZuEyfkr63lyjlPt4jGWXflXYxiyjBQ==
-length: 1799
+当前仍为未公证 Alpha。
+包含 Intel 与 Apple Silicon 架构；本轮运行验证来自 Intel/macOS12。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build126/Markeen-0.1.0-alpha-build126.zip" length="5676463" type="application/octet-stream" sparkle:edSignature="XUVjxZTtlRXvN3xtAzmZJIeO7nfX/ICwX8NRVa1iQC9p9pMLQRyxtU9SqSegnKDiOStmfy59pTJ1pu1MF2c/Dw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: Inu1jB0VXY0OZUrncNAT63por9nOlpOkdzB9xV8/NW7RZlHZ5XjQp3FIpdO3GTxwzYlPKavaGbIjSm75ZhGIDQ==
+length: 1574
 -->
