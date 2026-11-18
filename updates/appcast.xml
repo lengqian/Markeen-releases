@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 165</title><sparkle:version>165</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 165</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 165
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 166</title><sparkle:version>166</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 166</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 166
 
-整理文档菜单、改动入口和目录选中态
-- 打开文档菜单时，代码工具栏和「展开表格」按钮退到菜单后面。
-- 有文档改动时，工具栏显示一个带圆点的「查看改动」入口。看完可以回到原来的阅读位置和选区。
-- 目录当前章节沿用文件列表的选中底色和圆角。长标题仍可换行。
+收敛正文悬浮工具的显示边界
+- 表格或代码块只在窗口底部露出一小部分时，暂时隐藏无法完整显示的操作栏。滚动到足够空间后恢复。
+- 复核窄窗、放大字号、目录与查看改动组合使用时的选区和阅读位置。
+- 保留文档菜单优先层级，以及展开表格中的正常操作。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build165/Markeen-0.1.0-alpha-build165.zip" length="5783841" type="application/octet-stream" sparkle:edSignature="dBQA5zz7IfnbfkS2yKnUy5yppFLSQqxyj8gx5OmX+3B8fWsU2S0IKn2snIGtoU5S+dFDqApymAZOHyFJ0A0+Cg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: mlD3CJGunIG2s0+IKxNq852TfpPYaqOccRQwRuAWv2Q/j/5xyV0lfAGIxqUZgyHGPeRUvjOLAEPolU/1unlBBg==
-length: 1478
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build166/Markeen-0.1.0-alpha-build166.zip" length="5783863" type="application/octet-stream" sparkle:edSignature="qYIsQQdoKeorUG5PCN7kuP7uotrx1NTVHiYM+Llc+TwVyoIkiugW/lneHXtzyXJTOCSiRxIFdZp40vpKXoRzDQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: HyjtRy5dF/Od3CrHnVHWRiXqQzA3j0EW11YNygu6Y53fe+NyYrdP2fSwH52317SjO8rhfL70IxfGIc4ryuLaDw==
+length: 1463
 -->
