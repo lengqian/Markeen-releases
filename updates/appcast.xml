@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 161</title><sparkle:version>161</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 161</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 161
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 162</title><sparkle:version>162</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 162</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 162
 
-跨项目查看更新，能接回原处
-- 连续查看多篇更新时，切回项目或用历史往返，可以从更新列表接着查看，并回到原来的搜索和阅读位置。
-- 即使查看时调整了窗口大小，或原文前面插入了新内容，只要原阅读位置仍能从文字辨认，就会定位到原句。
-- 对照期间文件再次更新时，点「查看最新改动」读取新版，之后仍可点「返回原处」。
+同名文档更容易分清
+- 搜索结果和文档顶栏的目录路径更大。搜索里保留区分同名文件的目录，窄窗优先显示离文件最近的目录。
+- 查找、目录、保存、返回阅读以及窄窗的阅读外观标签更易辨认。
+- 正文继续使用 17 px 的默认字号，可在「Aa」里按个人习惯调整。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build161/Markeen-0.1.0-alpha-build161.zip" length="5779337" type="application/octet-stream" sparkle:edSignature="zBlzE60vriuOn3Txo0L4eQZD9UwRE0TG/rlqxhpYZ3mFzH0jjols+ifTWJZQMcx/XaXHYKqn5RRFZvtA5/3ODQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: SFUr06KvQ+jRd86TdqWHLrgmRX93IuZ0RTPtkD3Oa0a8g8HFMCLdawORp3ONJYCslHkCzTa8YBgjFDgaziawBA==
-length: 1559
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build162/Markeen-0.1.0-alpha-build162.zip" length="5779575" type="application/octet-stream" sparkle:edSignature="lfrqkxvU8FryqRFzwBeKEd54CiqNnNOPXeHvOj9ux7n1TDR+VItjSj9Tbee0DrIveocDTSg+y3t3Z+b4HlJmDQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: ojt8Lflmpp4xn9uaxuCIVOSxXVjKqOdfqH5yXoaGd5sQKfm9jLhbqk7oX2bX/ZrITupMYqVybRVnRlLMTnUcCQ==
+length: 1460
 -->
