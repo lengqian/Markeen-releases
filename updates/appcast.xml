@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 127</title><sparkle:version>127</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 127</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 127
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 128</title><sparkle:version>128</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 128</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 128
 
-合并后继续原处
-- 生成合并草稿后保留源码选区、方向与阅读视口。
-- 采用前文的外部改动时，选区随文字增删移动。
-- 从合并草稿返回阅读、切换文档再历史返回，继续原段落。
+恢复草稿，继续原处
+- 保留草稿并退出后，恢复源码选区、方向和原段落。
+- 恢复查找条件，并按视口中的文字位置接续长文。
+- 打开文档仍先展示磁盘内容，由你明确选择恢复草稿。
 
-保护正在编辑的内容
-- 对照期间文件再次更新，需要刷新并重新选择。
-- 合并前保留备份；生成草稿不会直接写回源文件。
-- 保存前检测磁盘版本，避免覆盖新的外部改动。
+找回合并前备份
+- 修复保留当前未保存输入后，备份恢复被误拒绝的问题。
+- 恢复前备份当前输入，载入本机草稿，不直接改写源文件。
+- 恢复草稿时若磁盘已更新，继续提示对照并保护新版本。
 
-当前仍为未公证 Alpha。
-包含 Intel 与 Apple Silicon 架构；本轮运行验证来自 Intel/macOS12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build127/Markeen-0.1.0-alpha-build127.zip" length="5678365" type="application/octet-stream" sparkle:edSignature="ZMHGW8py8tA95E7yof3fxkG1BM88DnbhKj2/GNY/PwAWuNCdaXszPIVm9RzOk8ViOTyV2qIBvzSuYTBKJi+fCg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: kRTK1AHuu+3UxgoJKnKjO5ksdpfYRGw6ohvqselWNXa9fTvvUuQ/Dr4tngBslwMA63shfjg3pqEAcw9K7vQSCg==
-length: 1622
+旧草稿仍可恢复；附加位置信息无效时不影响文字读取。
+当前仍为未公证 Alpha。本轮运行验证来自 Intel/macOS12，包含 Apple Silicon 架构。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build128/Markeen-0.1.0-alpha-build128.zip" length="5718803" type="application/octet-stream" sparkle:edSignature="TXEkZJzrlxrrbUjqGHeJzYefv+CL+Pk0aEeXfkxIGHcX4Lh/LW8z6uwUAXC3UG02HnmHuetBGGv1YQr34sVECw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: aj6pyxa+d23z1bQiwwgM90ddVAkal7mObIuWMWgBh4BK2Vj28QmrlN4NynbKUolvumN8BsNrmZ5tvnyqP40sAg==
+length: 1723
 -->
