@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 146</title><sparkle:version>146</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 146</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 146
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 147</title><sparkle:version>147</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 147</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 147
 
-带特殊字符的路径也能正确跳转
-- 文件或文件夹名称含有 #、?、% 时，正文链接、链接预览和插图仍按当前文档所在目录定位。
-- 本文章节链接和阅读变化里的章节链接能定位到正确的标题，历史可继续往返。
+当前文档的搜索结果可以往返
+- 从项目搜索打开当前已读文档的正文结果时，直接跳到匹配段落。
+- 后退回到原来的阅读位置及篇内查找词，前进回到匹配段落。
+- 含有未保存草稿时，沿用原有的保存与离开保护。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build146/Markeen-0.1.0-alpha-build146.zip" length="5739019" type="application/octet-stream" sparkle:edSignature="zQl0dwr7iOvx4KT4lKdraDWMsDPQcBUY5wfXlXWHv4f3oODxW0RMYPrVFtO2kQQwg7s7qn9oFNK3nG1TIItuBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 920aWEgKehMq4NejyJUq/l6exwNka/vZnsuyfrHRrwmN7tuT/rheZV8xYIxMIdvKALbaYUIh1Erek32BXovABA==
-length: 1387
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build147/Markeen-0.1.0-alpha-build147.zip" length="5739216" type="application/octet-stream" sparkle:edSignature="cOlqtYN3e1fvPmRoS1Un/rrz/d7tyxdWlb44FsbvvWE4BWdoy1ka+2N5nm91jSCoRgCK7qqgMpjD8wUvRyGSAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 3bO/h9Y6H8PBrCc8GynmCReaOKCYWpevxUV2e12yPSZ4PkLhlf6HVfaBeTQ5MdcVsloFJM8gB2EhQ3TT0WJyAA==
+length: 1394
 -->
