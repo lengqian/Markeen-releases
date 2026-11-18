@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 134</title><sparkle:version>134</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 134</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 134
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 135</title><sparkle:version>135</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 135</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 135
 
-打开项目先读到合适的文档
-- 支持将根目录的 README.md 或 README.markdown 作为首次阅读入口，文件名不区分大小写。
-- 上次的文档仍可读取时，直接接着读。文件已移动或入口无法读取时，尝试打开项目中可读的 Markdown。
-- 暂时没有自动打开的文档时，界面可直接展开文件列表。
+链接失效时可以查找同名文档
+- 项目内的 Markdown 链接找不到文件时，悬浮预览和点击提示都提供「查找同名文档」。
+- 搜索会带入文件名，显示匹配的文档及路径。可以修改搜索词，或从结果中选择要阅读的文件。
+- 查找前保留原来的文档和阅读位置，打开结果后可以通过历史回到原处。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build134/Markeen-0.1.0-alpha-build134.zip" length="5724905" type="application/octet-stream" sparkle:edSignature="QsZKmaJRCtR3fZgqu9ub/TBNdw6xiwAbfTxPYOHaOYpz5FsB9z8QilDE3DH399AqqiLI9+6HxPBdUfIIZFD3BQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: MWugzS0x0f0BVjyo+EtqCcSvGFlt/69KQBveWxddyaDzuIpL8WTjt/D5A1UMLkm/Uyt3GSUZ2LovAYFS53jYAQ==
-length: 1476
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build135/Markeen-0.1.0-alpha-build135.zip" length="5726825" type="application/octet-stream" sparkle:edSignature="c+N5Baj2FRl6fyCgB27x0I4CJuoLEN0vB8tVr2NlYBsceeANmVk8houenvbuC1T8GUZdaJU0Wt7Rxk3RQVcgDw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: +GHePUHsI4rAbbPP92h1WvFQ4of1pe1OYScXl4J+OkKYqsIUkgHT906Enq4JW+6PAy5Kc3iCJfbvWnajjKlLBA==
+length: 1494
 -->
