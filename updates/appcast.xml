@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 143</title><sparkle:version>143</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 143</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 143
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 144</title><sparkle:version>144</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 144</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 144
 
-多列表格里的长路径更易读
-- 长路径、网址和无空格标识符所在列获得更宽的显示空间。
-- 放大字号时，长内容列的可用宽度随文字增加。
-- 两列表格沿用自动布局，切换固定首列时保留文字选区。
+打开新项目时更快读到内容
+- 当项目里有正文可读时，自动打开优先选择有文字的文档。
+- 有文字的根目录 README 仍是首选。
+- 空白文档仍可手动打开、编辑和按上次阅读恢复。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build143/Markeen-0.1.0-alpha-build143.zip" length="5734899" type="application/octet-stream" sparkle:edSignature="44xdcarjqkvyIETo7PyH1Fsc53pAhvcQOG+SeUJJo1setqsetddRW3z3Oaz1fHMzT7zUVBAlP5CxGrBRcqQZBw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 7JRnWWoXl+TYdMD2MCazPgs9tIqeM7Lig2Zo0Cfj3NBomZpMdxX9Wb+yL0LQzWRI6amrwpGaVDrPx+cLKaDLAQ==
-length: 1373
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build144/Markeen-0.1.0-alpha-build144.zip" length="5738857" type="application/octet-stream" sparkle:edSignature="hc1HTXHlamc9fSv/R5TYLMFliJ2uAyKY8dIaHk3eL2zzzwRWWbxgnB5cygcduekiuvSC+HxFmHCcS5zZPH65Dw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: PS3jn6oKGORmO1/aWyl7O4Q6gHhWgd76joi65hv59CNsbCPqB5/p1Xge6ruUk1i51zHhQW9unHGe9YvtN8qvCA==
+length: 1345
 -->
