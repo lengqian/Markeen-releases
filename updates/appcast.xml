@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 139</title><sparkle:version>139</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 139</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 139
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 140</title><sparkle:version>140</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 140</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 140
 
-链接预览的键盘操作更顺手
-- Esc 关闭预览并返回原链接，卡片保持关闭。
-- Tab 或 Shift+Tab 从正文的原链接继续浏览。
-- 鼠标停在链接上时，Esc 仍能清除篇内查找的搜索词。
+项目搜索的空结果更容易继续操作
+- 正文仍在建立索引时，结果区显示「正文准备中」。
+- 索引刷新后，键盘焦点仍留在清除操作上。新结果出现时，回车依然清除搜索。
+- 搜索框提供独立的清除按钮，清除后回到之前的文件列表位置。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build139/Markeen-0.1.0-alpha-build139.zip" length="5729901" type="application/octet-stream" sparkle:edSignature="yE+Cf6QAhXXUflLo/mZVRlz2p6IbzjDCgbLQWDTJcOQuKc8C3PWZhVxHEfaqCxU0KKk6b9gqUOQK8kiQgvSYDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: ZxLoO5sG72SaKUhLBN5eubYUNEXNDWB63FTh1fflfUmC4hhDIwLXYjMinVxzI8Y70gnlbyPGYAgJpGYAxqofDg==
-length: 1339
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build140/Markeen-0.1.0-alpha-build140.zip" length="5730354" type="application/octet-stream" sparkle:edSignature="V6z3esi6NpehVkYBs1XgWpQyx4MvjRFaTZfxQQfwOznnTokDzLLytuVUD3YAlvBDURc9z2mFTvQjgknS6gLpBg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: IPPc/FmHc0KWC+NqeOo3wfEQab99MFcl9M0fwuFvokyfoCyJoIXHboAht5e4T0vnjCTG5DTvvLE3fOQms24eAQ==
+length: 1424
 -->
