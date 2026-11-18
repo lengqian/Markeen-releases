@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 148</title><sparkle:version>148</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 148</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 148
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 149</title><sparkle:version>149</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 149</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 149
 
-项目搜索回车打开正确的结果
-- 在搜索框按回车始终打开排序第一的结果，滚动到很深的列表位置时也一样。
-- 用方向键选中一条结果时，回车打开该行。后退恢复原阅读段落和原先浏览的结果位置。
+打开项目先进入可读正文
+- 首次打开有可读内容的项目时，纯 HTML 注释的占位文档会让位给可读文档。
+- 手动打开这类文档或空白文档时，阅读区会说明当前状态，并提供直接编辑源码的入口。
+- 恢复上次打开的文档时，仍回到之前的文件。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build148/Markeen-0.1.0-alpha-build148.zip" length="5739229" type="application/octet-stream" sparkle:edSignature="Rv1vut6/r2Fk/kGkWztCV2Rg1IiwYmQw6rE7AVgMrlPBWH5IG362HSVKSHBBw/V/Tej7/Wn1xiP3HlQUBaETBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: D7+VAE3U9CnX3KDKXgvpL65wKf2QUDoSrsxcjlDOosJSTImAGw7NRdIn/yxidnix7MN/u5YWV5VipSmgz/f4Ag==
-length: 1376
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build149/Markeen-0.1.0-alpha-build149.zip" length="5745794" type="application/octet-stream" sparkle:edSignature="Ydo4d2ASgOpwGIpq3in1SiWb4MpivxAbvPariSPgpvvEFTa+/11w9mqI1Kn5CxG+9zWmtn69DL/qG4brEHqQDg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: WLMN0X+pNxEXzajhyihpDpZ9TG1v6OW3kZqTihVKArLc56IiaMS7Mn04vaTfiTs/s7p90EVb7Ywj9U/pbDVfCg==
+length: 1430
 -->
