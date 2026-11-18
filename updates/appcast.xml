@@ -1,19 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 128</title><sparkle:version>128</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 128</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 128
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 129</title><sparkle:version>129</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 129</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 129
 
-恢复草稿，继续原处
-- 保留草稿并退出后，恢复源码选区、方向和原段落。
-- 恢复查找条件，并按视口中的文字位置接续长文。
-- 打开文档仍先展示磁盘内容，由你明确选择恢复草稿。
+文档提示更清楚
+- 外部更新、保存冲突和草稿状态在阅读区下方显示，正文保持可见。
+- 磁盘有新版时优先显示「查看差异」，旁边提供载入和保存副本。
+- 本机恢复草稿有独立标识，编辑区说明草稿是否已写入本机。
+- 恢复备份后可以从同一处查看或载入源文件。
 
-找回合并前备份
-- 修复保留当前未保存输入后，备份恢复被误拒绝的问题。
-- 恢复前备份当前输入，载入本机草稿，不直接改写源文件。
-- 恢复草稿时若磁盘已更新，继续提示对照并保护新版本。
-
-旧草稿仍可恢复；附加位置信息无效时不影响文字读取。
-当前仍为未公证 Alpha。本轮运行验证来自 Intel/macOS12，包含 Apple Silicon 架构。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build128/Markeen-0.1.0-alpha-build128.zip" length="5718803" type="application/octet-stream" sparkle:edSignature="TXEkZJzrlxrrbUjqGHeJzYefv+CL+Pk0aEeXfkxIGHcX4Lh/LW8z6uwUAXC3UG02HnmHuetBGGv1YQr34sVECw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: aj6pyxa+d23z1bQiwwgM90ddVAkal7mObIuWMWgBh4BK2Vj28QmrlN4NynbKUolvumN8BsNrmZ5tvnyqP40sAg==
-length: 1723
+当前为未公证 Alpha。支持 Intel 与 Apple Silicon。
+本轮运行验证来自 Intel macOS 12。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build129/Markeen-0.1.0-alpha-build129.zip" length="5721157" type="application/octet-stream" sparkle:edSignature="qi3BIn+N+Q6awGO+NkuaVd3ByJRehOmyIK7rFpgdiPNCwm7yxgqv8UDl+aYkjYg4F0iGyhv81++MyK3fVOFqAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: +6B2r1hxqlbQ+nuuAq+wZB9uichZoNDgrF9/8KDtd7GIuntYIjTjLcWcMGprOgGcRxaWzHNrUDEpRzBg5XAwBA==
+length: 1497
 -->
