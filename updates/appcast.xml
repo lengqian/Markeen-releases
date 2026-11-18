@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 147</title><sparkle:version>147</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 147</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 147
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 148</title><sparkle:version>148</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 148</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 148
 
-当前文档的搜索结果可以往返
-- 从项目搜索打开当前已读文档的正文结果时，直接跳到匹配段落。
-- 后退回到原来的阅读位置及篇内查找词，前进回到匹配段落。
-- 含有未保存草稿时，沿用原有的保存与离开保护。
+项目搜索回车打开正确的结果
+- 在搜索框按回车始终打开排序第一的结果，滚动到很深的列表位置时也一样。
+- 用方向键选中一条结果时，回车打开该行。后退恢复原阅读段落和原先浏览的结果位置。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build147/Markeen-0.1.0-alpha-build147.zip" length="5739216" type="application/octet-stream" sparkle:edSignature="cOlqtYN3e1fvPmRoS1Un/rrz/d7tyxdWlb44FsbvvWE4BWdoy1ka+2N5nm91jSCoRgCK7qqgMpjD8wUvRyGSAw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 3bO/h9Y6H8PBrCc8GynmCReaOKCYWpevxUV2e12yPSZ4PkLhlf6HVfaBeTQ5MdcVsloFJM8gB2EhQ3TT0WJyAA==
-length: 1394
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build148/Markeen-0.1.0-alpha-build148.zip" length="5739229" type="application/octet-stream" sparkle:edSignature="Rv1vut6/r2Fk/kGkWztCV2Rg1IiwYmQw6rE7AVgMrlPBWH5IG362HSVKSHBBw/V/Tej7/Wn1xiP3HlQUBaETBQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: D7+VAE3U9CnX3KDKXgvpL65wKf2QUDoSrsxcjlDOosJSTImAGw7NRdIn/yxidnix7MN/u5YWV5VipSmgz/f4Ag==
+length: 1376
 -->
