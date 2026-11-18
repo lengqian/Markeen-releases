@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 168</title><sparkle:version>168</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 168</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 168
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 169</title><sparkle:version>169</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 169</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 169
 
-跨视图接着看同一处改动
-- 正文和逐行查看互相切换时，接续当前改动，避免回到第一处或旧位置。
-- 连续跳转后再切换视图，继续查看刚定位的改动。两种视图仍保留同一处改动内各自的阅读位置。
-- 修复只读逐行跳转时的焦点错误，让计数随跳转正常刷新。
-- 复验多处改动、窄窗和字号变化后的工具栏、原正文选区及返回阅读位置。
+直接调整阅读外观
+- 去掉「更多排版」，字体、行距与阅读宽度直接呈现。宽窗按行对齐，窄窗紧凑分列。
+- 「恢复默认排版」收为底部描边按钮，采用中性悬停和按下反馈。已经使用默认排版时显示为不可用。
+- 恢复排版继续保留当前主题，关闭面板后接着原来的位置读。
+- 复验正文选区、字号与对照查看的组合操作。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build168/Markeen-0.1.0-alpha-build168.zip" length="5784137" type="application/octet-stream" sparkle:edSignature="85SVu7bIGAaD/kAHO/V9f3IAKDhz+A0DoyM9bZosiIfG485G35wgDyZJT8IXIIkCTFjbVqIF2g9hIVwwDFDYBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: B1sss9hVjRUVrs8L/sd58407lV+VQcnq03zmbYygz/NqcclWdVvHFfnzW6F6KqFQ7ft/DxXg4pS5gpHfgV8OAg==
-length: 1559
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build169/Markeen-0.1.0-alpha-build169.zip" length="5784016" type="application/octet-stream" sparkle:edSignature="ePUIQ1Pgk1c/1mQOeEoePKjdwYEAePh6Jw/y553E9ZibyUnniykhdIcrxa6aKTH47xc6ujBtBa1B2YgKZKYyCA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 6RraEBKYiumxqKNIx8RDDP5pc+jmJXu+re6C2zxfD89TOyef2FbvL9rUOQZNWeBAdH1xRNcPc4gwcSA7ussjAw==
+length: 1538
 -->
