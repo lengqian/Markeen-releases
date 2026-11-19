@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 175</title><sparkle:version>175</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 175</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 175
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 176</title><sparkle:version>176</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 176</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 176
 
-从列表移除项目
-- 从顶部项目下拉的「管理项目…」中，选择一项「从列表移除」。
-- 移除当前项目后，可以继续阅读或编辑当前文档。原文件、阅读位置和未保存内容均保留。
-- 点「重新添加项目」或重新打开原文件夹，即可恢复同一个项目。读过的单篇文档仍可从「最近」打开。
+演示目录与字号
+- 演示目录按 Markdown 标题级别缩进，标出当前章节，长标题可以换行。
+- 展开目录后，用上下键浏览，回车跳转。按 Esc 收起目录，继续按 Esc 退出演示。
+- 演示时用 A− / A＋ 或 ⌘− / ⌘+ 调整字号，⌘0 恢复默认。调整只用于当前演示，继续留在原段落。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build175/Markeen-0.1.0-alpha-build175.zip" length="5823794" type="application/octet-stream" sparkle:edSignature="ZvLfSlGI3r4VK1U/2AhU+bDXsuTyIteiOxOf9swP4Nay3drQWZZlbio6OpMzmtsvtJ13Cr29FbgRzx7kv/wNBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 7+CxJCOJ+CVCuYuIV/bZh5E/N+q/q2b1LBIDKG2gdJsfqZ2J7wnwSmR1UQnvzk84VawTGXcE9Q9hu4QLo7gBDg==
-length: 1487
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build176/Markeen-0.1.0-alpha-build176.zip" length="5824881" type="application/octet-stream" sparkle:edSignature="26VdkY2iY5ZzqB5kzJ448IBx4UTaz+zeu+l+u8I4ko8ATjBZiSObm/3OrkRbIa6iMEoJZHGMqV/g97Hj5TkXAg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: nwX3xKizWOCdd4vucKBw/1dcsfsowPmIgoRnNbTB82IdFYhu7pdzgiWMGCXaQYRTqhrqulywsAFf2wEavPshAg==
+length: 1471
 -->
