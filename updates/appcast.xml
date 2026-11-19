@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 184</title><sparkle:version>184</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 184</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 184
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 185</title><sparkle:version>185</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 185</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 185
 
-目录高亮跟随阅读
-- 新章节进入正文可视区上方约四分之一时，目录会点亮相应标题。
-- 小幅回滚时保持当前高亮。只有当前项超出目录可见范围时才跟随滚动。
-- 跳到目录项、章节链接或历史位置时，明确的章节优先。自然滚到文末时，高亮最后一节。
+继续编辑时明确显示已恢复的草稿
+- 点击「继续编辑」后，文档顶部显示「未保存 · 已恢复本机草稿」。点击「保存」才会写入原文件。
+- 恢复草稿时保留上次的编辑位置和选区。草稿没有记录编辑位置时，从与原文件的第一处差异开始。
+- 返回阅读时，恢复进入编辑前正在看的段落和选区。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build184/Markeen-0.1.0-alpha-build184.zip" length="5818591" type="application/octet-stream" sparkle:edSignature="DEw3nIlk+iR5JJp2K/kI6HKQCs+6VgBZxT3jh8Fc7/CdRRzq7v1nmOO62FwFlvvxnBwDdrsXsIS6CptWYW/AAQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: PrJP8q3yOt0pUzgVIipBXlsh5qTyiUvorZ5MXnIg4WZdAfIg8liJyc7ksfr4LYUPWnv+QO6WKkmMj+G+FW2DBA==
-length: 1448
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build185/Markeen-0.1.0-alpha-build185.zip" length="5818947" type="application/octet-stream" sparkle:edSignature="GQxb7qRhYbjavKlWiD7JlzONxMUZTUwl7ajru+ciwej9MOTr/M5hzgvrdI94z1VidTVE/3VsvYzu5dp45DamDQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: Qyt3Cx46pTQrfnhG48uua/LSuDM4ecKWB0v2AVE5MVLMfx2LPQjGQolFltqOoFtERxHmLCxJcKbr9G+yAe7cBQ==
+length: 1500
 -->
