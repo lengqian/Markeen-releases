@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 177</title><sparkle:version>177</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 177</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 177
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 178</title><sparkle:version>178</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 178</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 178
 
-演示表格与代码接续
-- 演示中展开表格后，可继续用 A− / A＋ 或 ⌘− / ⌘+ 调字号，⌘0 恢复默认。固定首列、表格位置和选区可继续使用。
-- 代码折行来回切换，恢复本次演示内记下的横向位置。
-- Esc 从表格返回演示，再按 Esc 回到演示前的阅读位置和选区。
+演示主题一键切换
+- 在演示工具栏点「浅色」或「深色」，可以现场调整投屏的显示主题。展开表格时也能切换。
+- 切换主题保留阅读位置、选区和表格的固定首列。可继续用目录跳转和字号快捷键。
+- 主题只作用于本次演示，退出后恢复原主题、阅读位置和选区。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build177/Markeen-0.1.0-alpha-build177.zip" length="5825359" type="application/octet-stream" sparkle:edSignature="2CTKAZUW34bfBGtiiH+ixGiT7GPe++z6i70/pwNz0TAeSeuI4tF3mYcu4VcOVpTLwQJLILTZ02+unPQOzB93Aw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: wzueG3O7lQOSzG8D3ZsGCn8VYwU3kNCb9L+3xxnod3+ExQe2MzngsGM4WLtH9VeMXi3gb2IV/a1FttPUGEhDCw==
-length: 1457
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build178/Markeen-0.1.0-alpha-build178.zip" length="5825734" type="application/octet-stream" sparkle:edSignature="0Dl7fuPXa23V4TgAMlGZwO/Ut0Dqf5u+iYiSk8aVabrdBJAnM44tYfLL97uorKg6IwXtzOlA1+ekjqCWr+OXCg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: XT3WjGtwa1ZCHInny5+BiWAdlZ1AoSK3/fK/CIhFnKqMWZ7phEtTaDWKymGUJt7W6zQf/RbnpkfYZaSXLn6eAQ==
+length: 1463
 -->
