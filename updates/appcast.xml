@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 183</title><sparkle:version>183</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 183</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 183
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 184</title><sparkle:version>184</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 184</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 184
 
-Finder 定位与同名替换
-- 外部工具以同名文件替换文档后，可从文件名菜单直接在已打开的 Finder 窗口选中新文件。
-- 交给 Finder 前检查文件类型。原文件位置变成文件夹或文件不可用时，在 Markeen 提示。
-- Finder 显示选中项后，回到 Markeen 可直接继续阅读或编辑。
+目录高亮跟随阅读
+- 新章节进入正文可视区上方约四分之一时，目录会点亮相应标题。
+- 小幅回滚时保持当前高亮。只有当前项超出目录可见范围时才跟随滚动。
+- 跳到目录项、章节链接或历史位置时，明确的章节优先。自然滚到文末时，高亮最后一节。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build183/Markeen-0.1.0-alpha-build183.zip" length="5818379" type="application/octet-stream" sparkle:edSignature="9+l6fc33le3T0tXaqndeMmi1JiygrtXnAT2QrvqeISVsD6MJppWHPpNfqMM33BTpKE7RX4wNwq4h2UoyRxrAAA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 0B1iyYMW1E/ltl6jTqTKhd0FtelpgO14UTLRjOAwv4Ps1bEIUmj9Lr/k98LvhVNV9qmryyIQMx/7rSPv+/QpAQ==
-length: 1457
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build184/Markeen-0.1.0-alpha-build184.zip" length="5818591" type="application/octet-stream" sparkle:edSignature="DEw3nIlk+iR5JJp2K/kI6HKQCs+6VgBZxT3jh8Fc7/CdRRzq7v1nmOO62FwFlvvxnBwDdrsXsIS6CptWYW/AAQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: PrJP8q3yOt0pUzgVIipBXlsh5qTyiUvorZ5MXnIg4WZdAfIg8liJyc7ksfr4LYUPWnv+QO6WKkmMj+G+FW2DBA==
+length: 1448
 -->
