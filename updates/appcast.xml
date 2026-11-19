@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 172</title><sparkle:version>172</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 172</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 172
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 173</title><sparkle:version>173</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 173</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 173
 
-打开自己的项目，接着上次读
-- 欢迎页明确区分打开自己的 Markdown 和用示例查看改动。
-- 从欢迎页或「帮助 → 快速上手」查看打开、搜索和查看改动的入口。
-- 安装与使用说明更新到 Build172。用实际项目文档验证搜索定位、查看更新、返回原处和重开后续读。
+复制章节链接
+- 在项目文档右上角「⋯ → 复制章节链接」复制当前章节的 Markdown 链接。
+- 对方打开同一项目后，可用「⋯ → 打开章节链接…」粘贴跳转。链接也可以写入同一项目的 Markdown 文档。
+- 链接保留项目相对路径和具体章节。中文、同名文件和重复标题可定位到各自的位置。
+- 拖入 Markdown 文件时，松手提示显示在目录和文档工具之上。拖放结束后恢复正常阅读。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build172/Markeen-0.1.0-alpha-build172.zip" length="5788856" type="application/octet-stream" sparkle:edSignature="nk0ECM2D+m8OYac3F+xGztR5ZagWZDYg1JCs6Wm8OUXtDkcOh9n0OMVk+WBq2Qp1h9pIBhwf+RL5xQkJxsccAA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 2SHHg1JdzgmJTrOY8XM8Q9DTMqcPM2d8BHBJPLa24Jgi8VNZE/gIBFvv1bPDRqRAtncodlefh4k34lZdAtMqDQ==
-length: 1457
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build173/Markeen-0.1.0-alpha-build173.zip" length="5799450" type="application/octet-stream" sparkle:edSignature="R1Blba4cF/zVqqxvaK2TTK6MynvgKFyZ8qqiNcXk4JMDLsT+Lvh5p4If/sn6m6iWfGK0/GuXyHUlR1c0LNuhBQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 6axM52gPfJpeKP9Fsm/AGiUrS6nrAlVrmnVO0yV28uGgSArV8hX3z7XUn/VKGVyC0flHBgBtihZTx06WADtCCw==
+length: 1608
 -->
