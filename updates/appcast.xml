@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 201</title><sparkle:version>201</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 201</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build201
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 202</title><sparkle:version>202</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 202</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build202
 
-- 查看改动时可以直接选择「安装并重启应用」。重启后回到进入对照前的阅读或编辑位置。
-- 若有未保存的修改，会先询问如何处理。取消重启后可以接着对照。选择了合并内容时，应用会提醒先处理这些选择。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build201/Markeen-0.1.0-alpha-build201.zip" length="5841278" type="application/octet-stream" sparkle:edSignature="19SXF+sJ93YNb4EMrLracTgOlyqnWSg6lxwIIwXYT9YQ4tI89QsX7KjKMPQ9gKfjK96OohFhDGH8ibIO+GXUAg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: fP4aEaXxUDptPHifROrq68AC+jK+1dbvUpfToUOjsetlMobxuJ+ev8nHM09usQFMKLSVQzDFlzTb0n1qa0DbDQ==
-length: 1323
+- 按正文查看改动时，同一处新增或修改包含多段正文和列表，会从第一段变化开始标记和定位。
+- 同一处改动里的正文和列表项使用一致的底色。列表内互相独立的改动仍跟随各自条目。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build202/Markeen-0.1.0-alpha-build202.zip" length="5841377" type="application/octet-stream" sparkle:edSignature="tXcjyWyrs3MmVFPJf30/H4pVWPWP3suDPj2wyrQ5lr48PjJmcKlM7jsS90DVwymoYF1f1qguHR/uWYdaZeAwDw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: R8lnXwAldOnv6zf9WRVPwz6CPaYSMCvtX2vVUyQgus3DzaKr4Xa9s5hl/F07ac0UGUz/PCagDauS5JBcbltaAg==
+length: 1290
 -->
