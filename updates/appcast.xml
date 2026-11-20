@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 198</title><sparkle:version>198</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 198</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build198
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 199</title><sparkle:version>199</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 199</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build199
 
-- 下载更新后，如果当前正在查看改动、输入或保存，安装暂停时会说明原因，并告诉你如何继续。
-- 有未保存修改时，安装前会在当前窗口询问保存、保留草稿或取消。安装重启后接续阅读或编辑。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build198/Markeen-0.1.0-alpha-build198.zip" length="5839517" type="application/octet-stream" sparkle:edSignature="Sp6lPPY6g2Sc49kcf1YQY1jZEr5W5FIPw5pAXSntznD0GeKTMmx7G7T6p0fMT/ZcyZehd9VPMDrfyrBXwIc0Cg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: HqxFQV1ONfGht2WrwogPTRUQHkbanftlOhilSR8/A+qsVW7vAJ/lSSgD3tCkyn1kceqJfp1pHS54RZ380N1aAA==
-length: 1305
+- 按正文查看改动时，列表标记跟随对应条目。连续修改同一个列表时，可以直接在每处标记下看到更新后的内容。
+- 展开原文会标明修改前和修改后。列表原文聚焦改动项，保留原来的序号和层级。
+- 此处删去正文，或改成仅在 Markdown 源码中可见的内容时，会在对照中说明。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build199/Markeen-0.1.0-alpha-build199.zip" length="5840773" type="application/octet-stream" sparkle:edSignature="hlkbgJzTrRszusepFDcQJdOhPO9l1ytzMyCbmBTPzTPwlguqJiObBicFbWanlkLg3h/fmkLYV3vyJdnREZOpAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: bcNTBYNxPmbTzelRkewi6kOyK1q4APVP+6AGv//mgDPhaIyKmrEWiAyEDjph1cVs1RmX34l9HWn5xiBtygBCCw==
+length: 1408
 -->
