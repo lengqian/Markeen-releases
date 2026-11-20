@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 206</title><sparkle:version>206</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 206</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build206
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 207</title><sparkle:version>207</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 207</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build207
 
-- 在正文对照中点改动标题，只强调标题的短竖线和编号。顶部计数同步，点击时正文停在原处。
-- 键盘焦点提示收在标题附近。「查看原文」可独立展开和收起。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build206/Markeen-0.1.0-alpha-build206.zip" length="5843892" type="application/octet-stream" sparkle:edSignature="paV4W+zTu+38hDGbqqMqCRdOOCKwdpNv3xMnjDkI0/VM9KeG6eSDZVkUh2jqLSjxrHazGHp90z6fvCx5NFbEBg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: zSZAW31BdTU4m0CUoFSMwkk1mVnd1W5ER6YxRrGoD3nXFHicaBW+6lLMxJSqH1wEvT6T0xmhvGpEfNV5k8JQAw==
-length: 1257
+- 正文对照中的改动标题改为普通标签，悬停和点击时保持原样。
+- 用上下箭头跳转改动时，先看到对应的标题，顶部计数同步。键盘焦点保留在标题附近。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build207/Markeen-0.1.0-alpha-build207.zip" length="5843853" type="application/octet-stream" sparkle:edSignature="rKuTo+tMwTSWfz5xpM4tyiFMNhMwIAg7j2bpkTWJDbAQbaYPKyDWXVPS5saAESPe9tQhbrFQajZpLzzn99QFDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: vm+mswFtNbROI+YEnLwTFU4/Sf/MzpPHxK1VcST0XjlxEluxg9E9uTMobLCV7vVLtk/z1UsH+hgHzMilkPY1BQ==
+length: 1248
 -->
