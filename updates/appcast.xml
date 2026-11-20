@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 196</title><sparkle:version>196</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 196</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 196
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 197</title><sparkle:version>197</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 197</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 197
 
-对照新旧段落，宽度和起点一致
-- 左侧色条统一放在改动标题旁。正文仍标出具体字词，整段变化用淡底提示。
-- 展开的原文与新版正文左对齐，并使用相同的文字宽度、字号和行距。
-- 在已有段落里插入或删除源文行时，标为「段内新增」或「段内删除」，并突出对应文字。
+原文对照留白更舒展
+- 展开的原文使用柔和的圆角底色和细边缘，文字与边缘之间留有呼吸空间。
+- 新旧正文仍共用阅读宽度、左对齐、字号和行距。
+- 出现在对照里的原文、原文件或草稿使用对应名称，展开后直接标出正在看的内容。
 
 当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build196/Markeen-0.1.0-alpha-build196.zip" length="5825090" type="application/octet-stream" sparkle:edSignature="qnMYP8TIdOvn4ZN0mro4dtlZHjBb0PAsmZTfXH8zwc6zxpQBR3+JmqeD1jz4Ih8nh8Y+gCHeb5/fQatTC6AuCw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 5KY2hSd/yvTVLzVPG8fARBAloY8uYT/7eMP+pYvHKfjx6BZsC8foyWbBY3LsNg6fXOFiEdDhOTbghzEigYoNDw==
-length: 1478
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build197/Markeen-0.1.0-alpha-build197.zip" length="5825332" type="application/octet-stream" sparkle:edSignature="dNcjs2Td5TVywVPLPiIh1mb3imngb6iG2zPcBj5Aq3Vqq4sD7iSgWpmdX+vNStuUBXTbANStXGEK21SmIahTDw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: ymrtkdMZAz+ZEg3mExzsOlgy0LiLXD7cIU4nJ2cieOtF3ohDi9Oe/CRvZKqdF+9yYZHooRFXlJntubCnzMoUDg==
+length: 1424
 -->
