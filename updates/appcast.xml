@@ -1,13 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 197</title><sparkle:version>197</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 197</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;Markeen 0.1.0-alpha · Build 197
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 198</title><sparkle:version>198</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 198</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build198
 
-原文对照留白更舒展
-- 展开的原文使用柔和的圆角底色和细边缘，文字与边缘之间留有呼吸空间。
-- 新旧正文仍共用阅读宽度、左对齐、字号和行距。
-- 出现在对照里的原文、原文件或草稿使用对应名称，展开后直接标出正在看的内容。
-
-当前为未公证 Alpha。本轮运行验证来自 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build197/Markeen-0.1.0-alpha-build197.zip" length="5825332" type="application/octet-stream" sparkle:edSignature="dNcjs2Td5TVywVPLPiIh1mb3imngb6iG2zPcBj5Aq3Vqq4sD7iSgWpmdX+vNStuUBXTbANStXGEK21SmIahTDw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: ymrtkdMZAz+ZEg3mExzsOlgy0LiLXD7cIU4nJ2cieOtF3ohDi9Oe/CRvZKqdF+9yYZHooRFXlJntubCnzMoUDg==
-length: 1424
+- 下载更新后，如果当前正在查看改动、输入或保存，安装暂停时会说明原因，并告诉你如何继续。
+- 有未保存修改时，安装前会在当前窗口询问保存、保留草稿或取消。安装重启后接续阅读或编辑。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build198/Markeen-0.1.0-alpha-build198.zip" length="5839517" type="application/octet-stream" sparkle:edSignature="Sp6lPPY6g2Sc49kcf1YQY1jZEr5W5FIPw5pAXSntznD0GeKTMmx7G7T6p0fMT/ZcyZehd9VPMDrfyrBXwIc0Cg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: HqxFQV1ONfGht2WrwogPTRUQHkbanftlOhilSR8/A+qsVW7vAJ/lSSgD3tCkyn1kceqJfp1pHS54RZ380N1aAA==
+length: 1305
 -->
