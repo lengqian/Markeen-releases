@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 217</title><sparkle:version>217</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 217</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build217
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 218</title><sparkle:version>218</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 218</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build218
 
-- 正文对照里的代码沿用当前折行设置，跳转至改动时保留路径和注释的列对齐。
-- 展开原文时，按钮留在标题旁。新旧代码共用横向位置和折行宽度，原文插入标记完整显示。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build217/Markeen-0.1.0-alpha-build217.zip" length="5851959" type="application/octet-stream" sparkle:edSignature="h2ujvHjvjHJSfRBJxlW4kVezhZmRhNHgthfac+Ye46We2Q00GLLwZy6OQ/z3YPDn2jARiTIeUXtL0gpJf2SyBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: QWP4inE56qqPYGoizzAa3kDhrih44EFsGGJ87oUiT0kOwxkjsfrlXw7CQv0EPiaX5dniy5RtA1P9biiPBlkzDg==
-length: 1275
+- 同一代码块的多处改动共用标题，所有编号同时显示。完整新版代码可直接阅读。
+- 「查看原文」沿用正文的操作位置，只展开当前这处涉及的旧行。上下跳转和切换逐行查看会定位到对应的改动。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build218/Markeen-0.1.0-alpha-build218.zip" length="5851928" type="application/octet-stream" sparkle:edSignature="2JoXYLNXoYfHHy+vWHPHLfqsAsF68JvPLJ1toFnleCZOHsJAjK8UIPElURM6W7UO8mriwj8sxPNO2Nu5ItnUCA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: atQEmKu5mpi0LlRKOWUuKZ7jm5LN3rs3bU0DAhyrDafnM4Q8DB5immMpsuFlhy2kPFihC0ir78WZzS4poB8dCg==
+length: 1305
 -->
