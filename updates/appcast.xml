@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 211</title><sparkle:version>211</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 211</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build211
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 212</title><sparkle:version>212</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 212</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build212
 
-- 按正文查看改动时，同一代码块的改动编号贴在各自的行旁。行内新增用局部高亮，整行新增用整行高亮。
-- 上一处和下一处会把变化带进视野。一处中的多段改动在窄窗里无法同时显示时，会在本次对照中折行该代码块。
-- 展开原文后切换逐行查看，可以回到同一处改动及原来的选区和滚动位置。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build211/Markeen-0.1.0-alpha-build211.zip" length="5849091" type="application/octet-stream" sparkle:edSignature="6WjoVlI/8cYhbYzx602cB6RpUfrsDjqHJAAyF3mDnuBzLfRc807bH+3atpxgWbs3BDsT7WNWT2bVm2CvnIhmDA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: gQB65FoPC/0Sj+9lkoLSOCLz3yLeP9stgpvw/cLtVPO4DdvWcbWfOezW2pg+F8AG099/ECJExtusUd4u9x1FDA==
-length: 1440
+- 代码改动的行旁可直接查看对应原文。展开后可在原文对应行收起，代码块布局和改动编号保持对应。
+- 行旁入口与对照工具栏同步，支持键盘操作。切换逐行查看后可回到同一处改动、原文和选区。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build212/Markeen-0.1.0-alpha-build212.zip" length="5849572" type="application/octet-stream" sparkle:edSignature="7hq2RrOilVI/1vhYcf6NtfBlA00iStzBOiwauQco+X8B5kdp3sanUoWyTy757nehruZr/S6cC/EeRbnY5GeoAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: tPWMCLf7UfcmaSELmWbjpXK0UqADZdxrSNhuT+M7BKshpaLffN+dePnUS8A+r8ddzYLKbk6sRCil/7GzYRlIDw==
+length: 1308
 -->
