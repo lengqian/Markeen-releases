@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 272</title><sparkle:version>272</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 272</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build272
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 273</title><sparkle:version>273</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 273</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build273
 
-Markeen 会发现正在打开的 Markdown 被外部工具原地改写。编辑器通过替换文件保存时，也会继续监听替换后的文件。阅读有选区时，新版可等你确认再载入；正在对照时，新更新会提示刷新，刚才的对照仍可继续看。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build272/Markeen-0.1.0-alpha-build272.zip" length="6054813" type="application/octet-stream" sparkle:edSignature="mEXIkz41KyAwWp+L51ftNC85n06O4DM+jxLix8mbiBK11KG8iQ0Zwgg93YlHuHHWnjK25PyMfb0dlVzOydSdBw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: mWZzEx3+barxXELF9ZnH3zM2zlY9ech44ubNxuSKmhp0/zV6swV7fTa7cIrkGCtsSh/FavM3V4Lxr7ZTy9kYAg==
-length: 1301
+对照期间收到外部更新，点「查看最新改动」后仍可在原处核对。即使前面多了一处改动，仍能定位的原文、选区和代码横向位置会保留。已被替换的文字会取消选中。继续阅读新版时，可回到打开对照之前的正文位置。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build273/Markeen-0.1.0-alpha-build273.zip" length="6055490" type="application/octet-stream" sparkle:edSignature="k0jN9bt3ZRrI/XTdrSPChTgTCywFWCy+uX+AMjEIvnPC3CHXS4yja5g9LCHZ0UUAu6ToBA6JQTQYFawbvPa4BA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: FaTy2JFsohjFRcBbBUOlopVpB4GCSCHrQobTuzRV/t5ciFdoXXHePVoH0oOw4Kl0eI+TKfnXKXvGv3dbtcpuAw==
+length: 1310
 -->
