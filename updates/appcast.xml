@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 233</title><sparkle:version>233</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 233</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build233
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 234</title><sparkle:version>234</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 234</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build234
 
-- 项目文件按内容识别文本。UTF-8、带 BOM 的 UTF-16、.iss、.nsh 和无后缀文本都可以在 Markeen 中只读查看，并定位链接引用的行。
-- 自动识别不了编码时，可以在文件详情里选择 GB18030、Windows-1252 或 Shift_JIS。文件内容以纯文本显示。
-- PDF、图片、ZIP 等二进制文件继续提供紧凑详情和「在 Finder 中显示」。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build233/Markeen-0.1.0-alpha-build233.zip" length="5938762" type="application/octet-stream" sparkle:edSignature="Pin+JiE9oUzzJHKWqx4cOHeHpakvksmsuyBEgJGVh2TcXRBQzqZ1RedM+meXB7CwdVw5CQoVxvFXno3qB3jrDA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: YirvCez23Iun7/gf12CZKlGYG+9IzGmMqdIlF53lOdwg4/xD3r8fwMrnil9jiRr9dVXRouBz0lkgiuRLVLesAA==
-length: 1431
+- 从欢迎页或「快速上手」点「用示例查看改动」，直接看到示例文档实际发生的变化。
+- 示例对照从第一处改动开始，可展开原文或切换逐行查看。也可在对照页直接打开自己的文档。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build234/Markeen-0.1.0-alpha-build234.zip" length="5939393" type="application/octet-stream" sparkle:edSignature="wMgcfJUOwQscEnIRvGNLmdRvS0IEYJ59TvGHT67lIW1SnZ/Frvq3n6P4PFNDhkfpoMfpOGxsjEVlO005/QHRDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: H75DX5SBn1Kw4VYnhAcxDqo2lWpGf7a+Ala0X9fvAec3y+MlK3vtyWXsCPDhHegDW/ljat7GxZ0T7lp3JAlGAA==
+length: 1278
 -->
