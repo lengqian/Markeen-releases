@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 225</title><sparkle:version>225</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 225</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build225
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 226</title><sparkle:version>226</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 226</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build226
 
-- 展开原文后在正文与逐行查看之间切换，同一布局下恢复原来的滚动偏移，包括长篇原文的末尾。
-- 复验浅色和深色的范围淡底、精确代码高亮及窄窗选区。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build225/Markeen-0.1.0-alpha-build225.zip" length="5855973" type="application/octet-stream" sparkle:edSignature="w0GmtgJUZdWT5mZM0HEvjMS/V84EFxCDo3T3TQcKCrqHif90xHcQ1zqEjXUwYXCVVyH7cyXFD85oDlv4A/pmAQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: gJlqJO+Sgl6NsMMamAg7eYoyNUWZY/Je3UgfJ60wc4CLm9zv1ce454gMJCfC1Tej3jKYDQqySyXQCLQ6Cqt5Bw==
-length: 1242
+- 展开原文后改变窗口或正文字号，尽量以同一处可见文字为准恢复阅读位置。
+- 横向滚动过的代码和表格在重排后仍定位到原来的字。切换逐行查看再返回时保留展开状态和选区。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build226/Markeen-0.1.0-alpha-build226.zip" length="5856719" type="application/octet-stream" sparkle:edSignature="vr1Ro3P9oaStzsSlpTu5J7ctDqmrgAcgJlHLjQIPPqwmIWlVfqUcz8RxtSPDZ4T4w4pLX6lVpr8OgWholEbPDQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: Rb+Adw/IZMpWgBSGTmiGa8P7BM24uyN4VhMw5WDdBmsgeCTCwy85+XDinxjXawdmVJuiKRl2+Jfgbk4KTN2NDw==
+length: 1272
 -->
