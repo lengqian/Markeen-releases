@@ -1,10 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 263</title><sparkle:version>263</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 263</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build263
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 264</title><sparkle:version>264</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 264</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build264
 
-查看图片或 Mermaid 图表时，按住 Control 滚动可围绕指针放大和缩小。调整窗口大小时保住正在查看的画面，适应窗口模式会随窗口重算。关闭查看器后恢复正文里的阅读位置和选区方向。
-
-图片查看器直接显示中文文件名。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build263/Markeen-0.1.0-alpha-build263.zip" length="6018245" type="application/octet-stream" sparkle:edSignature="UlxRJj8sCHbT4HzVie93wcxnzGx0COPE+JYRVBU6wVfNDpPwKKlbcm6rwMMOHCFI303WlZW/WWUtOLiFsf9IBw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 6NTOQZTu5MMOQGwO4bfU+x1s5dp92WtDFcI6wTJcqlLmEHC4N60DXxSnjQaW6ZGN/k6gm2h2WMt7RXMCcA4zCg==
-length: 1312
+文档的章节链接失效时，显示原来要打开的标题，并列出相近的现有章节。可以点一个章节继续阅读，也可以打开目录核对。选中建议后，可从「返回引用处」回到原来的链接。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build264/Markeen-0.1.0-alpha-build264.zip" length="6019250" type="application/octet-stream" sparkle:edSignature="HIlAeXbjnyhFmzHB60kPdU+GppKIvOqvrtcmF2x6olGtbi4+Ni7Gt6COdZcvH3qxX5Zo4jPMZKbhosAvOrqcBw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: iEWiWgbd6aDyyOjsUUzPDQyvds9hMybK83629nIMZ1OH7hqYL2khKWV5LlKPjwmLXocwryDDwlSeR5v45lrhCQ==
+length: 1253
 -->
