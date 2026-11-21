@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 230</title><sparkle:version>230</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 230</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build230
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 231</title><sparkle:version>231</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 231</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build231
 
-- 修复键盘进入链接预览并切换外部应用时丢失原文选区的问题。返回后可以继续使用原来的选区。
-- 回归验证从只读页和预览卡片成功换用另一个应用后，两处都显示新应用名，重启后仍记住选择。
-- 核对源码和纯文本各自的应用偏好，并复验从展开原文打开外部应用后，返回同一处改动时恢复选区、阅读位置和展开状态。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build230/Markeen-0.1.0-alpha-build230.zip" length="5914794" type="application/octet-stream" sparkle:edSignature="yKzvV5tgwfXFJDp6Y4SqRNxdSrl1XvjVD1z2TSBPdAV5kZPAnGlOw/ukAvDFmW7LGU+ueE/iiYbzldCBtTfRCw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: Ovx/q/4JdFlk3+geJp6vcFRWUBywxaidSj9zPk4U3hefl1kiSGdRG4Ux+Z61S2rPrXsb67MpY5/3v/3UuGGxAA==
-length: 1464
+- 项目文件即使暂不支持预览，也可以从链接预览卡片或点击链接后的文件详情选择「在 Finder 中显示」。Finder 会选中文件。
+- 普通阅读和查看改动时都可以使用这个入口，包括展开后的原文。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build231/Markeen-0.1.0-alpha-build231.zip" length="5915346" type="application/octet-stream" sparkle:edSignature="CHFhZX+MZLh9rQecugWj15NwaX3AfmGP+WyBWwpza/Bh3kCSTRlwg1bJfZUpD45O/B2bPXePEMu+DY+t2+2yCg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: TpARoE4Uv1ZTvFJFt822aZz87IRQe3ty5JDu2zPR+RKuZj2Z/3OZSIL/QEOWkTWlc5CpOGIrrPA0Y1PuUFr8DA==
+length: 1287
 -->
