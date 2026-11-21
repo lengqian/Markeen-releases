@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 210</title><sparkle:version>210</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 210</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build210
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 211</title><sparkle:version>211</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 211</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0 Alpha · Build211
 
-- 从查看改动的链接预览打开另一篇文档后，使用历史返回可以接着看同一处改动，并恢复展开的原文、正文选区和阅读位置。
-- 如果原文件期间又有更新，返回时会提示查看最新改动，仍可接着核对刚才的版本。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build210/Markeen-0.1.0-alpha-build210.zip" length="5847000" type="application/octet-stream" sparkle:edSignature="kyVkZR0cZxPJiGzG9BjeLRpk0lKVIC5vqNLiYDPWrEfdHM6uoFv3ghxsEm9VSpeORJJRBl9+rhMfm59li6pgBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 9o95j4RyE67yCcFsEC9Pv2ZzVFNb1IyO6n+vbcg3C5ho3yuCd3RegTdEgZgEdBLO+4lUOx/c4M1SV96rgd+ABQ==
-length: 1323
+- 按正文查看改动时，同一代码块的改动编号贴在各自的行旁。行内新增用局部高亮，整行新增用整行高亮。
+- 上一处和下一处会把变化带进视野。一处中的多段改动在窄窗里无法同时显示时，会在本次对照中折行该代码块。
+- 展开原文后切换逐行查看，可以回到同一处改动及原来的选区和滚动位置。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build211/Markeen-0.1.0-alpha-build211.zip" length="5849091" type="application/octet-stream" sparkle:edSignature="6WjoVlI/8cYhbYzx602cB6RpUfrsDjqHJAAyF3mDnuBzLfRc807bH+3atpxgWbs3BDsT7WNWT2bVm2CvnIhmDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: gQB65FoPC/0Sj+9lkoLSOCLz3yLeP9stgpvw/cLtVPO4DdvWcbWfOezW2pg+F8AG099/ECJExtusUd4u9x1FDA==
+length: 1440
 -->
