@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 243</title><sparkle:version>243</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 243</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build243
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 244</title><sparkle:version>244</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 244</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build244
 
-- 从项目搜索打开刚更新的文档时，原摘录在新版中能唯一确认就会直接定位。
-- 原摘录被删除或有多处相同内容时，可点「在新版中查找」，用原搜索词继续核对。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build243/Markeen-0.1.0-alpha-build243.zip" length="5981967" type="application/octet-stream" sparkle:edSignature="wgMACT7jOpU6jribEM9PB4QSdNWpxB7afNgJwhmlC6h19UYfRrViQzSSFh7ODnGbQbTgGpfXbggGuCMwn7FqBA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: lde+6CjmS5cInxk6krksdap4JfMacZtDwxqfmJuKV0C+viaJQc8bpK4BBgkGxj9JnYLZHzvRg9tslE+6Zbt2BQ==
-length: 1251
+- 项目搜索在后台更新时，方向键选中的摘录会保持焦点，回车继续打开同一段文字。
+- 摘录被替换时，键盘焦点回到搜索框，可按方向键重新选择。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build244/Markeen-0.1.0-alpha-build244.zip" length="5982176" type="application/octet-stream" sparkle:edSignature="RluGIa0Ut3SsVV7jFPEVF7GjjnRs1ch4ro57xaYg8dJmvGT9WzTa9nLSnKAmK214XLHYNKccIR2wfnmo2PdsAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: ornSIWNLpx5MqSdEglE5yUC9OvO+c05pGDYib/dGK58yEOcvSqMaW85NvD+BLI2yq1hzX/zj4fAoiX1bzFROCQ==
+length: 1230
 -->
