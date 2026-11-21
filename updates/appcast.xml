@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 229</title><sparkle:version>229</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 229</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build229
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 230</title><sparkle:version>230</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 230</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build230
 
-- 首次选择应用并成功打开项目文件后，Markeen 分别为源码和纯文本记住上次使用的应用。预览卡片和只读页会显示带应用名的一键入口。
-- 下拉菜单可选择其他应用。取消或打开失败会保留原选择。应用移走后，入口回到应用选择器。
-- 点击正文链接仍在 Markeen 只读查看，并保留「在 Finder 中显示」。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build229/Markeen-0.1.0-alpha-build229.zip" length="5914752" type="application/octet-stream" sparkle:edSignature="6jlAd0VpG5J9EYAoYMPy4Ca2ZV2xjuupf0ibXXbv5/rr1mtxesNgi1WOIcnn9QTWlBgboie1/RinW0tHL6eDBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: UjFQRr7GtEsIw4h5LPEIBBXGGla+VfC+uWooJimVrSqiArHUDtBt4VtDRrfSDwy/RcuELZauzElI2t44eKWXBw==
-length: 1432
+- 修复键盘进入链接预览并切换外部应用时丢失原文选区的问题。返回后可以继续使用原来的选区。
+- 回归验证从只读页和预览卡片成功换用另一个应用后，两处都显示新应用名，重启后仍记住选择。
+- 核对源码和纯文本各自的应用偏好，并复验从展开原文打开外部应用后，返回同一处改动时恢复选区、阅读位置和展开状态。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build230/Markeen-0.1.0-alpha-build230.zip" length="5914794" type="application/octet-stream" sparkle:edSignature="yKzvV5tgwfXFJDp6Y4SqRNxdSrl1XvjVD1z2TSBPdAV5kZPAnGlOw/ukAvDFmW7LGU+ueE/iiYbzldCBtTfRCw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: Ovx/q/4JdFlk3+geJp6vcFRWUBywxaidSj9zPk4U3hefl1kiSGdRG4Ux+Z61S2rPrXsb67MpY5/3v/3UuGGxAA==
+length: 1464
 -->
