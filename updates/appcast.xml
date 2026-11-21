@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 242</title><sparkle:version>242</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 242</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build242
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 243</title><sparkle:version>243</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 243</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build243
 
-- 打开项目后，已经读到的文档可以立即搜索。后台准备其余正文时，搜索结果会标出准备状态。
-- 正文准备完成后，结果在原查询中自动补齐。你可以继续阅读，或等需要的结果出现后再打开。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build242/Markeen-0.1.0-alpha-build242.zip" length="5981445" type="application/octet-stream" sparkle:edSignature="0aHjYbj8dKmCG/XH5k4sjiGXSKzypdHFL2IpiYMsV8ZJKrl6ozmermWtQdnzjlT+HPRA0tq1DMXfmLxxUEkjDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 8Ox93PWpGdHq9kjFkDvhaj22JfvBoaen6RY0zR7QpUJuJMjXOFqv/ygZ9vDgGJz3fFzG9/SQEQaNb1RBGioWDw==
-length: 1290
+- 从项目搜索打开刚更新的文档时，原摘录在新版中能唯一确认就会直接定位。
+- 原摘录被删除或有多处相同内容时，可点「在新版中查找」，用原搜索词继续核对。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build243/Markeen-0.1.0-alpha-build243.zip" length="5981967" type="application/octet-stream" sparkle:edSignature="wgMACT7jOpU6jribEM9PB4QSdNWpxB7afNgJwhmlC6h19UYfRrViQzSSFh7ODnGbQbTgGpfXbggGuCMwn7FqBA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: lde+6CjmS5cInxk6krksdap4JfMacZtDwxqfmJuKV0C+viaJQc8bpK4BBgkGxj9JnYLZHzvRg9tslE+6Zbt2BQ==
+length: 1251
 -->
