@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 268</title><sparkle:version>268</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 268</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build268
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 269</title><sparkle:version>269</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 269</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build269
 
-在项目搜索里粘贴 `src/check.ts:120-122` 这种源码位置，回车可打开只读预览并高亮指定行。也支持相对文件路径和 `#L120-L122` 写法。返回后保留查询、阅读位置和原文状态。Markdown 源码链接也支持用冒号指定行范围。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build268/Markeen-0.1.0-alpha-build268.zip" length="6039961" type="application/octet-stream" sparkle:edSignature="yFIFzZyRYr5agM6oxBb/qIW4qsKCDfEM5tRvQutiI8BGqehyXpelmvpf0rvnYBS0uyXN76SLhKMbXbIB1lLpAQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 3hWpPgRR28R9QY/E9DPOdvHMCJ7RSuz01hW3Xae6pUlUCqyx42Ft0yFv0SuU2YQOwa47C/H+hNSasevicHzPAA==
-length: 1300
+从 Agent 回复或交接记录复制文件位置，在项目搜索（⌘K）粘贴后回车，直接打开相应行。支持当前项目的绝对路径、带列号的位置、行范围，以及包含这些位置的 Markdown 链接和行内代码。返回后继续原来的搜索和阅读。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build269/Markeen-0.1.0-alpha-build269.zip" length="6040328" type="application/octet-stream" sparkle:edSignature="25T/VVkdKPMLDFN9YEcCXTLVQq13bbgBLcUdiaVYlOzRln+uikU94gqDmVcpT2calKTh8cuG0UHv6Cr1dMlWDQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: PI8QmSujXAAlzSh2hEm+h742gESeOE7LDWLi1kOJ3027bEwUobPlbyj25yl2EcNdJ1QamKGyrNsid8qQvWMdAg==
+length: 1310
 -->
