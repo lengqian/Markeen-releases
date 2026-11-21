@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 228</title><sparkle:version>228</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 228</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build228
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 229</title><sparkle:version>229</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 229</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build229
 
-- 从阅读或查看改动点击项目内的源码和 UTF-8 纯文本链接，在 Markeen 打开只读全文。有行号的引用会定位并高亮对应行。
-- 从展开原文进入时，可以确认所查看的是「目标文件的当前内容」。返回后恢复选区、阅读位置和原文展开状态。
-- 保留「在 Finder 中显示」。「用其他应用打开…」先显示 macOS 应用选择器，确认后才打开所选应用。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build228/Markeen-0.1.0-alpha-build228.zip" length="5889747" type="application/octet-stream" sparkle:edSignature="SX92mkXqBxl2pIQ8k0Vn4qExsU59N6edoVK+MXS3NpZnis9t5K767pdCWnGUjPcZkY3/k/mXQw+jyVgEVvA9Bg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: GIyxgW1CQQpshwKFqtzLgWRiGuTdqce0XY55bG2fHEZNDhS2KfARqzaNkxQGY/NvtZ2EU1El1jh0WoJT/vrNCQ==
-length: 1480
+- 首次选择应用并成功打开项目文件后，Markeen 分别为源码和纯文本记住上次使用的应用。预览卡片和只读页会显示带应用名的一键入口。
+- 下拉菜单可选择其他应用。取消或打开失败会保留原选择。应用移走后，入口回到应用选择器。
+- 点击正文链接仍在 Markeen 只读查看，并保留「在 Finder 中显示」。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build229/Markeen-0.1.0-alpha-build229.zip" length="5914752" type="application/octet-stream" sparkle:edSignature="6jlAd0VpG5J9EYAoYMPy4Ca2ZV2xjuupf0ibXXbv5/rr1mtxesNgi1WOIcnn9QTWlBgboie1/RinW0tHL6eDBQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: UjFQRr7GtEsIw4h5LPEIBBXGGla+VfC+uWooJimVrSqiArHUDtBt4VtDRrfSDwy/RcuELZauzElI2t44eKWXBw==
+length: 1432
 -->
