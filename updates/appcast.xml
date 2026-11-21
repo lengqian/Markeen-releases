@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 262</title><sparkle:version>262</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 262</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build262
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 263</title><sparkle:version>263</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 263</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build263
 
-在改动对照里点本文章节链接，会打开对应文字版本里的章节。即使旧章节在「查看原文」的摘录之外，也能读到旧快照里的完整章节。点「返回引用处」会标出原链接，并接回改动编号、原文展开和选区。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build262/Markeen-0.1.0-alpha-build262.zip" length="6017760" type="application/octet-stream" sparkle:edSignature="KPYjAeU4sY5yL0nRpdFheYx/WskQXF0ZzwMJHs2YiiUdvEpAj/rVRAYVdZhyUwtNB9Hj5dyJyjqhkOohNHbYBA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: x3rUFYQihvPKlD+FeOnPhTyWwzn59frpeSG9lcUkS+HoxsbrGGp9Py8BP8tQztabDwq/gUk+jQsQzO2Ly6uzBQ==
-length: 1292
+查看图片或 Mermaid 图表时，按住 Control 滚动可围绕指针放大和缩小。调整窗口大小时保住正在查看的画面，适应窗口模式会随窗口重算。关闭查看器后恢复正文里的阅读位置和选区方向。
+
+图片查看器直接显示中文文件名。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build263/Markeen-0.1.0-alpha-build263.zip" length="6018245" type="application/octet-stream" sparkle:edSignature="UlxRJj8sCHbT4HzVie93wcxnzGx0COPE+JYRVBU6wVfNDpPwKKlbcm6rwMMOHCFI303WlZW/WWUtOLiFsf9IBw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 6NTOQZTu5MMOQGwO4bfU+x1s5dp92WtDFcI6wTJcqlLmEHC4N60DXxSnjQaW6ZGN/k6gm2h2WMt7RXMCcA4zCg==
+length: 1312
 -->
