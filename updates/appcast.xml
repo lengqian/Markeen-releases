@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 227</title><sparkle:version>227</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 227</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build227
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 228</title><sparkle:version>228</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 228</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build228
 
-- 项目内的 TypeScript、常见源码、配置和 UTF-8 纯文本引用可以悬停查看几行只读原文。带行号的链接会标出相应位置。
-- 预览卡片可以在文本编辑器中打开文件，或在 Finder 中定位。点击受支持的正文文件链接也能打开编辑器。
-- 阅读和查看改动使用相同的文件预览。从展开的原文查看引用时，卡片标明「目标文件的当前内容」。在外部打开文件后可以回到原来的阅读位置和选区。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build227/Markeen-0.1.0-alpha-build227.zip" length="5882631" type="application/octet-stream" sparkle:edSignature="WIlzuJLLUAAwiQQk7/ww2gbvO/9icqqTvylt4I2QBpdhHkWvzn+GeIkPI3hdlt95CjUeCJS5RqaDaEt5ZJ4sAg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: X13uYTsVDDNckSypyRLwVSowKaVcYBFrlWC4lEXSIq1ID8Hc609u2Wl/Rq+EFLlkH1HgAR0MhqFzsTM/YoUqAQ==
-length: 1538
+- 从阅读或查看改动点击项目内的源码和 UTF-8 纯文本链接，在 Markeen 打开只读全文。有行号的引用会定位并高亮对应行。
+- 从展开原文进入时，可以确认所查看的是「目标文件的当前内容」。返回后恢复选区、阅读位置和原文展开状态。
+- 保留「在 Finder 中显示」。「用其他应用打开…」先显示 macOS 应用选择器，确认后才打开所选应用。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build228/Markeen-0.1.0-alpha-build228.zip" length="5889747" type="application/octet-stream" sparkle:edSignature="SX92mkXqBxl2pIQ8k0Vn4qExsU59N6edoVK+MXS3NpZnis9t5K767pdCWnGUjPcZkY3/k/mXQw+jyVgEVvA9Bg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: GIyxgW1CQQpshwKFqtzLgWRiGuTdqce0XY55bG2fHEZNDhS2KfARqzaNkxQGY/NvtZ2EU1El1jh0WoJT/vrNCQ==
+length: 1480
 -->
