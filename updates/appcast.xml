@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 226</title><sparkle:version>226</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 226</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build226
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 227</title><sparkle:version>227</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 227</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build227
 
-- 展开原文后改变窗口或正文字号，尽量以同一处可见文字为准恢复阅读位置。
-- 横向滚动过的代码和表格在重排后仍定位到原来的字。切换逐行查看再返回时保留展开状态和选区。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build226/Markeen-0.1.0-alpha-build226.zip" length="5856719" type="application/octet-stream" sparkle:edSignature="vr1Ro3P9oaStzsSlpTu5J7ctDqmrgAcgJlHLjQIPPqwmIWlVfqUcz8RxtSPDZ4T4w4pLX6lVpr8OgWholEbPDQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: Rb+Adw/IZMpWgBSGTmiGa8P7BM24uyN4VhMw5WDdBmsgeCTCwy85+XDinxjXawdmVJuiKRl2+Jfgbk4KTN2NDw==
-length: 1272
+- 项目内的 TypeScript、常见源码、配置和 UTF-8 纯文本引用可以悬停查看几行只读原文。带行号的链接会标出相应位置。
+- 预览卡片可以在文本编辑器中打开文件，或在 Finder 中定位。点击受支持的正文文件链接也能打开编辑器。
+- 阅读和查看改动使用相同的文件预览。从展开的原文查看引用时，卡片标明「目标文件的当前内容」。在外部打开文件后可以回到原来的阅读位置和选区。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build227/Markeen-0.1.0-alpha-build227.zip" length="5882631" type="application/octet-stream" sparkle:edSignature="WIlzuJLLUAAwiQQk7/ww2gbvO/9icqqTvylt4I2QBpdhHkWvzn+GeIkPI3hdlt95CjUeCJS5RqaDaEt5ZJ4sAg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: X13uYTsVDDNckSypyRLwVSowKaVcYBFrlWC4lEXSIq1ID8Hc609u2Wl/Rq+EFLlkH1HgAR0MhqFzsTM/YoUqAQ==
+length: 1538
 -->
