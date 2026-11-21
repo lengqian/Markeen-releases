@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 264</title><sparkle:version>264</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 264</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build264
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 265</title><sparkle:version>265</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 265</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build265
 
-文档的章节链接失效时，显示原来要打开的标题，并列出相近的现有章节。可以点一个章节继续阅读，也可以打开目录核对。选中建议后，可从「返回引用处」回到原来的链接。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build264/Markeen-0.1.0-alpha-build264.zip" length="6019250" type="application/octet-stream" sparkle:edSignature="HIlAeXbjnyhFmzHB60kPdU+GppKIvOqvrtcmF2x6olGtbi4+Ni7Gt6COdZcvH3qxX5Zo4jPMZKbhosAvOrqcBw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: iEWiWgbd6aDyyOjsUUzPDQyvds9hMybK83629nIMZ1OH7hqYL2khKWV5LlKPjwmLXocwryDDwlSeR5v45lrhCQ==
-length: 1253
+单独打开 Git 项目子目录里的 Markdown 时，工具栏可直接打开整个项目。侧栏出现后保留当前文档、阅读位置与文字选区。读者可以继续沿链接查看父目录中的文档和源码。普通文件夹也可从工具栏打开。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build265/Markeen-0.1.0-alpha-build265.zip" length="6036479" type="application/octet-stream" sparkle:edSignature="iO8lZK+PfJEeXAbwpg9teE+wnrUNdDzgtR7ZDOgFhEBpjADYGP6QpkpqNxpq5BFDXMC1vpvcNg3jZZ6u4Ll5Bw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: UrFAUFZiDgx3s3MR6Eu8m9bR4NCQePQlz/0ACw5DQ4ZfW3wgFQfHfUn5SzBfdDpvkuxekRA2WSSxBrgo4yVlBA==
+length: 1286
 -->
