@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 253</title><sparkle:version>253</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 253</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build253 · 项目搜索识别排版后的短语
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 254</title><sparkle:version>254</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 254</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build254 · 在项目侧栏开启更新对照
 
-项目搜索可以找到跨加粗、行内代码或 Markdown 链接的连续文字。摘录显示阅读时看到的内容，点击后高亮完整的命中短语。长文可先跳到已核对的位置，再在后台统计匹配。表格的不同单元格和独立列表项各自匹配。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build253/Markeen-0.1.0-alpha-build253.zip" length="5998150" type="application/octet-stream" sparkle:edSignature="u9NZD71q9x8tMtbMvYh60/GTy+lGW0ZrgXCXhKUK+6D6OqNS9ncXt/XhP+68y3NJG2Jqva8m2V1XacRyN+ukDw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: AUTC9uAZPZspJWjD9Rw+nQDMDPsZzjcO+N4ZKiErHtmSwCwc27Y9xy/LL7qr3tyHy9aVvYFyRHiZ3ja6AAp4BQ==
-length: 1345
+第一次打开项目侧栏的「更新」，就能选择「保留旧版供对照」。开启后，读过的 Markdown 文字会留存在这台 Mac 上。文件更新时，可从「更新」直接查看改动。在「帮助 → 文件与本机数据…」可暂停留存。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build254/Markeen-0.1.0-alpha-build254.zip" length="5998875" type="application/octet-stream" sparkle:edSignature="h4dfOZn4OfR8sNEHY9gE6evLzmg2uIP5BzUyT8+gAqEH2td3qlZ6LLvsLsq9dUwgyjrLp9VQqsB0i20o+02uAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: isIgs09YF3zJInk2ApeZcWmVspUyM2jJwVyYJmoDuZY3ovKUHK20ngHg2bGnOQuZXnstYKBn/ZncdzfhovHqDQ==
+length: 1328
 -->
