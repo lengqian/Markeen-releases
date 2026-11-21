@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 255</title><sparkle:version>255</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 255</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build255 · 让项目文档里的文件夹链接可用
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 256</title><sparkle:version>256</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 256</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build256 · 在侧栏看清同名文档
 
-文档链接指向文件夹时，预览和点击都能看到可用操作。目录中有可读的 README 或索引时，可以在 Markeen 直接打开。也可以在 Finder 中显示目标文件夹。「查看改动」和展开的原文中也能使用，返回时可以接着查看引用处。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build255/Markeen-0.1.0-alpha-build255.zip" length="6003775" type="application/octet-stream" sparkle:edSignature="0AA0tVm6vI3JTcUq2vZlPzr3KqEB/8xMft3Kv0K7En54Q135007JGb8Ab67D9riziTxqSloSpQAyyCHy3LRbCw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 47mnh0KZ/u0MFQTVXtKwS0MxpjjvnkOraKoU/B+MQuXVh+TmlE96MFuWX/YUhqWP3Z1c0LDwskyNtnYCYh+GDw==
-length: 1357
+「最近」「置顶」和「更新」现在显示能区分同名文档的目录。项目根目录的同名文件也会标明位置。从「最近」选择对应文档，可以回到上次的阅读位置。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build256/Markeen-0.1.0-alpha-build256.zip" length="6004024" type="application/octet-stream" sparkle:edSignature="J8HnIBrzvrx3TU0XUJFLmu/wUxhUiBzktO85BGFN1jEpPVCcyBTJnihOLYiv6agAqan8iRuw+6WYomHL/2zRDw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: v247hOPRIlAkLyhLf9icVBdJgNtGHm9fIKQTjcbZ7wFLaCEqu1148qgpd4jYYJkDNzsGL53n63z9QX5KA6EPDw==
+length: 1257
 -->
