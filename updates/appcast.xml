@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 248</title><sparkle:version>248</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 248</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build248
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 249</title><sparkle:version>249</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 249</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build249
 
-- 从筛过目录的章节打开另一份 Markdown 引用，返回时能接着用原来的筛选词和目录位置。
-- 用前进返回引用文档时，继续使用它自己的筛选。手动收起目录后，历史往返会尊重这个选择。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build248/Markeen-0.1.0-alpha-build248.zip" length="5987240" type="application/octet-stream" sparkle:edSignature="UxEAAf9z+8tgbwuOwG+REFoAHsealS2YLiS55ps8jdPeWS085zA+oE+F5SHQtiDxgPAX812QY253MB+CmPGMCw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 6ESpXX6nX7ZVuX0cIILbT+QWmu+NAj03zoM7c3tVu1jiKZ0uMkI/pFSx6q4FfD973LMWy3gGiy1JaQQx+xWlDA==
-length: 1279
+- 打开 Markdown 引用后，文档顶部会显示带来源文件名的「返回」入口。
+- 在引用文档继续跳到其他章节后，仍能一步回到发起引用的原段落。原有的历史返回、前进也可以继续使用。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build249/Markeen-0.1.0-alpha-build249.zip" length="5993659" type="application/octet-stream" sparkle:edSignature="URDfGymMXcCyHfLGRsnY4EMesnjY5SDDhsR74XpCvRS20U2Wo8cMxuwhnUXMFusBvLH76t8Ui4+zwdetpiZJBg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: d58VQUYy4YKktdid7xmp0DO0mwUp123WfK7dkaODmixp00DQupWZS0436uvxnRtYmfYQxJP5cNyekxkId43hCg==
+length: 1273
 -->
