@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 232</title><sparkle:version>232</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 232</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build232
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 233</title><sparkle:version>233</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 233</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha Build233
 
-- 点击 PDF、图片、ZIP 等暂不支持预览的项目文件，文件名、路径、提示和「在 Finder 中显示」集中在紧凑窗口中。
-- 核对了从正文、查看改动的新版正文和展开原文定位文件的行为。切回 Markeen 后可在原位置继续阅读。
-- 关闭文件详情后，键盘焦点回到打开它的链接。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build232/Markeen-0.1.0-alpha-build232.zip" length="5915459" type="application/octet-stream" sparkle:edSignature="JgYffSF7DkpcVw60YAIOmrSgH58oTivoUkup6KWdIcxkEfHL2U71Gvb6VyUscsDJgmTBy3r4Iix92ee2zFI4AQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: roPi/6vo3/pqW9hVx5pnsjaiZ869ym895y4XlHPw6t5DA8LQ2q9llx6RwAcKZnbMA9P95q6ddxV8o64aoI1ZDw==
-length: 1387
+- 项目文件按内容识别文本。UTF-8、带 BOM 的 UTF-16、.iss、.nsh 和无后缀文本都可以在 Markeen 中只读查看，并定位链接引用的行。
+- 自动识别不了编码时，可以在文件详情里选择 GB18030、Windows-1252 或 Shift_JIS。文件内容以纯文本显示。
+- PDF、图片、ZIP 等二进制文件继续提供紧凑详情和「在 Finder 中显示」。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build233/Markeen-0.1.0-alpha-build233.zip" length="5938762" type="application/octet-stream" sparkle:edSignature="Pin+JiE9oUzzJHKWqx4cOHeHpakvksmsuyBEgJGVh2TcXRBQzqZ1RedM+meXB7CwdVw5CQoVxvFXno3qB3jrDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: YirvCez23Iun7/gf12CZKlGYG+9IzGmMqdIlF53lOdwg4/xD3r8fwMrnil9jiRr9dVXRouBz0lkgiuRLVLesAA==
+length: 1431
 -->
