@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 256</title><sparkle:version>256</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 256</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build256 · 在侧栏看清同名文档
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 257</title><sparkle:version>257</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 257</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build257 · 看清引用会返回哪里
 
-「最近」「置顶」和「更新」现在显示能区分同名文档的目录。项目根目录的同名文件也会标明位置。从「最近」选择对应文档，可以回到上次的阅读位置。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build256/Markeen-0.1.0-alpha-build256.zip" length="6004024" type="application/octet-stream" sparkle:edSignature="J8HnIBrzvrx3TU0XUJFLmu/wUxhUiBzktO85BGFN1jEpPVCcyBTJnihOLYiv6agAqan8iRuw+6WYomHL/2zRDw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: v247hOPRIlAkLyhLf9icVBdJgNtGHm9fIKQTjcbZ7wFLaCEqu1148qgpd4jYYJkDNzsGL53n63z9QX5KA6EPDw==
-length: 1257
+打开引用后，顶部的「返回」会显示来源文档。遇到同名文件时会标明目录；能确认来源时也会显示章节或「修改前／修改后」。点返回仍可回到打开引用时的位置。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build257/Markeen-0.1.0-alpha-build257.zip" length="6006807" type="application/octet-stream" sparkle:edSignature="85BXQoNflRryH7hDrJWZrYy7vXYbNvNFOtr7QfVyOig88HF4CZwqLArdFbZ8S4Q/oFKuHQskY1jcYJQAx/ryBQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: p5TRo+X2NaxP1l/4+oWLjmLLfocAuVmMOJ180DJOBNOJkqawdlqbiTVRXjJLsoLxjx4ItuJYM0Ons6Rk8OsxDg==
+length: 1269
 -->
