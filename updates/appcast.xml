@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 301</title><sparkle:version>301</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 301</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build301
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 302</title><sparkle:version>302</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 302</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build302
 
-项目搜索会跟随当前文档的本机草稿。改动一处文字后，可以从侧栏直接找到剩下的匹配，也能搜到刚写下的内容。
+在项目里搜到一条依据之后，可以沿用查找去核对更新，再回到读到的那句话。
 
-- 当前文档的摘录会标明「本机草稿」，正在阅读的正文与搜索结果对应。其他文档继续从文件索引查找。
-- 点击草稿摘录，阅读时跳到对应文字，编辑时选中准确的 Markdown 源码。从「查看修改」也能通过侧栏回到当前草稿中的命中。
-- 保存到文件后，当前结果直接切换到已保存内容，阅读位置和搜索词保留。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build301/Markeen-0.1.0-alpha-build301.zip" length="6082478" type="application/octet-stream" sparkle:edSignature="9XKR5iqVsXFWw/tGGCMz9+yiW5t6u6zd+sA6xMPMVRcw9TBhSZE+lLPLB48f3INCEMh6hDK34loer+IEkQA4AA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: SOzE2xmBAcyg3RmtkVYoZ7kGpqvS0dhkxY1JsmhxZskstzlcQgfg5HgjLNrDmMKRDkMEPxoSZqUetbtabt8BBg==
-length: 1608
+- 打开改动对照时，当前文档已有命中的项目搜索词会填入「对照查找」。对照中的查找可以单独修改，回到正文时继续原来的项目搜索。
+- 读取外部写入的新版后，仍能确认原句时，会保留同一句高亮并更新匹配编号。即使前面新添了同词匹配，也能接着原句读。
+- 原句已变化时，保留阅读位置并在本文匹配栏说明。仍可用上下箭头查找其他匹配。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build302/Markeen-0.1.0-alpha-build302.zip" length="6083272" type="application/octet-stream" sparkle:edSignature="v/zjPtQ4iif00yfW+hXWkv0C12NfLI/23/lmnvuu3J4OGFtyutJlh1hh5cK994t1jTu3KRS5PwexAT/fq65uDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: R0C1+NdzyX6EDeofzv8Z6YfFcLAZIQwdDEAENtGvSpv/MXPBuCBG+7jiYcjtJOGk9BdGqlhnvXMd1hLeBQ11BQ==
+length: 1613
 -->
