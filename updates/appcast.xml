@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 292</title><sparkle:version>292</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 292</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build292
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 293</title><sparkle:version>293</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 293</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build293
 
-从文档链接跳到明确的章节时，正文和「本文目录」会一起定位到目标。目录把当前章节带进视野，返回时仍可继续使用原来的筛选词和阅读位置。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build292/Markeen-0.1.0-alpha-build292.zip" length="6079378" type="application/octet-stream" sparkle:edSignature="M4SAHngdJznGtE1Q0imYKohGnEI6JsCjn1yObgotrwMsjju2UyzC0QFoVVW0+y01ErCROEXy6H13Iu0TzCdTBw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: uT7BAfxpkFvq6egsjmRlPaBcLkMFSJaan0mRbQ3bfyr3uiAEaxylNtybh8KVW75kQumV9+MpaAhJkzcvRa6PAg==
-length: 1237
+章节链接现在可以预览目标章节下第一个有正文的子节。卡片同时显示跳转目标和摘录来源，点「打开章节」直接到链接原来的位置。空章节会明确提示，摘录不会越到相邻章节。
+
+按向下键进入预览操作后，会显示「Tab 继续」和「Esc 关闭」。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build293/Markeen-0.1.0-alpha-build293.zip" length="6079612" type="application/octet-stream" sparkle:edSignature="gh8BU4asK8kkPQPdkojCsy0WsU0ckjGVZz38zCjkaICoMGJQSYyWQFw9oUZ98coLnD0LDUYK3uje/WdvJtgUDw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: jTl5spcm2COkvtJQ6WVxo8qguulK3UisM1Ex9GXFmrzQGaDiUJKtTJ+lRUtAuXq54obdrjmTGWYajomjldPSDg==
+length: 1364
 -->
