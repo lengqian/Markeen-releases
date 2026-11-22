@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 312</title><sparkle:version>312</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 312</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build312
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 313</title><sparkle:version>313</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 313</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build313
 
-需要重新确认项目怎么开始时，可以从任何一篇文档回看项目指南，再接着读原来的段落。
+第一次打开空项目，可以在 Markeen 里写下第一篇 Markdown，再继续阅读和搜索。
 
-- 文件侧栏新增「项目入口」，显示实际指南路径。收起侧栏时，也能从文档菜单打开。
-- 打开项目入口从指南开头读起。点返回按钮，恢复出发的文档、阅读位置和文字选区。
-- Markeen 优先读取常见的项目指南。只有标题或占位内容的 README 会让位给有正文的指南。新增、改写或删除入口文件后，入口会随项目索引更新。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build312/Markeen-0.1.0-alpha-build312.zip" length="6100732" type="application/octet-stream" sparkle:edSignature="T7M15IZWJ4fUC5q0eb6OB8QDi9i31uU9ot1/wCMT55llYdGUOhSl60u+A5B7cGhU35JBDZVL9uVZVkPhzR+FBA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 3uNRzIqJhmu0EtMJWwoBZYDVpAChvkWuripA3foAYatSWmc2bSsGcM/aBjfF3Y2nQcvZz0ZefLW8lI85Gj1TAw==
-length: 1590
+- 空项目新增「新建 Markdown…」，建议从 README 开始。已有项目可从文件侧栏底部、文档菜单或 ⌘N 新建。
+- 创建时显示保存位置。在子文件夹中阅读时，可选择当前文件夹或项目根目录。省略扩展名会补上 .md。遇到同名文件时会提示换名。
+- 确认后直接进入编辑，按「保存到文件」写入正文。正常的本机草稿、项目搜索和阅读历史都能接上。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build313/Markeen-0.1.0-alpha-build313.zip" length="6116798" type="application/octet-stream" sparkle:edSignature="mhG3GIEwJYZuV2VLAQIChXqaQKnNT3wqQXrrvXtkSkfWlJddoCsYAiVdG96XwbK528AIaU+QCggThsyhEYfYAA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 4csiQegCJoz4lf/QAH9rEgfuYSdY/8Wh8HyiOEm49l/h1Tm9CodF29uK6xDAnZRsd8l2wp1E7NL1ZVNnx3QkAw==
+length: 1601
 -->
