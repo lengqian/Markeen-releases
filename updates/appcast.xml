@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 326</title><sparkle:version>326</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 326</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build326
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 327</title><sparkle:version>327</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 327</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build327
 
-从「最近」「更新」或「查找操作」打开「所有文档更新」，集中核对跨项目的 Markdown 改动。
+一起打开项目文件夹和 Markdown 时，可以先选读哪项资料。
 
-- Markeen 根据本机留存的阅读版本查找更新，涵盖已添加项目和单独打开过的文档。同名文件会显示所属项目和路径。
-- 从列表打开正文对照，核对后可标为已读。返回更新列表会重新检查，方便接着看剩余的文档。
-- 从阅读中开始核对，可经「返回原文档」回到原来的阅读位置和选区。编辑时切换文档仍经过未保存修改保护。
-- 暂时无法读取的内容会显示检查状态，可重新检查。关闭旧版留存时会在入口说明如何开启。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build326/Markeen-0.1.0-alpha-build326.zip" length="6388706" type="application/octet-stream" sparkle:edSignature="sVBQaiKHhphU2Z/+Yon07yEQWsMZLQwmz0EHW0a3GR2TAxG3S3q0Avg/2yo+eJXZuQS3r01O20g4EzH4JD16DQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: KP/OpU6yVtMqI3N6Do65qj8glh4GEK81odfp5dfzzhDYO4RpqVhfqjh3MLUHYgHIy0z/xbfAoicObBlj5zrtBw==
-length: 1727
+- 一次拖入或选择多个文件夹，可按名称和位置选择打开的项目。
+- 文件夹和文档混在一起时，面板会列出项目和可读的 Markdown。可以打开一个项目，也可以指定先读哪份文档，再把这组文件放进新清单。
+- 重复、非 Markdown、无法读作 UTF-8 和超过大小限制的资料会显示原因。只打开 Markdown 时，可以直接开始读第一份可读文件。
+- 取消可以回到刚才的阅读位置、选区或源码编辑。资料移动后，可在同一面板改选。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build327/Markeen-0.1.0-alpha-build327.zip" length="6415065" type="application/octet-stream" sparkle:edSignature="lCfqVpIK6P3uX9WzvMQL2j2NWOfrT4R+sbqignWj5jMFRDPqfiG19A7mZiKl/Xz5ic63esuwsy3AFze2rrMGBw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: bUeRy912FFsV1Levq5cwDKTNA/NrHKbuSvYiYGht3xIFEPuKIsBoMLp2DqOFw0bgcxJDv8Y2RcmKn3f/NQPuDw==
+length: 1667
 -->
