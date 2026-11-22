@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 278</title><sparkle:version>278</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 278</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha · Build278
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 279</title><sparkle:version>279</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 279</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha · Build279
 
-- 项目搜索刚显示结果时，正文匹配状态已占好位置。后台查找完成后，展开的摘录不会被状态栏推到另一处。
-- 快速点击展开的摘录可直接落到选中的原文。搜索结果总数和索引进度在窄侧栏中保持一行。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build278/Markeen-0.1.0-alpha-build278.zip" length="6056943" type="application/octet-stream" sparkle:edSignature="x+N41X+9GGSTc6v8RRvVNqU9xbVh+pdtAyzZ/XGC8GlRdiBCpx8RvXhsBtGdLSGohbr38sKinS7JVQLAVA0rBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: jwreH4OW3RkS+zinABoWGZMECTwnDVoVnm+YaESTqpZ4GgSEtl9gFtfyWKErWF1cE3aBj373v1fwjBiRz9YjDg==
-length: 1308
+- 项目搜索在同一篇文档里按正文顺序呈现普通文字、加粗和链接里的匹配。「更多匹配」也能展开这些排版后的摘录，每条都能点到对应位置。
+- 按住一条搜索结果时，排版核对完成后会等点击结束再更新列表。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build279/Markeen-0.1.0-alpha-build279.zip" length="6057478" type="application/octet-stream" sparkle:edSignature="kECkVuXT1huBUsixY6keYyfhIb5BIoScjRjxu7RjtTU02+gqc63UOZgEGcvkbmmVQcm0rHiBZRlFL7jHaRPODQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 7Lvo51btycp0/Cb6MrjjRA8e+xDj7chsSfseIhy5vre5zBhyxtb7WwkbajCase4CqFh/2Xi/rg4eK2MOQvz2BQ==
+length: 1317
 -->
