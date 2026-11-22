@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 334</title><sparkle:version>334</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 334</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build334
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 335</title><sparkle:version>335</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 335</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build335
 
-- 在文档菜单或文件的右键菜单中选择「设为项目入口」。侧栏会立即更新，正在读的文档和选区会保留。
-- 打开项目入口会从页面开头读起，再点返回可回到刚才的段落。同一篇文档内从中段回到开头，也能返回原处。
-- 重开项目仍会优先续读。上次文档暂时无法打开时，Markeen 会说明原因并打开可用入口。自定义入口暂时移走时，侧栏会显示可用的自动入口，原文件回到项目后会恢复自定义入口。也可从文档菜单恢复自动选择。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build334/Markeen-0.1.0-alpha-build334.zip" length="6530316" type="application/octet-stream" sparkle:edSignature="T3eMmhnw3eicGZLARQ0cVfn8HqrB2Wp9Mce7OxgXW9YUq6Z0cOEF4FrMSa+XSoXk4c3nYo8Q3o6DLquxT2SXAA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: JN5eWhl0swtRiOyFuOxGo7oHRSd88w2SMbvHPrq0Bzb+TsV8h07MHCEkY1JvpTWFEO+0xAnib2Yb2SH1zhi2Cg==
-length: 1616
+- 「所有文档更新」可按项目、文件名或路径筛选。跨项目的同名文件会显示所属位置，返回列表会保留筛选和结果的位置。
+- 对照中可点「标为已读并看下一篇」。Markeen 核对本次所看的版本，再重新检查下一篇，并打开它当前的改动。下一篇已没有待核对内容时，会回到更新列表。
+- 在对照里打开相关文档再返回，可继续同一组核对。也可从更新列表回到开始核对前的原文档、选区和阅读位置。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build335/Markeen-0.1.0-alpha-build335.zip" length="6536241" type="application/octet-stream" sparkle:edSignature="HAqRXnF1NJ9zFL3lKbxUJDwPVK3URrH0r/tK7s3LzO7G+AaNLBDF9aYMVZapgLQY6lJTY6Mawyx1JZi+7RlaAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: szfzNbdgLStMmHjqhHtlSM+oipK/N0l3EaamesQBf5OhnhfOM/j4Ei4KsgHjp0mqHpNrPd3xjUpX8I8NjjCMCw==
+length: 1571
 -->
