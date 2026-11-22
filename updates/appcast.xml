@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 345</title><sparkle:version>345</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 345</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build345 看清引用范围和写入位置
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 346</title><sparkle:version>346</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 346</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build346 从出处直接带回改动
 
-- 搜索结果的上下文预览会标出引用范围和行号。选中一句后，可以直接收藏或复制所选文字。
-- 插入引用前可看到目标草稿、位置和段落摘录。批量插入也会显示同一位置。
-- 出处在确认前发生变化时，先保留草稿，再引导重新核对。确认出处的新位置后，继续插到原定段落。
+- 在项目 Markdown 正文选中一句，即可收藏这句话和源码位置。正文和搜索预览都可以把收藏带回原改动。
+- 返回原改动后，点「带入引用…」直接核对刚收藏的原句和插入位置。确认后写进草稿，按 Esc 或点关闭按钮可回到同一处改动。
+- 出处有更新时可重新核对，仍写入原定段落。目标文档有更新时，可先刷新对照。
 
-此版本适用于 macOS 12 及以上，提供 Intel 和 Apple Silicon 通用安装包。已在 Intel Mac 验证，应用仍为未公证 Alpha。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build345/Markeen-0.1.0-alpha-build345.zip" length="6543999" type="application/octet-stream" sparkle:edSignature="RFdZ7lCKyNZ7wLi9AIe5G5pTW0sEqm1bOGZa9kxAJLAD2v6mHpdShf64diM8A0lfpV44x+lD0kmnoRSmTVTfBA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: DL2AXs7+wHTuAbF7mjlsXqHLADpeisbjh+EFmAIJ/LfveUIKMiS9t82R8AJgnJEiEzW/qXoGZqIrEdGkVXcjBg==
-length: 1568
+此版本为 macOS 12 及以上的 Intel 和 Apple Silicon 通用 Alpha。已在 Intel Mac 验证，应用仍未公证。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build346/Markeen-0.1.0-alpha-build346.zip" length="6544987" type="application/octet-stream" sparkle:edSignature="rJ/5h3Gy91BLwzprpHzBGsFuN0/ejB7qMrmSMLkfaDVJnKEQ0Nj2Ucn5rZHi8Pr3Rz90eW8IwyqiBtibT3fNBQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: pK8b1r241P/RuUo3znvyniq+xeZ9t8sp+EKjSPUaex5tH0tIuV0uQHt4xhba/N34NcGKhSHiH5mKECD7R1VDCg==
+length: 1592
 -->
