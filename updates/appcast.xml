@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 337</title><sparkle:version>337</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 337</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build337
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 338</title><sparkle:version>338</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 338</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build338
 
-## 把核对过的出处写进交付文档
+## 看清链接改动，核对后接着读
 
-- 阅读正文时加段落书签，在只读源码中收藏所选行，在 PDF 中收藏当前页或原句。编辑同一项目的文档时，「插入引用」可以搜索这些出处，确认后插到当前段落之后。
-- 源码挪了行，Markeen 会用原句和上下文核对新位置。PDF 更新会暂停插入，可以在原草稿里打开当前文件、重新收藏，再回来继续。收藏会在重启后保留。
-- 也可以直接复制引用再粘贴。粘贴到同项目的子目录草稿时，Markeen 按草稿位置计算链接。保存后可以点回源码的具体行或 PDF 的具体页。一次撤销可移除整次粘贴。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build337/Markeen-0.1.0-alpha-build337.zip" length="6455834" type="application/octet-stream" sparkle:edSignature="9EdIGyQv60o+2socyRru8xo154NYpgUJD5DIURoRWnLye9VQ2inE3Y2nvtpjtYSk9aYIvnlXDZ6YdEOdsmSyBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 8nRgSdhG9srX+PGwPgH6T7ZsbygBCGn5rpP98EiuYeJwsKJzvRfVtxvADO5O9lmbfuHJwJIiaDb2OflJRn7cBw==
-length: 1733
+- 「按正文查看」会列出链接更新前后的地址，即使链接文字相同。可以分别打开目标，定位到对应代码行或 Markdown 章节。
+- 从改动打开另一篇 Markdown 后，用「返回改动」回到原链接。原文的展开状态和文字选区会保留。目标已移走时，界面会显示找不到的文件名。
+- 已载入的新版本可以直接「编辑这处」。只改了一个链接地址时，会选中对应的源码地址。保存后回到相关段落继续阅读。
+- 欢迎页的示例也支持核对相关文档。返回示例后可以继续查看改动，再打开自己的文档。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build338/Markeen-0.1.0-alpha-build338.zip" length="6458802" type="application/octet-stream" sparkle:edSignature="zvHnY3GIBHCRdoF91+U7k/+Jb+SXAhTgxMm6WT93rbCBy3NScWGuH+5NAYT1/FrWL+deXpZ17CDH6hqdv8vlDg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 18njHgvFzfeP6Aa1na0Nz0IPZ/Rd0w19nS1KM3jwQlfp+9FbL8qDzbMMn7u9+TEq/bDSUDOb9GnPHnUc9ukhBw==
+length: 1723
 -->
