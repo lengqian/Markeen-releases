@@ -1,12 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 333</title><sparkle:version>333</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 333</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build333
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 334</title><sparkle:version>334</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 334</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build334
 
-打开 PDF 引用后，可以查找原句、核对页码，再把出处带回 Markdown。
-
-- 在 PDF 预览里点「查找」或按 `⌘F`。找到原句后会跳到对应页，在「本页文字」中标出匹配。上一处和下一处也能在同一页的多个匹配间切换。
-- 点「复制页码链接」取得可直接粘贴到 Markdown 的链接。选中本页文字后，同一个按钮可复制引文和页码链接。
-- 从展开原文进入，关闭预览后仍可接着核对原来的改动。查找适用于带文字层的 PDF。扫描稿可继续查看页面，受限的查找会标明部分结果。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build333/Markeen-0.1.0-alpha-build333.zip" length="6506017" type="application/octet-stream" sparkle:edSignature="kCFRciVBPCB++lQqb3WJmggeiaJNj9n6S0BfLudEzsUNe1OVMzsQnbzbXFRlA+JMHbekeHZRQFHiwg/8fL6LBw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: Pvgozwz2AeKTCuyghGn2n5p/aEQnP6A6az3AXb21K8J7W/y65ujE987tQGzPQOK0I1+GsjZd8PHehWsR4diQDg==
-length: 1659
+- 在文档菜单或文件的右键菜单中选择「设为项目入口」。侧栏会立即更新，正在读的文档和选区会保留。
+- 打开项目入口会从页面开头读起，再点返回可回到刚才的段落。同一篇文档内从中段回到开头，也能返回原处。
+- 重开项目仍会优先续读。上次文档暂时无法打开时，Markeen 会说明原因并打开可用入口。自定义入口暂时移走时，侧栏会显示可用的自动入口，原文件回到项目后会恢复自定义入口。也可从文档菜单恢复自动选择。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build334/Markeen-0.1.0-alpha-build334.zip" length="6530316" type="application/octet-stream" sparkle:edSignature="T3eMmhnw3eicGZLARQ0cVfn8HqrB2Wp9Mce7OxgXW9YUq6Z0cOEF4FrMSa+XSoXk4c3nYo8Q3o6DLquxT2SXAA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: JN5eWhl0swtRiOyFuOxGo7oHRSd88w2SMbvHPrq0Bzb+TsV8h07MHCEkY1JvpTWFEO+0xAnib2Yb2SH1zhi2Cg==
+length: 1616
 -->
