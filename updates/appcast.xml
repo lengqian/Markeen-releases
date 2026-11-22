@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 319</title><sparkle:version>319</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 319</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build319
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 320</title><sparkle:version>320</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 320</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build320
 
-欢迎页新增「粘贴 Markdown…」。从聊天或 Agent 复制一段内容，按 ⌘V 就能看到 Markdown 排版。
+一次选择或拖入多份 Markdown，打开第一份可读的文档，其余文件保留在顶部「清单」里。
 
-- 预览支持标题、任务列表、表格和代码。切回「源码」修改时保留选区和滚动位置。
-- 点「保存为 Markdown…」选择位置，保存后直接进入正常阅读。此时可打开相对链接和引用图片。
-- 取消保存继续停留在同一份预览。关闭后可在本次运行期间继续，取消保存时不创建文件。
-- 已打开文档时，可从「Markeen → 粘贴 Markdown 预览…」进入。关闭后可以接着读原来的段落。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build319/Markeen-0.1.0-alpha-build319.zip" length="6191728" type="application/octet-stream" sparkle:edSignature="A7oH+lmP7g4D03IQl12C2jO3DOuNInKwoH8FB1kXARpwZQOb6FRbo4hRsfFlP2fr0zq6nuEerYntWLREm0iCDw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: hjGhNexAdZxfq08bhDysW4q6xXNJGSH9yyJuUsMn80H6PFH/XHSts6ajTvtWoDNmKHOpAxjWkZoWDvKWWiw7DQ==
-length: 1655
+- 同名文件显示可区分的父目录。点选文件，或用「上一份」「下一份」按清单顺序阅读。关闭清单时保留原文的选区和位置。
+- 文件暂时找不到时，仍可留在原文。文件恢复后可以在同一行重试。切换时继续沿用草稿保护。
+- 重启后继续读上次的文档，清单也会保留。可以用一组新文件替换，或随时清空。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build320/Markeen-0.1.0-alpha-build320.zip" length="6209945" type="application/octet-stream" sparkle:edSignature="1yPu1pOGfirk9kS8L0RVhEKKY64bLP8dApTNrR+RX592xPLNxX1MLXKuXwe+FwgyxA1BuyaRbbsKJ+ujIDsPCA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: Rc2V0LlOSZ//hvsY9sYYEXrbFJmjWcKHXx6a94dJU1gFNLaifwp3/BUKXimDnscwt6en8sO9bycNKrCUAP1+BQ==
+length: 1568
 -->
