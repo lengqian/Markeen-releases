@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 342</title><sparkle:version>342</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 342</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build342
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 343</title><sparkle:version>343</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 343</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build343
 
-## 看完出处，回到这处改动继续编辑
+## 用示例走通一次文档审阅
 
-- 从「查找依据」打开项目内的来源文档后，可点「返回第 N 处改动」。在来源预览核对后，也可直接返回。原编号、展开状态和选中的文字会一起恢复。
-- 正文对照里点「编辑这处」可直接定位源码。正文仍停在旧版时，会先载入刚核对过的新版。核对期间文件再次更新时，可先刷新再编辑。
-- 可先预览草稿，再选择「保存到文件」。内置示例支持练习编辑和保存，可以回到自己的文档接着读。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build342/Markeen-0.1.0-alpha-build342.zip" length="6539815" type="application/octet-stream" sparkle:edSignature="uSa+Rb7fVCrJ0CEMIOqjXJNxC/BQFYVwqEbnMMOSeMQgCtrHbK0kYaAMieL+hkDj5pbTP523VUuXpdE+iOtaCQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: As+vDgfqOzNyinBV/Ejsws1XdCi5hlBulaV2vC7bqQqafirC3og5foYmIc+bbjaD5CNMPPk3aLVx4pk85PnwBA==
-length: 1619
+- 从欢迎页点「用示例查看改动」，即可看前后原句、查找补充说明，再用「返回第 1 处改动」接回对照。可以直接编辑、预览并保存示例。
+- 从自己的文档进入示例后，能回到原文档的选区和阅读位置。欢迎页示例可在关闭旧版留存的情况下体验。
+- 审阅项目文档时，「查找依据…」会带入选中的新版文字，直接输入即可换词。「查找操作」也能打开查询或接回刚才的改动。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build343/Markeen-0.1.0-alpha-build343.zip" length="6540171" type="application/octet-stream" sparkle:edSignature="6rRiOWU5yphuk4ZqCZBClHoiR+77Y6dAuY9kR0s04wH6ZMRuOuyH3r4SyeCzWhnYhlDX0pDpr13/5kQ0WxtXDw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: euKYtCbTthDeWJuohkzRUyLkBH6WAqijY7tiEp/dRfx2PK++M9z7SetV2hZ4oXtEuI/Guo2n0FdEgHcH2VdoCQ==
+length: 1580
 -->
