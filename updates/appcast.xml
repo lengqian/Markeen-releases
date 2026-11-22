@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 343</title><sparkle:version>343</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 343</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build343
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 344</title><sparkle:version>344</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 344</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build344
 
-## 用示例走通一次文档审阅
+## 从示例接着读自己的项目
 
-- 从欢迎页点「用示例查看改动」，即可看前后原句、查找补充说明，再用「返回第 1 处改动」接回对照。可以直接编辑、预览并保存示例。
-- 从自己的文档进入示例后，能回到原文档的选区和阅读位置。欢迎页示例可在关闭旧版留存的情况下体验。
-- 审阅项目文档时，「查找依据…」会带入选中的新版文字，直接输入即可换词。「查找操作」也能打开查询或接回刚才的改动。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build343/Markeen-0.1.0-alpha-build343.zip" length="6540171" type="application/octet-stream" sparkle:edSignature="6rRiOWU5yphuk4ZqCZBClHoiR+77Y6dAuY9kR0s04wH6ZMRuOuyH3r4SyeCzWhnYhlDX0pDpr13/5kQ0WxtXDw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: euKYtCbTthDeWJuohkzRUyLkBH6WAqijY7tiEp/dRfx2PK++M9z7SetV2hZ4oXtEuI/Guo2n0FdEgHcH2VdoCQ==
-length: 1580
+- 保存示例后，主操作是「打开自己的文档…」。重复体验另建一份，旧示例可从项目菜单的「本机示例」找回。从自己的文档开始练习时，可直接返回来的位置。
+- 在正文选中文字点「搜项目」，优先显示其他文档中的匹配。原文标为「搜索起点」，只找到原文时会提示缩短关键词。手动输入仍按通常的相关性排序。
+- 在出处页换过搜索词后，仍可返回原段落，恢复选区、原搜索词和匹配顺序。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build344/Markeen-0.1.0-alpha-build344.zip" length="6543125" type="application/octet-stream" sparkle:edSignature="sfMB8CUwqQXI6Sd90wsxGNLDOENZQdQ3eEhadKg+GTCeQzRHgcYQXyYVtjO22OZvw6MB8xWDU+OMSTwPfoMJDg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: N/qIYAx+zf5Tk+ttFlJB0UIhnnSj9vPv0IVbnP0opYhM98MoNMPnKbDKUpy9bd7OOSYRZ1gPrVIcEFehkebZAQ==
+length: 1607
 -->
