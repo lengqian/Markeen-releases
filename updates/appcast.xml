@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 346</title><sparkle:version>346</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 346</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build346 从出处直接带回改动
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 347</title><sparkle:version>347</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 347</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build347 第一次把依据带回改动
 
-- 在项目 Markdown 正文选中一句，即可收藏这句话和源码位置。正文和搜索预览都可以把收藏带回原改动。
-- 返回原改动后，点「带入引用…」直接核对刚收藏的原句和插入位置。确认后写进草稿，按 Esc 或点关闭按钮可回到同一处改动。
-- 出处有更新时可重新核对，仍写入原定段落。目标文档有更新时，可先刷新对照。
+- 从欢迎页打开示例，核对修改前后，再沿「查找依据…」直接阅读补充说明中的对应原句。
+- 点「收藏这句」，返回原来的改动即可带入引用。确认原句、出处行号和写入位置后再保存。示例保存在本机，保存后还可以点引用核对来源。
+- 在窄窗里返回示例对照时，工具栏留出完整的前后两句。完成体验后，可以直接打开自己的 Markdown 或项目文件夹。
 
 此版本为 macOS 12 及以上的 Intel 和 Apple Silicon 通用 Alpha。已在 Intel Mac 验证，应用仍未公证。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build346/Markeen-0.1.0-alpha-build346.zip" length="6544987" type="application/octet-stream" sparkle:edSignature="rJ/5h3Gy91BLwzprpHzBGsFuN0/ejB7qMrmSMLkfaDVJnKEQ0Nj2Ucn5rZHi8Pr3Rz90eW8IwyqiBtibT3fNBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: pK8b1r241P/RuUo3znvyniq+xeZ9t8sp+EKjSPUaex5tH0tIuV0uQHt4xhba/N34NcGKhSHiH5mKECD7R1VDCg==
-length: 1592
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build347/Markeen-0.1.0-alpha-build347.zip" length="6545909" type="application/octet-stream" sparkle:edSignature="peF89pd3L9KQFAhPL6V9trS/q3vDj8eeaZCIvyMT82MBr026WNY8TJphS8tsLROTRDRnbDgCB1qa6qJM42eiCQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: qIsn43AZQVJjEYHCU2ze7RjPD5IyQe1BeupgRjKW2GzUXwG5y89Ig589xLJnK4ARiiTCktfCqueS6PX5/kU1AA==
+length: 1641
 -->
