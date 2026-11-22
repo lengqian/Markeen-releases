@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 318</title><sparkle:version>318</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 318</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build318
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 319</title><sparkle:version>319</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 319</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build319
 
-从报告右上角的「…」选择「导出阅读包…」，把正文和需要一起核对的附件保存为一个 ZIP。
+欢迎页新增「粘贴 Markdown…」。从聊天或 Agent 复制一段内容，按 ⌘V 就能看到 Markdown 排版。
 
-- 保存前可以核对正文版本、文件路径和总大小。正文图片默认勾选，其他引用文件按需勾选。缺失文件与项目范围外的链接会提示。
-- ZIP 里的 README 指向正文。附件和正文保留项目内的相对位置，解压后可以沿原链接打开已附带的文件。
-- 可以导出当前阅读版本，也可以从草稿预览导出。导出后接着读，原文和本机草稿保留在原处。
-- 取消保存或遇到所选文件已不可读取，可以回到同一份导出清单。保存成功后可在 Finder 中显示 ZIP。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build318/Markeen-0.1.0-alpha-build318.zip" length="6180299" type="application/octet-stream" sparkle:edSignature="XvBrVycJYJ5x8214k0evAuxQo0VQrFJB6nhDI1e2r81kQljuW7i7w627hEWds0bUYlDRe2E5W6gMhtg6nqgmDQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: sU/jR9ylsQsQheUL+svsftbHyFyvckZmr4w1kvzIg5akFFBSmNj+H30ENji4xAYfbfbSjJrotQjKalMwGii0Bw==
-length: 1746
+- 预览支持标题、任务列表、表格和代码。切回「源码」修改时保留选区和滚动位置。
+- 点「保存为 Markdown…」选择位置，保存后直接进入正常阅读。此时可打开相对链接和引用图片。
+- 取消保存继续停留在同一份预览。关闭后可在本次运行期间继续，取消保存时不创建文件。
+- 已打开文档时，可从「Markeen → 粘贴 Markdown 预览…」进入。关闭后可以接着读原来的段落。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build319/Markeen-0.1.0-alpha-build319.zip" length="6191728" type="application/octet-stream" sparkle:edSignature="A7oH+lmP7g4D03IQl12C2jO3DOuNInKwoH8FB1kXARpwZQOb6FRbo4hRsfFlP2fr0zq6nuEerYntWLREm0iCDw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: hjGhNexAdZxfq08bhDysW4q6xXNJGSH9yyJuUsMn80H6PFH/XHSts6ajTvtWoDNmKHOpAxjWkZoWDvKWWiw7DQ==
+length: 1655
 -->
