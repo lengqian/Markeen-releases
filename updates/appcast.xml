@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 306</title><sparkle:version>306</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 306</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build306
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 307</title><sparkle:version>307</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 307</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build307
 
-把之前复制的完整引用粘贴到项目搜索，打开「核对引用」即可查看原句在当前文件的位置。
+核对旧引用时，可以逐处查看当前文件里重复出现的原句。
 
-- 原句仍然唯一时，高亮实际文字和所在行。行号已经变化时，同时显示引用里记录的行号。
-- 原句出现多次或无法确认时，说明核对结果。原行号仍存在时，可以手动前往查看。
-- 直接输入路径和行号仍按所填位置打开。核对后返回可以接着原来的选区和阅读位置读。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build306/Markeen-0.1.0-alpha-build306.zip" length="6088863" type="application/octet-stream" sparkle:edSignature="pNMQWxD9H3rGFPOsInyilaFZQiecGa9HTqpl+gJrcaIqYpEwYuwNRpjgrKuEfXDVcnC5b/fDLNXFuyycPpWABQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: vfCnZMzr2dCwg/5V/xfOxymVkYJmVUk+NbkZRySYd+RziFHgX60ujo55Gsy1v+KzS2qs9nzA3sYojEISjJC2Dg==
-length: 1523
+- 原句有多处时，点「查看匹配」，再用「上一处」和「下一处」查看行号与上下文。也可以回到引用里记录的原行号。
+- 跨多个普通 Markdown 段落的引用会尝试核对排版后的文字，定位到相应源码行。
+- 修复只读文件内查找的跳转。找到匹配后，回车可定位，复制位置使用实际匹配行。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build307/Markeen-0.1.0-alpha-build307.zip" length="6089712" type="application/octet-stream" sparkle:edSignature="Rr4ZiIvfahi07o741eoLJ2UpkdUqETXIRG6Nj54QrSvUdfXiQiNkmQkTc5h5/+gflucSrOmbD96PORk0llYSBA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: IvcMBt+V1k78NEEAxjUZAD0iQv1RUtqdCwQAtkyetO6PGIBHzb+ecqy1qeYZVMsMo1KAYZLhW0w16kswu5e3CQ==
+length: 1500
 -->
