@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 315</title><sparkle:version>315</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 315</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build315
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 316</title><sparkle:version>316</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 316</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build316
 
-写交付说明、技术方案或 README 时，可以在草稿里把引文和出处整理好，再用实际排版核对。
+读交付说明或 Agent 报告时，可以从全文找到想核对的出处，查看目标后再接着读。
 
-- 选中多段文字即可生成一个引用块。工具栏操作支持整步撤销。
-- 「链接…」可搜索项目里的 Markdown，也可输入网页地址、相对路径或章节锚点。同名文档会显示各自所在目录，插入时会生成从当前文件出发的相对路径。
-- 显示文字沿用当前选区，也可以自行修改。取消会回到编辑前的选区和滚动位置。预览时可核对引用排版及显示文字，点「保存到文件」写入原文件。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build315/Markeen-0.1.0-alpha-build315.zip" length="6121926" type="application/octet-stream" sparkle:edSignature="FxLxYSAyTLLERc/Eiko394jZSNd11qVl1R/gtW/0CWHdSIoXSljF7Ynsa3IFx9a03EDkNAyBKaUqEpj+UzHADA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 7iIfIVNw9hC07hy7PHt2dSVI1Cn1B938P81fZ7rhhruemU+H8OizNALhSBbWG+FDY46crwZ96tZqdJH2jHmaDg==
-length: 1660
+- 文档「⋯ → 本文链接…」按链接文字、路径或章节筛选。每条结果都显示出处所在的章节，同名引用可直接区分。
+- 选择结果会定位并突出显示正文里的原链接。随后可打开 Markdown、源码行或网页。长文后段的引用也能找到。
+- 看完目标可返回精确的引用处，再回到查找前的原段落和选区。同一文档的上一次筛选会在本次使用期间记住。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build316/Markeen-0.1.0-alpha-build316.zip" length="6125732" type="application/octet-stream" sparkle:edSignature="PzCdJDCFAmkQsoS7JScXP3Dt76Z4WDWRtMZtrEGw8FhhlDVmTvJ6Dno528jSyPEGeRL12k82+QG+a2S/SMdcDg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: ooYlwmficnKr4/8Utrv4Kq0b+7G982jwjK7v5sVknq6r8k4EInmAQ4VyCH7F8SKbyeKb2oSfYSU9nZTfkLQqDg==
+length: 1604
 -->
