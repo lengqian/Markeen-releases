@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 307</title><sparkle:version>307</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 307</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build307
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 308</title><sparkle:version>308</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 308</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build308
 
-核对旧引用时，可以逐处查看当前文件里重复出现的原句。
+需要核对重复引用时，可直接选中要看的匹配行，并从当前文件复制可重新定位的引用。
 
-- 原句有多处时，点「查看匹配」，再用「上一处」和「下一处」查看行号与上下文。也可以回到引用里记录的原行号。
-- 跨多个普通 Markdown 段落的引用会尝试核对排版后的文字，定位到相应源码行。
-- 修复只读文件内查找的跳转。找到匹配后，回车可定位，复制位置使用实际匹配行。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build307/Markeen-0.1.0-alpha-build307.zip" length="6089712" type="application/octet-stream" sparkle:edSignature="Rr4ZiIvfahi07o741eoLJ2UpkdUqETXIRG6Nj54QrSvUdfXiQiNkmQkTc5h5/+gflucSrOmbD96PORk0llYSBA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: IvcMBt+V1k78NEEAxjUZAD0iQv1RUtqdCwQAtkyetO6PGIBHzb+ecqy1qeYZVMsMo1KAYZLhW0w16kswu5e3CQ==
-length: 1500
+- 每个候选列出当前文件的行号，支持直接选取或逐处翻看。
+- 「复制位置」带上当前候选的准确行号。「复制此处引用」会带上足以区分该处的邻近源码。以后行号变化时，可以再次粘贴到项目搜索核对。
+- 附近源码也重复时，仍可复制准确行号，或自行选择一段更有辨识度的文字复制引用。
+- 复制后显示实际复制的范围。文件内查找跳到别处时，会清除旧候选的高亮及引用入口。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build308/Markeen-0.1.0-alpha-build308.zip" length="6090564" type="application/octet-stream" sparkle:edSignature="oXra5uxjXg9tCSUTT2r5U6GwDUoXntJJXhx/Dzi2ZJgrSMsQe3+ihN0RBy4HFR3lfmZGTmYdZJiIRi9ZxuIJAg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 7MQYLWMzqAzCc9IL4ab6CxR+gId4usBGItc1EG464qLJDoLoMHu0XBfYNWD05MmYs3I0MykWnySGvMZ9jekwBw==
+length: 1670
 -->
