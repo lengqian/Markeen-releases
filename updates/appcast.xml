@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 304</title><sparkle:version>304</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 304</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build304
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 305</title><sparkle:version>305</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 305</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build305
 
-从本机示例的文档改动出发，可以直接找一条依据，再把同样的操作用到自己的项目。
+打开项目后，可以在正文索引准备时开始搜索。
 
-- 在示例对照里点「试搜一条依据」，即可进入项目搜索，打开「上下文」对应的正文。
-- 在找到的示例原句旁，阅读提示会指出如何复制引用。「打开自己的文档…」也可以直接从这个页面使用。
-- 欢迎页和「快速上手」介绍了项目正文搜索和复制引用。打开自己的目录后，即可使用相同的阅读和搜索入口。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build304/Markeen-0.1.0-alpha-build304.zip" length="6087082" type="application/octet-stream" sparkle:edSignature="wcp6r9OSHaW4pvaHyrvhicLhQvJpdTkdeuupHQ7guuTicN0a/8IV/wtYL24lz9+MiXPozF8iOzEbOMZugcYnDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: SNqd84sQ+zV6/xohdvjXiFepP/In4fw41jisrIBKXS/JnUujKCR1QJ0zEsk18F7JOTiyamoplS9sgdYr25VfAA==
-length: 1568
+- 搜索还在准备时，按回车会等待匹配。首项可用时直接打开，按 Esc 可取消等待并保留搜索词。
+- 鼠标按住结果时，索引更新会等到松手再刷新列表，点击仍对应按下时的文档。
+- 同一引用路径也出现在 Markdown 正文时，按回车会直接打开引用指向的文件和行号。仍可点正文结果阅读该篇文档。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build305/Markeen-0.1.0-alpha-build305.zip" length="6087359" type="application/octet-stream" sparkle:edSignature="XYgwc0sPGTKcd4h/+t4O0IdYrzFqxZ+zeIhLkbFiXo1pQJE4ewitwpcntzMAzuhNZtGVaXMNZX3DjJi15yRgCw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: +p6DM3Hk95+BFIZ63H1oiErCEJhjqVas7HAGMJRJG7NNi4DV4nhbZwiP6xkmyQjy7yOmMKHeePwSDh6D4CBDAw==
+length: 1496
 -->
