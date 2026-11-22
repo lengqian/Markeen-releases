@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 280</title><sparkle:version>280</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 280</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build280
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 281</title><sparkle:version>281</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 281</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build281
 
-- 项目搜索优先显示本文匹配数和当前位置。窄侧栏里也能完整读到「本文 2 / 3」，无需从重复的查找词后寻找数字。
-- 组合关键词定位到其中一个词时，单独标明正文的查找词。扫描进度也在计数下方显示。
-- 收起侧栏继续逐处查看，再返回项目结果时保留当前匹配和文字选区。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build280/Markeen-0.1.0-alpha-build280.zip" length="6057642" type="application/octet-stream" sparkle:edSignature="sMNEWZVWqC1cwazwoApP3wPzbWMtYUdLZb5J08qbYb1uxS2bhlQPKQMkMcuTsvqMn3TGvkc6Md7Rlwi7yhR4BA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: iIJPBbc/8dDQzz0tjlk6RKIb1QHoR7dQ857g+aFh5tJthv7w5qSIkxd9LecSVWVti6q9AZjmbUBwQkDpKeKKAg==
-length: 1413
+- 示例对照结束后，可点「试搜『上下文』」，在真实项目搜索里找到另一篇的依据，并用历史返回刚才的阅读位置。
+- 「打开自己的文档…」仍在同一处。选择文件或文件夹后即可进入日常阅读。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build281/Markeen-0.1.0-alpha-build281.zip" length="6057889" type="application/octet-stream" sparkle:edSignature="cvVr9/9jltfpqKZ79Mwy5RCwoka7xpTfbD6gE0KBWbF1vE4ZNYz9LLVGJE24NbA78nRoWM6KglcDlCWEu7MDAA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: +pe4ywjfVVIJBGCcrZEllpyWQ6p8QfkIlW95zZPV6BGRyslcuqet+3cRSZUGBWSdFLcc23rjQHaMIJzYZGSHCQ==
+length: 1302
 -->
