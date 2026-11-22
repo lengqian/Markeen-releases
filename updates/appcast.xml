@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 340</title><sparkle:version>340</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 340</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build340
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 341</title><sparkle:version>341</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 341</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build341
 
-## 从文档改动找到依据，写回同一段
+## 找回、核对并复用项目引用
 
-- 核对项目文档的改动时，点「查找依据…」就能打开项目搜索，并回到刚才查看的改动段落。正文还停在旧版时，会先载入已经核对的版本。
-- 从搜索结果收藏出处后，点「在本篇插入…」回到当前文档。可以查看各条原文，选好几条后一次插入草稿。已选项显示文件和行号或页码。
-- 插入前会再次核对来源。有一条发生变化时，仍可在原草稿里保留已选列表并重新核对该条。整批插入可一次撤销。
-- 在窄窗里查看长摘录时，可以单独滚动摘录，「加入已选」等操作保持可见。内置示例也可从改动继续到查找和引用出处。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build340/Markeen-0.1.0-alpha-build340.zip" length="6479512" type="application/octet-stream" sparkle:edSignature="GdqgY3myuNu85cw5HKWnCYbP2edE2/a7hvK5TcCTYqhF4lxGu3V1u9lJRFqtS8rXInlG9DG2nrQbsG98F0n/Ag==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 9aIzaUw9qMu3w4uxO/OCJpalj32nWdTx7QTRSXVoaFVf2KWDZCWh+1UvXILidp3mCYeV88J3le69svc8TkElAw==
-length: 1790
+- 阅读时可从文档菜单或「查找操作」打开「收藏的引用」。可用文件名、摘录或页码筛选，直接核对源码行与 PDF 原页。
+- 同一段原文移到新行后，如果能确认是同一处，重新收藏会更新原条目。文件中两处相同文字可分别收藏。旧预览遇到新版本时会提示重新核对。
+- 从搜索点「在本篇插入…」直接打开刚收藏的摘录。可确认插入当前草稿，也可回列表选几条再一起插入。
+- 从只读源码或 PDF 重新收藏并返回时，直接显示刚更新的条目，保留之前的筛选、阅读位置和选区。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build341/Markeen-0.1.0-alpha-build341.zip" length="6538934" type="application/octet-stream" sparkle:edSignature="noXK/8eR4KA75Vm/muiy6ZMEB72rpPAWEF6NMqFj2tppMKKK3OEyMWD818KK1Y9fbzqLmhMvz2evDtbi9cWVDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: r6zB5r8ykYZCD2eYQbxCeGyzPRSK0SLO2nbwJwPpzhonoB76zVIOWcZdaXWy4tkQ18UJ5+Bwcvm9aDUiWr/SAA==
+length: 1716
 -->
