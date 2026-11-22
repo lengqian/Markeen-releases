@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 311</title><sparkle:version>311</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 311</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build311
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 312</title><sparkle:version>312</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 312</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build312
 
-浏览长手册时，可以先看主章节，找到目标后随时回到刚才读的地方。
+需要重新确认项目怎么开始时，可以从任何一篇文档回看项目指南，再接着读原来的段落。
 
-- 「本文目录」新增「仅看主章节」。当前小节收起时，目录指向它所属的主章节。在本次运行中，重新打开同一篇文档会继续使用你选的目录范围。
-- 筛选仍查找整篇文档的标题。搜索同名小节时，可用上级章节缩小范围，清除筛选后恢复原来的目录范围。
-- 从目录跳转后，点「返回跳转前的位置」可回到刚才的段落和文字选区。返回和前进也可以继续使用历史按钮。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build311/Markeen-0.1.0-alpha-build311.zip" length="6093077" type="application/octet-stream" sparkle:edSignature="a3iQP5fNA2yzs7z4ZXDmT7d/xPvHm7PBNHe2s+XrnEww25mJFRLJVk4OlaWBZHxSDfHdP6z4qlUjw1Z43tHqAQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: sXaS6AU2TAFJ6ImlIpDcS8oriWMfdHdPqP+EzCcoiJeVb/OSOmWsTLwzu/R1XQplG8Ex03jJBk5zpb+Nb8+jBg==
-length: 1628
+- 文件侧栏新增「项目入口」，显示实际指南路径。收起侧栏时，也能从文档菜单打开。
+- 打开项目入口从指南开头读起。点返回按钮，恢复出发的文档、阅读位置和文字选区。
+- Markeen 优先读取常见的项目指南。只有标题或占位内容的 README 会让位给有正文的指南。新增、改写或删除入口文件后，入口会随项目索引更新。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build312/Markeen-0.1.0-alpha-build312.zip" length="6100732" type="application/octet-stream" sparkle:edSignature="T7M15IZWJ4fUC5q0eb6OB8QDi9i31uU9ot1/wCMT55llYdGUOhSl60u+A5B7cGhU35JBDZVL9uVZVkPhzR+FBA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 3uNRzIqJhmu0EtMJWwoBZYDVpAChvkWuripA3foAYatSWmc2bSsGcM/aBjfF3Y2nQcvZz0ZefLW8lI85Gj1TAw==
+length: 1590
 -->
