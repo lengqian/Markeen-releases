@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 302</title><sparkle:version>302</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 302</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build302
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 303</title><sparkle:version>303</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 303</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build303
 
-在项目里搜到一条依据之后，可以沿用查找去核对更新，再回到读到的那句话。
+选中一句依据，就能把原文和出处一起带到笔记或讨论里。
 
-- 打开改动对照时，当前文档已有命中的项目搜索词会填入「对照查找」。对照中的查找可以单独修改，回到正文时继续原来的项目搜索。
-- 读取外部写入的新版后，仍能确认原句时，会保留同一句高亮并更新匹配编号。即使前面新添了同词匹配，也能接着原句读。
-- 原句已变化时，保留阅读位置并在本文匹配栏说明。仍可用上下箭头查找其他匹配。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build302/Markeen-0.1.0-alpha-build302.zip" length="6083272" type="application/octet-stream" sparkle:edSignature="v/zjPtQ4iif00yfW+hXWkv0C12NfLI/23/lmnvuu3J4OGFtyutJlh1hh5cK994t1jTu3KRS5PwexAT/fq65uDA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: R0C1+NdzyX6EDeofzv8Z6YfFcLAZIQwdDEAENtGvSpv/MXPBuCBG+7jiYcjtJOGk9BdGqlhnvXMd1hLeBQ11BQ==
-length: 1613
+- 在正文和只读源码里选中文字，点「复制引用」即可复制 Markdown 引文和出处。能确认当前文件行号时，出处附带行号。
+- 在改动对照中引用时，会标明「修改前」或「修改后」，方便转述时核对版本。
+- 把带行号的引用粘贴到同一项目的搜索框，按回车可打开对应文件和行。返回后可以接着原来的位置读。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build303/Markeen-0.1.0-alpha-build303.zip" length="6085231" type="application/octet-stream" sparkle:edSignature="hGiUYnVq4VhxtdeCjEPZ28XiOyie8MvfPBTiZ6YTSI22ERWQfkxFNPmts2Cpa+3cWUqXlH7oCGYN9NEqRdWrCw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: EVukQULsbPgwoUk3Bmb4oHvT8XXiKrgF6XhLxZloTrjUAcFH7B//B61pEMdOvvMx1IPFjILWhBFCoEhBUrv1Cg==
+length: 1530
 -->
