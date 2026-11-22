@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 314</title><sparkle:version>314</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 314</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build314
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 315</title><sparkle:version>315</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 315</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build315
 
-写 Markdown 时，可以直接用常用格式操作，并在预览后接回刚才的输入。
+写交付说明、技术方案或 README 时，可以在草稿里把引文和出处整理好，再用实际排版核对。
 
-- 编辑区上方新增二级标题、加粗、列表、任务和行内代码。行操作支持选中多行，单次撤销可还原一次格式操作。
-- 有修改时点「预览草稿」看实际排版。点「继续编辑」可回到原来的源码选区、方向和滚动位置。
-- 任务列表在阅读和预览里直接使用复选框。写回源文档时仍使用「保存到文件」。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build314/Markeen-0.1.0-alpha-build314.zip" length="6119448" type="application/octet-stream" sparkle:edSignature="ec46uFqB6yNDHBN61JHDs90QNBuJByykcr1ismiNrsZyC3AxSttwFMHNsyYaVwzkgpet6E6qF/LyU4FelVE9DA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: HV+I1qGbp6CtGMYRtrvdw04AHDOwhO+4pCyghjm1iNDeJ5x2b388vvukQRJ/YpSjB1KoyDMppz7+n+qyeMZMBg==
-length: 1533
+- 选中多段文字即可生成一个引用块。工具栏操作支持整步撤销。
+- 「链接…」可搜索项目里的 Markdown，也可输入网页地址、相对路径或章节锚点。同名文档会显示各自所在目录，插入时会生成从当前文件出发的相对路径。
+- 显示文字沿用当前选区，也可以自行修改。取消会回到编辑前的选区和滚动位置。预览时可核对引用排版及显示文字，点「保存到文件」写入原文件。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build315/Markeen-0.1.0-alpha-build315.zip" length="6121926" type="application/octet-stream" sparkle:edSignature="FxLxYSAyTLLERc/Eiko394jZSNd11qVl1R/gtW/0CWHdSIoXSljF7Ynsa3IFx9a03EDkNAyBKaUqEpj+UzHADA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 7iIfIVNw9hC07hy7PHt2dSVI1Cn1B938P81fZ7rhhruemU+H8OizNALhSBbWG+FDY46crwZ96tZqdJH2jHmaDg==
+length: 1660
 -->
