@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 331</title><sparkle:version>331</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 331</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build331
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 332</title><sparkle:version>332</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 332</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build332
 
-核对草稿时，可从差异直接进入对应的源码。
+可以在文档旁直接核对引用的 PDF 和图片。
 
-- 在「查看修改」中点「编辑草稿这处」。选中草稿正文时，会定位到选中的文字。逐行查看时，会定位到当前差异在草稿里的行。
-- 从源码编辑、草稿预览或本机恢复草稿进入对照，都能接着编辑。关闭对照返回原处，保留选区方向与编辑位置。
-- 窗口宽度改变时，返回编辑会重新找到原来可见的源码。草稿对照也可从「查找操作」进入。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build331/Markeen-0.1.0-alpha-build331.zip" length="6462056" type="application/octet-stream" sparkle:edSignature="31rbWcM3NiUSUkunzzRc97tOGLo+YdofmL7uuRF6jeHMvj0QeeQoso4PyuRYy473m7t//CBcXyhqoVacFb3FCw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: WqgJ/NlZyvWVTLPa8mci+I39TBmYP2xGbUg4QtHLyncD3c8UtpA1PQEVJUM0ZR0kyLSn7FTIG7OKuUUtfUiOBQ==
-length: 1556
+- 悬停链接可先看缩略图。点击后在 Markeen 内只读查看，关闭可回到正文或已展开的原文。
+- PDF 支持链接指定页码、翻页、输入页码和放大。电子 PDF 的可提取文字可通过「本页文字」选取。
+- 常见图片按文件内容识别。多帧图片预览第一帧。ZIP、损坏或需要密码等暂时无法预览的文件仍可在 Finder 中显示。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build332/Markeen-0.1.0-alpha-build332.zip" length="6487605" type="application/octet-stream" sparkle:edSignature="crp551rTY85l9oZ0AIMRRogyPQKL4CFugDKkjKLYLLjieMZSzMFvTTCN7DDZXEbCL9GkGv2Qg6BZFKrnIcURDw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: /kpgsmm7gQU/wVgLNAksmkns4vs3yDyR6gkp6L4BzgewrLJbMccaCATNzVSdwv6tMD03zyjjl8InB8g6e+sIBg==
+length: 1506
 -->
