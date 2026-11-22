@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 316</title><sparkle:version>316</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 316</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build316
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 317</title><sparkle:version>317</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 317</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build317
 
-读交付说明或 Agent 报告时，可以从全文找到想核对的出处，查看目标后再接着读。
+连续核对长报告的多个出处时，可以回到最初的原句，再接着使用刚才的链接列表。
 
-- 文档「⋯ → 本文链接…」按链接文字、路径或章节筛选。每条结果都显示出处所在的章节，同名引用可直接区分。
-- 选择结果会定位并突出显示正文里的原链接。随后可打开 Markdown、源码行或网页。长文后段的引用也能找到。
-- 看完目标可返回精确的引用处，再回到查找前的原段落和选区。同一文档的上一次筛选会在本次使用期间记住。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build316/Markeen-0.1.0-alpha-build316.zip" length="6125732" type="application/octet-stream" sparkle:edSignature="PzCdJDCFAmkQsoS7JScXP3Dt76Z4WDWRtMZtrEGw8FhhlDVmTvJ6Dno528jSyPEGeRL12k82+QG+a2S/SMdcDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: ooYlwmficnKr4/8Utrv4Kq0b+7G982jwjK7v5sVknq6r8k4EInmAQ4VyCH7F8SKbyeKb2oSfYSU9nZTfkLQqDg==
-length: 1604
+- 修复了同一文档内偶发无法返回的问题。WebKit 窗口焦点状态短暂变化时，仍可按原请求返回，恢复阅读位置和选区。
+- 返回或前进超时后会保留阅读位置，并显示重试入口。较迟到达的旧回复不会改变新操作。
+- 「本文链接…」记住筛选、列表滚动和上次定位的那一条。同名引用继续以路径和章节区分，按 ↓ 可从上次位置接着核对。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build317/Markeen-0.1.0-alpha-build317.zip" length="6126340" type="application/octet-stream" sparkle:edSignature="tyRm82HG6v/fuU+KW8Cx2X+7Cz2xMP/dZvgcPGjUgsMiKQJDdTaAJBQ8P61bov1XtMRwo/wswX/eUTu3dTOLBg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: KtxaOGKWBm79zKbRuJtmrjleM9VShkbBvpUxlkot/cO5hhSO2dSZSQFqeU2sdr2zlQ6dTInpaSBwTqreEJh0Cg==
+length: 1601
 -->
