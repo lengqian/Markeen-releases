@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 327</title><sparkle:version>327</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 327</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build327
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 328</title><sparkle:version>328</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 328</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build328
 
-一起打开项目文件夹和 Markdown 时，可以先选读哪项资料。
+在项目搜索结果中点「预览上下文」，可以先核对段落，再决定是否打开文档。
 
-- 一次拖入或选择多个文件夹，可按名称和位置选择打开的项目。
-- 文件夹和文档混在一起时，面板会列出项目和可读的 Markdown。可以打开一个项目，也可以指定先读哪份文档，再把这组文件放进新清单。
-- 重复、非 Markdown、无法读作 UTF-8 和超过大小限制的资料会显示原因。只打开 Markdown 时，可以直接开始读第一份可读文件。
-- 取消可以回到刚才的阅读位置、选区或源码编辑。资料移动后，可在同一面板改选。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build327/Markeen-0.1.0-alpha-build327.zip" length="6415065" type="application/octet-stream" sparkle:edSignature="lCfqVpIK6P3uX9WzvMQL2j2NWOfrT4R+sbqignWj5jMFRDPqfiG19A7mZiKl/Xz5ic63esuwsy3AFze2rrMGBw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: bUeRy912FFsV1Levq5cwDKTNA/NrHKbuSvYiYGht3xIFEPuKIsBoMLp2DqOFw0bgcxJDv8Y2RcmKn3f/NQPuDw==
-length: 1667
+- 预览显示路径、小节和对应的高亮。上下切换可继续核对同一篇的其他摘录，也可查看下一篇结果。
+- 「跳到正文」打开当前预览的匹配处。关闭预览或从正文返回，可以回到原阅读位置和选区。
+- 文件更新后，可从面板查看最新上下文。草稿的搜索结果会标明本机草稿，并定位到编辑器里的匹配。
+- 内容过长或无法可靠还原排版时，预览会标明「源码上下文」，保留准确的源码高亮。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build328/Markeen-0.1.0-alpha-build328.zip" length="6419617" type="application/octet-stream" sparkle:edSignature="Xyp08ne/lVlqqYAY2NJhGFg6L++R3GgMKE3OcnfplqJY9zetGZlhuRM3y9ZLmpkGRgNc2P6mBCz1SMUviZggAA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: pU20Ou98JGuL+NDBupcjC1ZcEwUd7CWXHVDEJrL82SPQvS5JgffU+rvM8NQ1fp72ewgfj8YY4Ls0doV7HVdHAA==
+length: 1664
 -->
