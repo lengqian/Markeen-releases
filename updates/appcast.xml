@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 329</title><sparkle:version>329</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 329</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build329
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 330</title><sparkle:version>330</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 330</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build330
 
-把项目里读到的依据直接写进自己的草稿。
+把两份独立的 Markdown 放在一起核对。
 
-- 在正文选中文字并加书签。编辑同项目的另一篇 Markdown 时，点「引用书签…」，可按原句或路径搜索。
-- 插入前可核对原句和行号。来源刚发生变动时，可重新核对。插入会在当前段落后加入引用和相对链接，可以一次撤销。
-- 阅读草稿中的引用时，点来源可在 Markeen 中打开只读原文。原句移动后，会尝试确认新位置。有多处匹配时可逐处核对。
-- 方括号和美元符等原句字符按字面保留，Markdown 章节链接继续按原来的规则跳转。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build329/Markeen-0.1.0-alpha-build329.zip" length="6442047" type="application/octet-stream" sparkle:edSignature="LyIZzaI8VyXr3AS7FP+IYZx3HkUyAhiPEnfP7KFV12WcBw185V5/BftOgH8I6KxKd3xDo4P3MjvdhDoV264mDA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: BY/kf6yU2rh/AI588Hn2L14TYtccNZ61d3l3L9H2+mfcCZNSDhc1yhbsyCQje3jmEy0CV0cwCQ5aUE2Z6vfgCw==
-length: 1674
+- 在文档的「…」菜单点「与参考稿对照…」，可选择另一份 Markdown 或粘贴旧稿。一次打开两份 Markdown 后，也可从「阅读清单」点「对照两份…」。
+- 面板显示当前文档与参考文件。打开对照后，可按正文阅读任一版本，展开单处参考稿，也可切到逐行查看。
+- CRLF 与 LF 的换行风格差异会被忽略，真正改动仍按原行号显示。两份内容只读，关闭后可在原位置接着读。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build330/Markeen-0.1.0-alpha-build330.zip" length="6461057" type="application/octet-stream" sparkle:edSignature="u32cO0wPY9wJMUat4e1p6FpyB2NTJLgOCZQAlJuu6y8mPtHWUjjZL2WxR+yw1AEP6oiA/blk4OIU1g3IGMo9AA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: FcoSMzel3BF/YKMwFA6pnYuSynYvZEgIsnI6Iz/q+ouwBcBh+Yq7vuVnfrIKYTQjZURYzSgjijvw0sj/4BgNAg==
+length: 1580
 -->
