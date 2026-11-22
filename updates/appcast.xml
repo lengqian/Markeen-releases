@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 313</title><sparkle:version>313</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 313</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build313
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 314</title><sparkle:version>314</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 314</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build314
 
-第一次打开空项目，可以在 Markeen 里写下第一篇 Markdown，再继续阅读和搜索。
+写 Markdown 时，可以直接用常用格式操作，并在预览后接回刚才的输入。
 
-- 空项目新增「新建 Markdown…」，建议从 README 开始。已有项目可从文件侧栏底部、文档菜单或 ⌘N 新建。
-- 创建时显示保存位置。在子文件夹中阅读时，可选择当前文件夹或项目根目录。省略扩展名会补上 .md。遇到同名文件时会提示换名。
-- 确认后直接进入编辑，按「保存到文件」写入正文。正常的本机草稿、项目搜索和阅读历史都能接上。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build313/Markeen-0.1.0-alpha-build313.zip" length="6116798" type="application/octet-stream" sparkle:edSignature="mhG3GIEwJYZuV2VLAQIChXqaQKnNT3wqQXrrvXtkSkfWlJddoCsYAiVdG96XwbK528AIaU+QCggThsyhEYfYAA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 4csiQegCJoz4lf/QAH9rEgfuYSdY/8Wh8HyiOEm49l/h1Tm9CodF29uK6xDAnZRsd8l2wp1E7NL1ZVNnx3QkAw==
-length: 1601
+- 编辑区上方新增二级标题、加粗、列表、任务和行内代码。行操作支持选中多行，单次撤销可还原一次格式操作。
+- 有修改时点「预览草稿」看实际排版。点「继续编辑」可回到原来的源码选区、方向和滚动位置。
+- 任务列表在阅读和预览里直接使用复选框。写回源文档时仍使用「保存到文件」。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build314/Markeen-0.1.0-alpha-build314.zip" length="6119448" type="application/octet-stream" sparkle:edSignature="ec46uFqB6yNDHBN61JHDs90QNBuJByykcr1ismiNrsZyC3AxSttwFMHNsyYaVwzkgpet6E6qF/LyU4FelVE9DA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: HV+I1qGbp6CtGMYRtrvdw04AHDOwhO+4pCyghjm1iNDeJ5x2b388vvukQRJ/YpSjB1KoyDMppz7+n+qyeMZMBg==
+length: 1533
 -->
