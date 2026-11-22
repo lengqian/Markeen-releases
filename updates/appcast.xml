@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 308</title><sparkle:version>308</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 308</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build308
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 309</title><sparkle:version>309</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 309</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build309
 
-需要核对重复引用时，可直接选中要看的匹配行，并从当前文件复制可重新定位的引用。
+先打开自己的文档，也能在阅读中体验一次改动核对。
 
-- 每个候选列出当前文件的行号，支持直接选取或逐处翻看。
-- 「复制位置」带上当前候选的准确行号。「复制此处引用」会带上足以区分该处的邻近源码。以后行号变化时，可以再次粘贴到项目搜索核对。
-- 附近源码也重复时，仍可复制准确行号，或自行选择一段更有辨识度的文字复制引用。
-- 复制后显示实际复制的范围。文件内查找跳到别处时，会清除旧候选的高亮及引用入口。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build308/Markeen-0.1.0-alpha-build308.zip" length="6090564" type="application/octet-stream" sparkle:edSignature="oXra5uxjXg9tCSUTT2r5U6GwDUoXntJJXhx/Dzi2ZJgrSMsQe3+ihN0RBy4HFR3lfmZGTmYdZJiIRi9ZxuIJAg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 7MQYLWMzqAzCc9IL4ab6CxR+gId4usBGItc1EG464qLJDoLoMHu0XBfYNWD05MmYs3I0MykWnySGvMZ9jekwBw==
-length: 1670
+- 项目侧栏的「更新」暂时没有改动时，可点「用示例查看改动」。单篇 Markdown 在「⋯ → 旧版与改动…」也有同一个入口。
+- 示例对照和相关说明提供「返回原文档」，可回到原来的阅读位置。已有实际更新时，侧栏直接给出该文档的「查看改动」。
+- 如果旧版留存已关闭，仍可先体验示例，再决定是否开启。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build309/Markeen-0.1.0-alpha-build309.zip" length="6091257" type="application/octet-stream" sparkle:edSignature="RMGC8cy4Oq1QTytQowiUJDPFWG6Ytc3We7rXbE1Q8os9TiG2dKsY0IpRs9x1JexD5+j7lhBLbNYTQcVCMxFmAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: rhuiKZoPFpoH4MSC14zMV0uJQJKbNqwiC1qspCI5Jiihhrcwku8nRfSRRY4ONY6hhJvblEfTsXkjw16OK0pQCA==
+length: 1529
 -->
