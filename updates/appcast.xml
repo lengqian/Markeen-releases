@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 279</title><sparkle:version>279</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 279</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Alpha · Build279
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 280</title><sparkle:version>280</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 280</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build280
 
-- 项目搜索在同一篇文档里按正文顺序呈现普通文字、加粗和链接里的匹配。「更多匹配」也能展开这些排版后的摘录，每条都能点到对应位置。
-- 按住一条搜索结果时，排版核对完成后会等点击结束再更新列表。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build279/Markeen-0.1.0-alpha-build279.zip" length="6057478" type="application/octet-stream" sparkle:edSignature="kECkVuXT1huBUsixY6keYyfhIb5BIoScjRjxu7RjtTU02+gqc63UOZgEGcvkbmmVQcm0rHiBZRlFL7jHaRPODQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 7Lvo51btycp0/Cb6MrjjRA8e+xDj7chsSfseIhy5vre5zBhyxtb7WwkbajCase4CqFh/2Xi/rg4eK2MOQvz2BQ==
-length: 1317
+- 项目搜索优先显示本文匹配数和当前位置。窄侧栏里也能完整读到「本文 2 / 3」，无需从重复的查找词后寻找数字。
+- 组合关键词定位到其中一个词时，单独标明正文的查找词。扫描进度也在计数下方显示。
+- 收起侧栏继续逐处查看，再返回项目结果时保留当前匹配和文字选区。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build280/Markeen-0.1.0-alpha-build280.zip" length="6057642" type="application/octet-stream" sparkle:edSignature="sMNEWZVWqC1cwazwoApP3wPzbWMtYUdLZb5J08qbYb1uxS2bhlQPKQMkMcuTsvqMn3TGvkc6Md7Rlwi7yhR4BA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: iIJPBbc/8dDQzz0tjlk6RKIb1QHoR7dQ857g+aFh5tJthv7w5qSIkxd9LecSVWVti6q9AZjmbUBwQkDpKeKKAg==
+length: 1413
 -->
