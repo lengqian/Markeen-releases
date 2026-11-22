@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 298</title><sparkle:version>298</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 298</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build298
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 300</title><sparkle:version>300</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 300</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build300
 
-编辑文字后，状态显示「草稿已存本机」，用「保存到文件」写回原文件。侧栏拉宽后也能完整看到状态。本机草稿写入失败时，当前修改仍可保存到文件。文件写入成功且当前修改已全部保存时，旧的草稿失败提示会收起。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build298/Markeen-0.1.0-alpha-build298.zip" length="6080611" type="application/octet-stream" sparkle:edSignature="z4A8TA1Hq1CeAvoXpdzNo28ggYzdd4lqWmW4TQSebPtSIVKGd0qbo/GkOS0FBGVPLiwSkADhMcjm+lVLxcQwDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: sYYaMixEqa19ikbkoFX/OSSSS3VBHq+5S/7qNkecgdcFUHm5vz+Oxr/SY29OaWrKqNCHrVN4/oWKYEgCb7iOCg==
-length: 1339
+从阅读里找到要修改的文字，直接进入源码，核对草稿后继续阅读。
+
+- 跨段选中文字后，滚到选区中间仍可从阅读区底部点「编辑这段」。返回阅读时保留选区和阅读位置。
+- 正文查找和项目搜索的本文匹配都可以点「编辑匹配」，在源码中选中当前命中。跨加粗等行内格式的匹配也可直接定位。
+- 「查看修改」从当前阅读位置或编辑光标附近的差异开始。切换逐行查看仍能核对同一处，返回后接着编辑或阅读。确认后可点「保存到文件」。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build300/Markeen-0.1.0-alpha-build300.zip" length="6081609" type="application/octet-stream" sparkle:edSignature="1itANiiMGwRmA30Dv3BzrW1UoFgYgTdF3hrBbGn3WTHGP8/gcRrIHvZ9oFpdFbMCzDCCszxq4rg2W6g3bxoMBw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: /53ygkxlHSJlIgdzcxu9oH6hs8Yr/+XJ7/tE1GjJUP3ZpJqpytLIDlUFUTsKyrMXlecz63PlQqYx0aaao6iwDw==
+length: 1631
 -->
