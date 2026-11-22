@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 328</title><sparkle:version>328</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 328</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build328
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 329</title><sparkle:version>329</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 329</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build329
 
-在项目搜索结果中点「预览上下文」，可以先核对段落，再决定是否打开文档。
+把项目里读到的依据直接写进自己的草稿。
 
-- 预览显示路径、小节和对应的高亮。上下切换可继续核对同一篇的其他摘录，也可查看下一篇结果。
-- 「跳到正文」打开当前预览的匹配处。关闭预览或从正文返回，可以回到原阅读位置和选区。
-- 文件更新后，可从面板查看最新上下文。草稿的搜索结果会标明本机草稿，并定位到编辑器里的匹配。
-- 内容过长或无法可靠还原排版时，预览会标明「源码上下文」，保留准确的源码高亮。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build328/Markeen-0.1.0-alpha-build328.zip" length="6419617" type="application/octet-stream" sparkle:edSignature="Xyp08ne/lVlqqYAY2NJhGFg6L++R3GgMKE3OcnfplqJY9zetGZlhuRM3y9ZLmpkGRgNc2P6mBCz1SMUviZggAA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: pU20Ou98JGuL+NDBupcjC1ZcEwUd7CWXHVDEJrL82SPQvS5JgffU+rvM8NQ1fp72ewgfj8YY4Ls0doV7HVdHAA==
-length: 1664
+- 在正文选中文字并加书签。编辑同项目的另一篇 Markdown 时，点「引用书签…」，可按原句或路径搜索。
+- 插入前可核对原句和行号。来源刚发生变动时，可重新核对。插入会在当前段落后加入引用和相对链接，可以一次撤销。
+- 阅读草稿中的引用时，点来源可在 Markeen 中打开只读原文。原句移动后，会尝试确认新位置。有多处匹配时可逐处核对。
+- 方括号和美元符等原句字符按字面保留，Markdown 章节链接继续按原来的规则跳转。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build329/Markeen-0.1.0-alpha-build329.zip" length="6442047" type="application/octet-stream" sparkle:edSignature="LyIZzaI8VyXr3AS7FP+IYZx3HkUyAhiPEnfP7KFV12WcBw185V5/BftOgH8I6KxKd3xDo4P3MjvdhDoV264mDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: BY/kf6yU2rh/AI588Hn2L14TYtccNZ61d3l3L9H2+mfcCZNSDhc1yhbsyCQje3jmEy0CV0cwCQ5aUE2Z6vfgCw==
+length: 1674
 -->
