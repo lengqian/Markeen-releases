@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 324</title><sparkle:version>324</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 324</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build324
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 325</title><sparkle:version>325</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 325</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build325
 
-替换一篇文档里反复出现的术语，随后核对排版再保存。
+从顶部「最近」或按 ⌘P，跨项目打开 Markdown。
 
-- 从「查找操作」搜「替换」，或点源码查找栏里的「替换…」。输入旧词和新词后，可以看见下一处的行号及替换前后。
-- 可以只替换一处并前进到下一处，也可以按显示的匹配数全部替换。留空时按钮会明确标为删除。「撤销替换」可撤销刚才的整次操作。
-- 改动先保存在本机草稿中。用「预览草稿」和「查看修改」核对排版及差异，再点「保存到文件」。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build324/Markeen-0.1.0-alpha-build324.zip" length="6270051" type="application/octet-stream" sparkle:edSignature="IF885gRc5CH8EcqLG/FzDNTBko/X3mUvD3iu4BtzX4WBr/fDsdkqEG0Kkotoao5uRIJe0zWW/cxjtiGlIJrwCw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: A1WxBKIHDsSu9D+RjfNjZfJ2zjdCvOU+Lc5Qe5vOIeX+NsSGY4zY+ufH2es0CKEWSKLw9n9LobudgefEczMQAQ==
-length: 1598
+- 打开面板先看到最近阅读和置顶的文档，包含项目文档和单独打开的文件。
+- 可以按文件名、目录或项目名查找已添加项目。搜索同名文件时，每条结果显示所属项目和目录。
+- 选择读过的文档会接着原来的位置。用历史返回，可回到刚才的文档和选区。
+- 搜索结果中的文件暂时不可用时，可留在当前文档并选择其他结果。编辑中切换文档继续使用未保存草稿保护。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build325/Markeen-0.1.0-alpha-build325.zip" length="6337860" type="application/octet-stream" sparkle:edSignature="Yq5Qt8ooBWsSSpDObuXxFY6sKVbskI7N5YMmNI46zwruqjKfOZSJ0RdLD99OvOJyv6BXhjFcf1ajEAPLdKfCDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: TzHxE/1a6WaHy+G7kwMdyogYN5UvFP502SPo54a0WTLjl8UYU32xehkhBhbmkcEbxhw4dsyuO1zwwveWSVpbAw==
+length: 1594
 -->
