@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 341</title><sparkle:version>341</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 341</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build341
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 342</title><sparkle:version>342</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 342</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build342
 
-## 找回、核对并复用项目引用
+## 看完出处，回到这处改动继续编辑
 
-- 阅读时可从文档菜单或「查找操作」打开「收藏的引用」。可用文件名、摘录或页码筛选，直接核对源码行与 PDF 原页。
-- 同一段原文移到新行后，如果能确认是同一处，重新收藏会更新原条目。文件中两处相同文字可分别收藏。旧预览遇到新版本时会提示重新核对。
-- 从搜索点「在本篇插入…」直接打开刚收藏的摘录。可确认插入当前草稿，也可回列表选几条再一起插入。
-- 从只读源码或 PDF 重新收藏并返回时，直接显示刚更新的条目，保留之前的筛选、阅读位置和选区。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build341/Markeen-0.1.0-alpha-build341.zip" length="6538934" type="application/octet-stream" sparkle:edSignature="noXK/8eR4KA75Vm/muiy6ZMEB72rpPAWEF6NMqFj2tppMKKK3OEyMWD818KK1Y9fbzqLmhMvz2evDtbi9cWVDA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: r6zB5r8ykYZCD2eYQbxCeGyzPRSK0SLO2nbwJwPpzhonoB76zVIOWcZdaXWy4tkQ18UJ5+Bwcvm9aDUiWr/SAA==
-length: 1716
+- 从「查找依据」打开项目内的来源文档后，可点「返回第 N 处改动」。在来源预览核对后，也可直接返回。原编号、展开状态和选中的文字会一起恢复。
+- 正文对照里点「编辑这处」可直接定位源码。正文仍停在旧版时，会先载入刚核对过的新版。核对期间文件再次更新时，可先刷新再编辑。
+- 可先预览草稿，再选择「保存到文件」。内置示例支持练习编辑和保存，可以回到自己的文档接着读。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build342/Markeen-0.1.0-alpha-build342.zip" length="6539815" type="application/octet-stream" sparkle:edSignature="uSa+Rb7fVCrJ0CEMIOqjXJNxC/BQFYVwqEbnMMOSeMQgCtrHbK0kYaAMieL+hkDj5pbTP523VUuXpdE+iOtaCQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: As+vDgfqOzNyinBV/Ejsws1XdCi5hlBulaV2vC7bqQqafirC3og5foYmIc+bbjaD5CNMPPk3aLVx4pk85PnwBA==
+length: 1619
 -->
