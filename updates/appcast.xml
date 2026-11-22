@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 309</title><sparkle:version>309</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 309</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build309
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 310</title><sparkle:version>310</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 310</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build310
 
-先打开自己的文档，也能在阅读中体验一次改动核对。
+连续看几篇项目更新后，可一步回到开始核对时读的文档。
 
-- 项目侧栏的「更新」暂时没有改动时，可点「用示例查看改动」。单篇 Markdown 在「⋯ → 旧版与改动…」也有同一个入口。
-- 示例对照和相关说明提供「返回原文档」，可回到原来的阅读位置。已有实际更新时，侧栏直接给出该文档的「查看改动」。
-- 如果旧版留存已关闭，仍可先体验示例，再决定是否开启。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build309/Markeen-0.1.0-alpha-build309.zip" length="6091257" type="application/octet-stream" sparkle:edSignature="RMGC8cy4Oq1QTytQowiUJDPFWG6Ytc3We7rXbE1Q8os9TiG2dKsY0IpRs9x1JexD5+j7lhBLbNYTQcVCMxFmAw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: rhuiKZoPFpoH4MSC14zMV0uJQJKbNqwiC1qspCI5Jiihhrcwku8nRfSRRY4ONY6hhJvblEfTsXkjw16OK0pQCA==
-length: 1529
+- 从普通阅读进入「更新」并打开另一篇对照时，可点「返回原文档」。也可以点「阅读此篇」，继续读当前文件。
+- 对照页显示还剩几篇更新。筛选时按当前范围计数，标为已读后可继续核对该范围的下一篇。
+- 用历史返回或前进时，「更新」的筛选词随各次访问恢复。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build310/Markeen-0.1.0-alpha-build310.zip" length="6092127" type="application/octet-stream" sparkle:edSignature="dbgqRPQ9fTLEj2wPDT87+F7MJ/h2xNWv3F22e5qwXv5Qtm9+fIWzL/RSshDuxtOA1RCakMrUc0HuoROKCdIyBg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 66HNBYoTjxr9W6W+fm2FMeY/L7bHV1OFZZhNT+2VDuQfLIzRYbG1NPRpP5wPy5WicyYYG9HXUAL2nsdMM6JSCQ==
+length: 1481
 -->
