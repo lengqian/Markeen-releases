@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 336</title><sparkle:version>336</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 336</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build336
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 337</title><sparkle:version>337</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 337</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build337
 
-- 打断核对后，重新打开「所有文档更新」可接回上次的筛选。列表会标出可「继续核对」的文档。
-- 同一对照可恢复改动编号、原文展开、正文选区和逐行查看的位置。重启和调整窗口字号后也可接着核对。
-- 文件有新版本时，列表会提示「查看最新改动」。标为已读后，续读位置会移到当前筛选内下一篇待核对的文档。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build336/Markeen-0.1.0-alpha-build336.zip" length="6551341" type="application/octet-stream" sparkle:edSignature="m0+OsHAMA0gx1gCph2zl4yZT8Fv9+XK8oRdDQu/FRQfk4KStbkbxHFmiqKM/5uR1/EE1GBBmIvqPv5QUwdGWBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 9n/zBTnqBWbfbok38mJIlWLjYxb7tJ7mdIDpgylSrZxH+pBjaIr6gNKyIJ14sq1cyTlagmFP/po1Sn0G0DJ8AQ==
-length: 1470
+## 把核对过的出处写进交付文档
+
+- 阅读正文时加段落书签，在只读源码中收藏所选行，在 PDF 中收藏当前页或原句。编辑同一项目的文档时，「插入引用」可以搜索这些出处，确认后插到当前段落之后。
+- 源码挪了行，Markeen 会用原句和上下文核对新位置。PDF 更新会暂停插入，可以在原草稿里打开当前文件、重新收藏，再回来继续。收藏会在重启后保留。
+- 也可以直接复制引用再粘贴。粘贴到同项目的子目录草稿时，Markeen 按草稿位置计算链接。保存后可以点回源码的具体行或 PDF 的具体页。一次撤销可移除整次粘贴。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build337/Markeen-0.1.0-alpha-build337.zip" length="6455834" type="application/octet-stream" sparkle:edSignature="9EdIGyQv60o+2socyRru8xo154NYpgUJD5DIURoRWnLye9VQ2inE3Y2nvtpjtYSk9aYIvnlXDZ6YdEOdsmSyBQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 8nRgSdhG9srX+PGwPgH6T7ZsbygBCGn5rpP98EiuYeJwsKJzvRfVtxvADO5O9lmbfuHJwJIiaDb2OflJRn7cBw==
+length: 1733
 -->
