@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 322</title><sparkle:version>322</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 322</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build322
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 323</title><sparkle:version>323</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 323</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build323
 
-长文里需要反复核对的结论，现在可以直接存为段落书签。
+从窗口顶部点「查找操作」，或按 ⇧⌘K，输入你想做的事。
 
-- 选中正文中的一句话，点「加书签」。保存会保留当前选区和阅读位置。
-- 从顶部「书签」按原句、文件名或所在文件夹搜索。点结果回到原句，返回箭头可以回到跳转前的位置。
-- 书签保存在本机，跨文档可用，重启后仍可查找。文件更新后，Markeen 会尝试用原句和上下文定位。找不到时会打开源文档并提示。
-- 点书签右侧的 × 可移除该条记录。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build322/Markeen-0.1.0-alpha-build322.zip" length="6259668" type="application/octet-stream" sparkle:edSignature="L8JyLp24895ydUTlHI5mO2fBN3CtHBGeAtQzVdrDnZVFcSkRtHcnJPB6gbesuQFtW5HN1pQRmNqvKmsT7iXVDA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: ztGJbEQNhi2GtdOuZFZlTobtbmBaUbvQCW8AdTQlg2HsqtgxRQE4rixDX767YCQf1oV/z/monL1ANHvE2JoOBQ==
-length: 1586
+- 初次打开可以搜「看改动」，直接用示例体验 Markdown 的修改前后。进入对照后可搜「逐行」或「按正文」，切换时保留改动编号。
+- 读自己的文档时，可以搜「字号」「找书签」「修改」或「新建」。可用结果随正文、源码和改动对照切换。
+- 按 ↑↓ 选结果，按 Enter 执行。按 Esc 回到打开面板前的阅读或编辑位置。
+- ⌘K 继续搜索项目文档。搜文件名、正文内容和项目路径仍走项目搜索。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build323/Markeen-0.1.0-alpha-build323.zip" length="6265762" type="application/octet-stream" sparkle:edSignature="CBNCnnVP2LSm9GjNz27lSBD66O52MUuO8nQ6eCqjT2Cz6RE5HRQRiySjOFtf5JDapojwaqp6TeF2FGA5wQS8Bw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: v34Cqyd8AmFsMgJEZBZ3aCUVlvgwQwHZbe+WnEpHM4uL3vMXLoXH9qBc6Zq/LW9Tsfsqo8h7xXPGUME/yluUAg==
+length: 1644
 -->
