@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 303</title><sparkle:version>303</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 303</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build303
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 304</title><sparkle:version>304</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 304</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build304
 
-选中一句依据，就能把原文和出处一起带到笔记或讨论里。
+从本机示例的文档改动出发，可以直接找一条依据，再把同样的操作用到自己的项目。
 
-- 在正文和只读源码里选中文字，点「复制引用」即可复制 Markdown 引文和出处。能确认当前文件行号时，出处附带行号。
-- 在改动对照中引用时，会标明「修改前」或「修改后」，方便转述时核对版本。
-- 把带行号的引用粘贴到同一项目的搜索框，按回车可打开对应文件和行。返回后可以接着原来的位置读。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build303/Markeen-0.1.0-alpha-build303.zip" length="6085231" type="application/octet-stream" sparkle:edSignature="hGiUYnVq4VhxtdeCjEPZ28XiOyie8MvfPBTiZ6YTSI22ERWQfkxFNPmts2Cpa+3cWUqXlH7oCGYN9NEqRdWrCw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: EVukQULsbPgwoUk3Bmb4oHvT8XXiKrgF6XhLxZloTrjUAcFH7B//B61pEMdOvvMx1IPFjILWhBFCoEhBUrv1Cg==
-length: 1530
+- 在示例对照里点「试搜一条依据」，即可进入项目搜索，打开「上下文」对应的正文。
+- 在找到的示例原句旁，阅读提示会指出如何复制引用。「打开自己的文档…」也可以直接从这个页面使用。
+- 欢迎页和「快速上手」介绍了项目正文搜索和复制引用。打开自己的目录后，即可使用相同的阅读和搜索入口。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build304/Markeen-0.1.0-alpha-build304.zip" length="6087082" type="application/octet-stream" sparkle:edSignature="wcp6r9OSHaW4pvaHyrvhicLhQvJpdTkdeuupHQ7guuTicN0a/8IV/wtYL24lz9+MiXPozF8iOzEbOMZugcYnDg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: SNqd84sQ+zV6/xohdvjXiFepP/In4fw41jisrIBKXS/JnUujKCR1QJ0zEsk18F7JOTiyamoplS9sgdYr25VfAA==
+length: 1568
 -->
