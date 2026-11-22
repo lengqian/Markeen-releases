@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 325</title><sparkle:version>325</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 325</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build325
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 326</title><sparkle:version>326</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 326</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build326
 
-从顶部「最近」或按 ⌘P，跨项目打开 Markdown。
+从「最近」「更新」或「查找操作」打开「所有文档更新」，集中核对跨项目的 Markdown 改动。
 
-- 打开面板先看到最近阅读和置顶的文档，包含项目文档和单独打开的文件。
-- 可以按文件名、目录或项目名查找已添加项目。搜索同名文件时，每条结果显示所属项目和目录。
-- 选择读过的文档会接着原来的位置。用历史返回，可回到刚才的文档和选区。
-- 搜索结果中的文件暂时不可用时，可留在当前文档并选择其他结果。编辑中切换文档继续使用未保存草稿保护。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build325/Markeen-0.1.0-alpha-build325.zip" length="6337860" type="application/octet-stream" sparkle:edSignature="Yq5Qt8ooBWsSSpDObuXxFY6sKVbskI7N5YMmNI46zwruqjKfOZSJ0RdLD99OvOJyv6BXhjFcf1ajEAPLdKfCDA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: TzHxE/1a6WaHy+G7kwMdyogYN5UvFP502SPo54a0WTLjl8UYU32xehkhBhbmkcEbxhw4dsyuO1zwwveWSVpbAw==
-length: 1594
+- Markeen 根据本机留存的阅读版本查找更新，涵盖已添加项目和单独打开过的文档。同名文件会显示所属项目和路径。
+- 从列表打开正文对照，核对后可标为已读。返回更新列表会重新检查，方便接着看剩余的文档。
+- 从阅读中开始核对，可经「返回原文档」回到原来的阅读位置和选区。编辑时切换文档仍经过未保存修改保护。
+- 暂时无法读取的内容会显示检查状态，可重新检查。关闭旧版留存时会在入口说明如何开启。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build326/Markeen-0.1.0-alpha-build326.zip" length="6388706" type="application/octet-stream" sparkle:edSignature="sVBQaiKHhphU2Z/+Yon07yEQWsMZLQwmz0EHW0a3GR2TAxG3S3q0Avg/2yo+eJXZuQS3r01O20g4EzH4JD16DQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: KP/OpU6yVtMqI3N6Do65qj8glh4GEK81odfp5dfzzhDYO4RpqVhfqjh3MLUHYgHIy0z/xbfAoicObBlj5zrtBw==
+length: 1727
 -->
