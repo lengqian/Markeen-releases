@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 321</title><sparkle:version>321</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 321</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build321
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 322</title><sparkle:version>322</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 322</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build322
 
-可以边读边整理同一份阅读清单。
+长文里需要反复核对的结论，现在可以直接存为段落书签。
 
-- 从正文右上角的「…」选择「加入阅读清单」，把当前文档收进去，接着读当前位置。
-- 在「清单」点「添加文件…」，用 macOS 文件选择器追加多份 Markdown。重复选择同一份文件会合并。
-- 点单条右侧的 × 从清单移除。移除当前正在读的文档时，正文继续打开，原文件保留。
-- 打开另一组文件时，拖入提示会显示「打开新清单」。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build321/Markeen-0.1.0-alpha-build321.zip" length="6220934" type="application/octet-stream" sparkle:edSignature="gYfkRe6uqyYRtnqJU/BAReR4IpAx1Qgp16zTuUI51x+FPT36KthEi6QqTiYtve0xrvSzNroosHEsWKd3Ih77DQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: s2VdPfkxuwMuZ0QQFKrZjzb2ZW47sg7Iyu+AEPQSbY4BRAYWzQedeRMusWy6Ci2dmtFMaMM1/PaEZSswuXW/Bw==
-length: 1531
+- 选中正文中的一句话，点「加书签」。保存会保留当前选区和阅读位置。
+- 从顶部「书签」按原句、文件名或所在文件夹搜索。点结果回到原句，返回箭头可以回到跳转前的位置。
+- 书签保存在本机，跨文档可用，重启后仍可查找。文件更新后，Markeen 会尝试用原句和上下文定位。找不到时会打开源文档并提示。
+- 点书签右侧的 × 可移除该条记录。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build322/Markeen-0.1.0-alpha-build322.zip" length="6259668" type="application/octet-stream" sparkle:edSignature="L8JyLp24895ydUTlHI5mO2fBN3CtHBGeAtQzVdrDnZVFcSkRtHcnJPB6gbesuQFtW5HN1pQRmNqvKmsT7iXVDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: ztGJbEQNhi2GtdOuZFZlTobtbmBaUbvQCW8AdTQlg2HsqtgxRQE4rixDX767YCQf1oV/z/monL1ANHvE2JoOBQ==
+length: 1586
 -->
