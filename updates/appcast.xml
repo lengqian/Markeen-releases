@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 335</title><sparkle:version>335</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 335</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build335
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 336</title><sparkle:version>336</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 336</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build336
 
-- 「所有文档更新」可按项目、文件名或路径筛选。跨项目的同名文件会显示所属位置，返回列表会保留筛选和结果的位置。
-- 对照中可点「标为已读并看下一篇」。Markeen 核对本次所看的版本，再重新检查下一篇，并打开它当前的改动。下一篇已没有待核对内容时，会回到更新列表。
-- 在对照里打开相关文档再返回，可继续同一组核对。也可从更新列表回到开始核对前的原文档、选区和阅读位置。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build335/Markeen-0.1.0-alpha-build335.zip" length="6536241" type="application/octet-stream" sparkle:edSignature="HAqRXnF1NJ9zFL3lKbxUJDwPVK3URrH0r/tK7s3LzO7G+AaNLBDF9aYMVZapgLQY6lJTY6Mawyx1JZi+7RlaAw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: szfzNbdgLStMmHjqhHtlSM+oipK/N0l3EaamesQBf5OhnhfOM/j4Ei4KsgHjp0mqHpNrPd3xjUpX8I8NjjCMCw==
-length: 1571
+- 打断核对后，重新打开「所有文档更新」可接回上次的筛选。列表会标出可「继续核对」的文档。
+- 同一对照可恢复改动编号、原文展开、正文选区和逐行查看的位置。重启和调整窗口字号后也可接着核对。
+- 文件有新版本时，列表会提示「查看最新改动」。标为已读后，续读位置会移到当前筛选内下一篇待核对的文档。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build336/Markeen-0.1.0-alpha-build336.zip" length="6551341" type="application/octet-stream" sparkle:edSignature="m0+OsHAMA0gx1gCph2zl4yZT8Fv9+XK8oRdDQu/FRQfk4KStbkbxHFmiqKM/5uR1/EE1GBBmIvqPv5QUwdGWBQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 9n/zBTnqBWbfbok38mJIlWLjYxb7tJ7mdIDpgylSrZxH+pBjaIr6gNKyIJ14sq1cyTlagmFP/po1Sn0G0DJ8AQ==
+length: 1470
 -->
