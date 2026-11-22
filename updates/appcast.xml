@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 310</title><sparkle:version>310</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 310</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build310
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 311</title><sparkle:version>311</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 311</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build311
 
-连续看几篇项目更新后，可一步回到开始核对时读的文档。
+浏览长手册时，可以先看主章节，找到目标后随时回到刚才读的地方。
 
-- 从普通阅读进入「更新」并打开另一篇对照时，可点「返回原文档」。也可以点「阅读此篇」，继续读当前文件。
-- 对照页显示还剩几篇更新。筛选时按当前范围计数，标为已读后可继续核对该范围的下一篇。
-- 用历史返回或前进时，「更新」的筛选词随各次访问恢复。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build310/Markeen-0.1.0-alpha-build310.zip" length="6092127" type="application/octet-stream" sparkle:edSignature="dbgqRPQ9fTLEj2wPDT87+F7MJ/h2xNWv3F22e5qwXv5Qtm9+fIWzL/RSshDuxtOA1RCakMrUc0HuoROKCdIyBg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 66HNBYoTjxr9W6W+fm2FMeY/L7bHV1OFZZhNT+2VDuQfLIzRYbG1NPRpP5wPy5WicyYYG9HXUAL2nsdMM6JSCQ==
-length: 1481
+- 「本文目录」新增「仅看主章节」。当前小节收起时，目录指向它所属的主章节。在本次运行中，重新打开同一篇文档会继续使用你选的目录范围。
+- 筛选仍查找整篇文档的标题。搜索同名小节时，可用上级章节缩小范围，清除筛选后恢复原来的目录范围。
+- 从目录跳转后，点「返回跳转前的位置」可回到刚才的段落和文字选区。返回和前进也可以继续使用历史按钮。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build311/Markeen-0.1.0-alpha-build311.zip" length="6093077" type="application/octet-stream" sparkle:edSignature="a3iQP5fNA2yzs7z4ZXDmT7d/xPvHm7PBNHe2s+XrnEww25mJFRLJVk4OlaWBZHxSDfHdP6z4qlUjw1Z43tHqAQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: sXaS6AU2TAFJ6ImlIpDcS8oriWMfdHdPqP+EzCcoiJeVb/OSOmWsTLwzu/R1XQplG8Ex03jJBk5zpb+Nb8+jBg==
+length: 1628
 -->
