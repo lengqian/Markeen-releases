@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 330</title><sparkle:version>330</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 330</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build330
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 331</title><sparkle:version>331</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 331</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build331
 
-把两份独立的 Markdown 放在一起核对。
+核对草稿时，可从差异直接进入对应的源码。
 
-- 在文档的「…」菜单点「与参考稿对照…」，可选择另一份 Markdown 或粘贴旧稿。一次打开两份 Markdown 后，也可从「阅读清单」点「对照两份…」。
-- 面板显示当前文档与参考文件。打开对照后，可按正文阅读任一版本，展开单处参考稿，也可切到逐行查看。
-- CRLF 与 LF 的换行风格差异会被忽略，真正改动仍按原行号显示。两份内容只读，关闭后可在原位置接着读。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build330/Markeen-0.1.0-alpha-build330.zip" length="6461057" type="application/octet-stream" sparkle:edSignature="u32cO0wPY9wJMUat4e1p6FpyB2NTJLgOCZQAlJuu6y8mPtHWUjjZL2WxR+yw1AEP6oiA/blk4OIU1g3IGMo9AA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: FcoSMzel3BF/YKMwFA6pnYuSynYvZEgIsnI6Iz/q+ouwBcBh+Yq7vuVnfrIKYTQjZURYzSgjijvw0sj/4BgNAg==
-length: 1580
+- 在「查看修改」中点「编辑草稿这处」。选中草稿正文时，会定位到选中的文字。逐行查看时，会定位到当前差异在草稿里的行。
+- 从源码编辑、草稿预览或本机恢复草稿进入对照，都能接着编辑。关闭对照返回原处，保留选区方向与编辑位置。
+- 窗口宽度改变时，返回编辑会重新找到原来可见的源码。草稿对照也可从「查找操作」进入。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build331/Markeen-0.1.0-alpha-build331.zip" length="6462056" type="application/octet-stream" sparkle:edSignature="31rbWcM3NiUSUkunzzRc97tOGLo+YdofmL7uuRF6jeHMvj0QeeQoso4PyuRYy473m7t//CBcXyhqoVacFb3FCw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: WqgJ/NlZyvWVTLPa8mci+I39TBmYP2xGbUg4QtHLyncD3c8UtpA1PQEVJUM0ZR0kyLSn7FTIG7OKuUUtfUiOBQ==
+length: 1556
 -->
