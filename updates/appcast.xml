@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 290</title><sparkle:version>290</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 290</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build290
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 291</title><sparkle:version>291</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 291</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen 0.1.0-alpha · Build291
 
-打开没有可读文档的项目时，可以看到当前文件夹的完整路径和「重新扫描」。把 Markdown 加入当前文件夹后，Markeen 会在检测到文件时打开首篇。取消欢迎页的文件选择器后，可以从原按钮继续用键盘选择其他操作。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build290/Markeen-0.1.0-alpha-build290.zip" length="6078828" type="application/octet-stream" sparkle:edSignature="LVvLYIIPBVoW8yj8ap/pJoW1Moj6DGD9tkuApgzAJHBijsinBjFwNbAdZW/6t3AVo5dNaCKEfvk9SLfki8g+CA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: ipt6zQlgc0QlM6TuKctWO+LPj3Y0L+hAN48qOCL12NBTOZFgtcLegZG88nkVRDAj+E4NFWxAUbnZPo8ariLpDQ==
-length: 1327
+在「本文目录」输入「生产环境 回滚」，可以直接找出生产环境下的回滚章节。上级标题和章节里的匹配词分别高亮，按 Enter 跳到对应正文。标题有重复的短文也提供筛选。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build291/Markeen-0.1.0-alpha-build291.zip" length="6079255" type="application/octet-stream" sparkle:edSignature="Jr9Fhr/yTJEZIim1mgWSjONK0RAh4GI/tEAS8+OiufQtHyUMSaG8/f17q55SklvYlg81LzCIX9GPgG8rJ80sDw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: l5t++NIKpzmqKXdquyAYaPqJB4WgKsPyDMxZXMukoJYVn9lj8Cl/EsQfpRUuPzwDl9riuXfV00PC4n43Cba3Bw==
+length: 1272
 -->
