@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 359</title><sparkle:version>359</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 359</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build359 从第一次发现改动到连续核对项目
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 360</title><sparkle:version>360</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 360</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build360 沿着项目文档里的文件夹继续读
 
-- 打开项目后，正文工具栏会提示已发现的 Git 文档改动。当前文档有改动时，可以直接开始对照。
-- 在对照页用「下一篇改动」连续核对，也可以按文件名或路径「跳到文档」。同名文件显示所在目录。Git 提交变化时，先保留当前对照，再由你决定何时切换基线。
-- 从引用返回后，接着核对同一处改动。即使审阅超过普通阅读历史的长度，也可「返回原文档」，回到最初的段落和选区。
+- 项目内的文件夹链接可以在 Markeen 中浏览 Markdown，适用于没有 README 或索引页的目录。可按文档标题、文件名或路径筛选，同名文档会显示各自的目录。
+- 打开列表中的文档后，点「返回文件夹」直接接回筛选、列表位置和上次打开的文档。也可以用旁边的返回按钮直达引用处。
+- 从改动的展开原文出发，文件夹会标明看到的是当前内容。关闭文件夹后能接着核对同一处改动，恢复原文的展开状态、滚动位置和选区。「在 Finder 中显示」仍可使用。
 
 适用于 macOS 12 及以上的 Intel 和 Apple Silicon。此次实机走查在 Intel Mac 完成，此 Alpha 仍未公证。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build359/Markeen-0.1.0-alpha-build359.zip" length="6667751" type="application/octet-stream" sparkle:edSignature="rQ+JfJ5Q8e3R//kz8D/Il1JQcaHa9PWSjhj4VP3DwAaldN7WgK+aZsR8vCyacmbin40YrjcDIXu1AXCnP9veBg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: IA5gBVhLCmaV6ygDsTq8kfrNfO49p6cnJQXkNwWMBi6TsuIdgP476t18XqY/fbfYHKzzLeCxfkylSaxpDdHPBQ==
-length: 1706
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build360/Markeen-0.1.0-alpha-build360.zip" length="6670274" type="application/octet-stream" sparkle:edSignature="qTjgrea3OJrH959Mm02Osv1vioIXffACXu1avTQzTJ/nZoWPiqAmtkbHNJaSTqOxf/vCZI+gk6zRy8PuQe/tAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: rfsWWaFigoPr9MPW8yQApQ1bXaXA60bRb3sRvUYnepx1PUXaAxE0ohw+n5+yE0hR5zhmtvImGgNsD6v53NyFCA==
+length: 1785
 -->
