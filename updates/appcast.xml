@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 371</title><sparkle:version>371</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 371</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build371 · 找到改动，核对出处并回到原位
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 372</title><sparkle:version>372</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 372</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build372 · 更易读的 Mermaid 流程图
 
-- 展开同一代码块内的某处原文时，可以从「修改后」直接定位到当前编号对应的字词或代码行。完整新版代码仍只显示一次。
-- 从改动打开源码或 PDF 并收藏出处后，可以直接带回该处改动。即使 PDF 已翻页，按钮也会标明刚收藏的页码。
-- 带回引用后先确认原句、来源和插入位置。取消会回到原改动，保留选区与阅读位置；只有显式保存才写入 Markdown。
+- 含有中英文的流程图为节点文字留出更合适的宽度。阅读技术文档时，可以完整读出 Runtime、Sandbox 和 AgentOps 等术语。
+- 在浅色和深色阅读模式下，节点与连线标签的轮廓更清楚，带文字的虚线回路也更容易辨认。
+- 纵向流程图在正文中可以沿页面滚动阅读。点击图表仍可查看全图或放大细节。
 
-本版为 macOS 12 或更新版本的 Universal Alpha 包。正式包走查使用 Intel Mac。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build371/Markeen-0.1.0-alpha-build371.zip" length="6692827" type="application/octet-stream" sparkle:edSignature="aDEFbIK4rjzanJK/w8hhWFndtzrRWwjV67iUofFOVWbY7LYZx4Aob+Zo3GAAgL69VY1AMBSUqh87kJbDn4tlDQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: WMHZiRQoA3b0uSqXkgIqacDpwzfoQBHX+z6i7Zo18eO3Zmie1McyfHwgVNyBsAdILeKxIK+AZqX3AXG7rpqqBA==
-length: 1632
+适用于 macOS 12 或更新版本，支持 Intel 与 Apple Silicon。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build372/Markeen-0.1.0-alpha-build372.zip" length="6694616" type="application/octet-stream" sparkle:edSignature="0PrrASMqzEtnfNXv8nKfQE2r7ZFobHfOpXQTsZ8t22nC+MpRGFIqMIxDyPVJdpSimP/cZPoKHKpv61nhT9y1Dg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: BsjMfVy/2X0dygKQBU+Hr6vqIDURc7SekngjzMN9t603bxPVr/aqZXTMYku+OT2/87MfQ4Z2+7fXIYBYX7h4Dw==
+length: 1516
 -->
