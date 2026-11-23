@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 383</title><sparkle:version>383</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 383</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build383 · 同一处改动的合并
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 384</title><sparkle:version>384</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 384</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build384 · 连续更新完整对照
 
-- 逐行处理草稿与文件新版时，改动的词使用单独高亮。两边改了同一行里的不同文字且可以分别保留时，可点「合并两边」预览结果。
-- 两边改到同一处时，可点「编辑结果…」，对着两份文字填写要保留的内容，再带回编辑器。点「保存到文件」才会写入原文件。
-- 文件再次更新时，请刷新对照。已经填写的内容可在当前文档中取回，并按最新版本重新确认。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build383/Markeen-0.1.0-alpha-build383.zip" length="6755686" type="application/octet-stream" sparkle:edSignature="bNvNxL2LFqU93kcD+qk0/AZ5VvkttM2DjLuMeBu9azo6JXJrunMM74amSidVj7rFa/Y61UEPr6WNY0+RDmYZBw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: nSRu4ZdwEedJAa/OedqrjkCckbiS3Dual5W4NVozLrjYxMpnoZ4UzHqv1pW6TPW0FLFZi5V+OKZDivLEyndMCg==
-length: 1537
+- 同一篇文档在一轮里连续更新时，「查看改动」可看到从这轮开始前到最新内容的差异。即使去读其他文档时又有更新，回来也能接着核对已经提示的这一轮。
+- 有选区时，可先对照还未载入的新版，再决定继续阅读。返回能接着读当前文档，选区和阅读位置保留。
+- 点「忽略」后，下次从这篇的当前版本开始对照。完整回退到这轮开始前的版本时，原来的改动提示会消失。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build384/Markeen-0.1.0-alpha-build384.zip" length="6756021" type="application/octet-stream" sparkle:edSignature="kpccDYhEOdr9iocJrV7VO//5Rz6cZumeFEzEDcLLFmnHn1KZliDAjTnZn6/XjHGJFScaC8ofornIon1FG2k9BQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: bQccVmRnzSoQ0TM9a1Jp8/LJfK6rgwqe62RI8SjpM8BeS7yXb5qKqTfZ6yeqtOP36xE54lxdmOUgaTKakcj2AA==
+length: 1555
 -->
