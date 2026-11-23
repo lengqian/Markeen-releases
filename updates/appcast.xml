@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 392</title><sparkle:version>392</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 392</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build392 · 从第一篇文档查证到原处编辑
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 393</title><sparkle:version>393</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 393</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build393 · 连续查找与撤销后接着读
 
-- 短窄窗口里查找正文时，已打开的目录会暂时收起，把空间留给匹配和上下文。关闭查找时恢复目录和阅读位置。
-- 从文档里的引用打开出处后，工具栏的返回也能标出刚才那条引用。接着点「编辑」，光标进入对应段落。
-- 宽窗或较高的窗口可以继续同时使用目录和查找。查找结果、引用跳转和保存可在同一份本地文档中完成。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build392/Markeen-0.1.0-alpha-build392.zip" length="6789665" type="application/octet-stream" sparkle:edSignature="p6z1mu0ZMtGXRbSgMPGhXA6h/y4eApswE/C6zjtTiD86I6kYHhTpBOGDZfp2b/u0Qg9G1XWtemJeF0ugW2nqBg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: IMPOz3u+VOfTurhRU1NGmbHvAXEYXEsftqocBR+OrQ6p7QnV61jOlH3H48tGFTyqzvuZphShkBVQ/k3Hrdd9Cg==
-length: 1510
+- 在正文里查找已停留的匹配时，保留原来的阅读高度。跳到同一段的另一处匹配后，返回可回到开始查找的位置。
+- 新一轮查找从当前阅读位置建立返回点。关闭查找后，可以用前进、后退继续核对。
+- 在选中文字前插入相同的字，切回正文时仍选中原来的字。保存后撤销或重做，预览继续停留在原处。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build393/Markeen-0.1.0-alpha-build393.zip" length="6790110" type="application/octet-stream" sparkle:edSignature="wqNiXkcXoLgzbVGwqllvzdmoux+MGJyXXPqoh6aYS3rO7Q1qHC3/o10VajuUCdd8otbu6OmqPVJrtUwGIraTDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: x6L+PGDZcnxnq38/xMHKBl9zvtzycETgCilUobS2N5SCF/rbC+b85TmvZbQJahG3E205jQgWeqFh8DOlfGTIBw==
+length: 1468
 -->
