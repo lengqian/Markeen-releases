@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 363</title><sparkle:version>363</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 363</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build363 就在正文里改字、改链接和命令
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 364</title><sparkle:version>364</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 364</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build364 · 在原处修复失效引用
 
-- 选中文字时，即使横跨改动高亮或查找高亮，也可直接点「修改文字」。应用后仍在原处，保存前可查看草稿与文件的差异。
-- 从链接预览点「修改链接文字」，可以改已有 Markdown 链接的名称。继续用原来的地址打开文件或章节。
-- 选中行内命令、参数或路径，可点「修改行内代码」。支持字面方括号、竖线和尖括号。原有「查看文件」可直接核对带行号的路径。
+- 在「本文链接」点「检查 Markdown 引用」，可以筛出失效的项目文档和章节，逐条预览并修复。也可以从「查找操作」输入「失效链接」找到入口。
+- 文件移动或改名后，在链接预览中选新文件和章节。目标文件仍在、章节改名时，直接从现有章节中选择。原目标和新目标会分别显示，窄窗也能核对摘录并确认。
+- 修复先进入草稿。返回链接清单时保留筛选、阅读位置和选区。已有检查结果仍有效时，取消会直接回到这一项。显式保存只写入对应的链接地址。
 
-适用于 macOS 12 及以上的 Intel 和 Apple Silicon。实机走查使用 Intel Mac，此 Alpha 仍未公证。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build363/Markeen-0.1.0-alpha-build363.zip" length="6674513" type="application/octet-stream" sparkle:edSignature="vuvFncLOMu65QrsIQuJ4+Z6fJDP+pOAcwLJzY9+3PgssFlUPXmbSE63Y/ZyDOrdX7Y7Vh6NcQkxlG2oJExRDDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 6+MPOV4Wfuv1MGmaslNdVW8hkEkNlK/xILH8MeMON/hkW668YTpImOEzDkXqz9G4520tZFBhakc9qwOW9GKgBw==
-length: 1664
+本版为 macOS 12 或更新版本的 Universal Alpha 包。正式包走查使用 Intel Mac。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build364/Markeen-0.1.0-alpha-build364.zip" length="6680712" type="application/octet-stream" sparkle:edSignature="NfQ/U5jmnB8vvZwM0ForjV0j/XWR5bJHBn82t6LZEmtkqunmDDrCYdLGMGne/mH5cJVQ+copMFDnWGmU++/lCw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 2UlQw9hKqfS/RSKQoC8BEnAw8mMFBlHzrWQYUcJKljnAShWoBlRNc7qROGD1YO9hl1DuPfHupDmm4w32y/NiBw==
+length: 1758
 -->
