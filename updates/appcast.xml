@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 362</title><sparkle:version>362</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 362</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build362 从改动查到出处，再回到原处继续
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 363</title><sparkle:version>363</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 363</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build363 就在正文里改字、改链接和命令
 
-- 选中行内代码写成的项目文件路径，可直接查看只读文件。有行号或行范围时会定位并高亮。
-- 行内 Markdown 路径可打开排版后的正文或指定章节。带明确行号时打开只读源码。返回可接着阅读原句或原改动。
-- 「查找依据」会列出当前改动涉及的行内文件引用。可先预览对应章节或源码行，打开核对后回到同一处，再修改并保存。
+- 选中文字时，即使横跨改动高亮或查找高亮，也可直接点「修改文字」。应用后仍在原处，保存前可查看草稿与文件的差异。
+- 从链接预览点「修改链接文字」，可以改已有 Markdown 链接的名称。继续用原来的地址打开文件或章节。
+- 选中行内命令、参数或路径，可点「修改行内代码」。支持字面方括号、竖线和尖括号。原有「查看文件」可直接核对带行号的路径。
 
 适用于 macOS 12 及以上的 Intel 和 Apple Silicon。实机走查使用 Intel Mac，此 Alpha 仍未公证。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build362/Markeen-0.1.0-alpha-build362.zip" length="6673381" type="application/octet-stream" sparkle:edSignature="dA/RLwSyo8u/5ABNMYlyjlyxaGiOZMNISYEq8xFjbaV3n9Qd0GA4W20lYCRetgey9kWxASJPz4c4+KFm3m0VDw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: xj7TUl7V5fYr+Y1RORaTn52jiVWm79yoZXwCIXGgLbHiz+qvevV/tcQbt4ffM21ce8Wq8E5vL+Hzju62wt8wCQ==
-length: 1622
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build363/Markeen-0.1.0-alpha-build363.zip" length="6674513" type="application/octet-stream" sparkle:edSignature="vuvFncLOMu65QrsIQuJ4+Z6fJDP+pOAcwLJzY9+3PgssFlUPXmbSE63Y/ZyDOrdX7Y7Vh6NcQkxlG2oJExRDDg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 6+MPOV4Wfuv1MGmaslNdVW8hkEkNlK/xILH8MeMON/hkW668YTpImOEzDkXqz9G4520tZFBhakc9qwOW9GKgBw==
+length: 1664
 -->
