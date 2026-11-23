@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 364</title><sparkle:version>364</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 364</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build364 · 在原处修复失效引用
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 365</title><sparkle:version>365</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 365</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build365 · 点到失效引用时，接着修
 
-- 在「本文链接」点「检查 Markdown 引用」，可以筛出失效的项目文档和章节，逐条预览并修复。也可以从「查找操作」输入「失效链接」找到入口。
-- 文件移动或改名后，在链接预览中选新文件和章节。目标文件仍在、章节改名时，直接从现有章节中选择。原目标和新目标会分别显示，窄窗也能核对摘录并确认。
-- 修复先进入草稿。返回链接清单时保留筛选、阅读位置和选区。已有检查结果仍有效时，取消会直接回到这一项。显式保存只写入对应的链接地址。
+- 正文和新版对照中的链接打开失败时，可以在提示里直接更换目标文档或修复本文章节。展开原文的失败提示标明「修改前」。
+- 如果另一份文档能打开，但链接指向的章节已失效，点「返回引用处修复」即可回到原链接并选择新章节。取消后可以继续原来的阅读或对照。
+- 确认后先更新草稿。保存只写入这处引用。如果源文档在往返期间被改过，会回到源文档重新核对。
 
 本版为 macOS 12 或更新版本的 Universal Alpha 包。正式包走查使用 Intel Mac。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build364/Markeen-0.1.0-alpha-build364.zip" length="6680712" type="application/octet-stream" sparkle:edSignature="NfQ/U5jmnB8vvZwM0ForjV0j/XWR5bJHBn82t6LZEmtkqunmDDrCYdLGMGne/mH5cJVQ+copMFDnWGmU++/lCw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 2UlQw9hKqfS/RSKQoC8BEnAw8mMFBlHzrWQYUcJKljnAShWoBlRNc7qROGD1YO9hl1DuPfHupDmm4w32y/NiBw==
-length: 1758
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build365/Markeen-0.1.0-alpha-build365.zip" length="6682655" type="application/octet-stream" sparkle:edSignature="5xmt1ENhdqfGpok6BvrTkEKnuqKj8AbaCtqa3z/5lrkPJ9SUKwfzchHV+6ieE+ZpMvwH10NvK657L5os2cFpAA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: PvfA8LZsmxSGNburnJrasqFhXK2WNuLVyg7BtFtJenOkJpjCZaQvZi9aVExvWO0cgwZbKPX2PYKhJ/k4bCYXCg==
+length: 1649
 -->
