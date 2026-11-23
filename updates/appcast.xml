@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 378</title><sparkle:version>378</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 378</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build378 · 从表格和引用块查证改动
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 379</title><sparkle:version>379</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 379</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build379 · 在大项目里查证改动
 
-按正文核对 Git 改动或阅读更新时，从「查找依据」可以直接预览和打开当前变动行或段落中已有的项目出处。没有适用的本地出处时，仍可直接搜索项目。
+打开已有项目，可以先读首篇。项目搜索会显示已读取的正文范围，点「查找其余正文」可继续找出处，已有结果可以照常使用。
 
-- 从出处返回，接着核对原来的改动，保留选区、阅读位置和展开的原文。
-- 收藏所选文字后，可以带回改动并确认写入位置。表格和引用块的插入确认会标明引用写在整个结构之后，再由你保存到文件。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build378/Markeen-0.1.0-alpha-build378.zip" length="6732803" type="application/octet-stream" sparkle:edSignature="3ZxzaqkckwSeeaSwvxVbxc+MieddIoPowO8F0/AZWI8GLraSJ2d+9OhT4AJxVQ99OrCmCYMb+pZezURbXRp/DA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: +Lu5Twjn1rnAiN4KzA8/ejhWOS/hjAo9lKIjFWYDsGKXvEsG6WZEXX/mAG9A6ajC1uz2584S4N4+ENd6ROkUCQ==
-length: 1541
+- 补查找到的文档可以预览匹配段落、核对引用行号，或直接跳到正文命中处。
+- 从「查找依据」进入搜索，核对出处后可回到原来的改动，保留原文展开状态和文字选区。可以继续修改并保存到原文件。
+- 同一项目内换关键词可以沿用已读取的正文。切换项目或项目文件更新后，搜索会重新判断范围。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build379/Markeen-0.1.0-alpha-build379.zip" length="6749368" type="application/octet-stream" sparkle:edSignature="k+P8N1DdbYJX8vJaJUEqnoXK6mEni8RzLTvvYeOb2nd+sQctXLL7q9UV4MtLWJqh0zRspYRk+xLcE7i3Jd9zBA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 5nSDJFAKnNFiZ5Ibo4m/OyyH4m7VVjnCYo2Q1IcL44Qo7LkaZcRH6upq7CxS9RHpW7Tjod59JNYlFqlpmh4tCg==
+length: 1632
 -->
