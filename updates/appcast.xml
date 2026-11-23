@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 377</title><sparkle:version>377</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 377</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build377 · 把粘贴的 Markdown 保存到项目
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 378</title><sparkle:version>378</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 378</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build378 · 从表格和引用块查证改动
 
-从聊天或 Agent 复制一整份 Markdown，粘贴后就能排版阅读。整篇包在 Markdown 围栏里时，可以点「提取正文」。里面的代码块保持完整，也可以从同一位置恢复外层围栏。
+按正文核对 Git 改动或阅读更新时，从「查找依据」可以直接预览和打开当前变动行或段落中已有的项目出处。没有适用的本地出处时，仍可直接搜索项目。
 
-- 按稿内链接跳到对应章节。关闭再打开粘贴预览时，接着上次的预览位置继续。
-- 从项目内发起粘贴预览时，保存面板优先打开当前文档所在的可写文件夹，并显示完整的 Markdown 文件名。
-- 关闭草稿回到原来读的段落。保存后直接打开新文件，侧栏选中新文件，按选定目录解析相对引用。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build377/Markeen-0.1.0-alpha-build377.zip" length="6732420" type="application/octet-stream" sparkle:edSignature="IVKbP0hH+zBfYLpipZEK9u3FoFmrMAhUzHugnpOsu/bDQYd9Y7BX3SvWBUuoUj0R3Ew8H+fFXP/5OQFE9LdVAQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: M1oD/+FRP9RMHXAoIvWC8Cyd/aaViIotvGko1hhL37AulCQjftsp9xmAj6fPRxDuq/MfJpCpXRTjVqyBomYiAg==
-length: 1675
+- 从出处返回，接着核对原来的改动，保留选区、阅读位置和展开的原文。
+- 收藏所选文字后，可以带回改动并确认写入位置。表格和引用块的插入确认会标明引用写在整个结构之后，再由你保存到文件。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build378/Markeen-0.1.0-alpha-build378.zip" length="6732803" type="application/octet-stream" sparkle:edSignature="3ZxzaqkckwSeeaSwvxVbxc+MieddIoPowO8F0/AZWI8GLraSJ2d+9OhT4AJxVQ99OrCmCYMb+pZezURbXRp/DA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: +Lu5Twjn1rnAiN4KzA8/ejhWOS/hjAo9lKIjFWYDsGKXvEsG6WZEXX/mAG9A6ajC1uz2584S4N4+ENd6ROkUCQ==
+length: 1541
 -->
