@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 390</title><sparkle:version>390</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 390</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build390 · 改完的文字一路保留
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 391</title><sparkle:version>391</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 391</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build391 · 长文也能按正文核对
 
-- 从「编辑这处」进入源码，选中的文字会跟随到草稿预览、继续编辑和保存后的对照。准确对应的选区会保留选择方向。
-- 回到改动时仍可查看原来展开的旧文。恢复选区时让全文保持可见，重新选择文字后可使用浮动操作。
-- 保存期间继续输入或预览更新的草稿，选区会跟随当前草稿。下一次保存后，与新写入的文字一起回到对照。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build390/Markeen-0.1.0-alpha-build390.zip" length="6789244" type="application/octet-stream" sparkle:edSignature="tUXNVcSG2Nx4G/pCcSN/8ywHBb5ibDzv/0gFEq2K4wCDsgBiFPKDlPG//AMjH50bn9YRO14bSRy9M9UK/67CCw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: Yo79JL3BPpZAwrtT4rwKj5nCh3tpo2Nh0FCLzWvzKOM9h8X4jB8QEL3eP5DK5AvJFhgdgsuqHC3PpPSC02w7Ag==
-length: 1504
+- 一篇长文只有少量改动时，正文对照按单次显示的版本判断容量。数百段的项目文档可以继续在正文里看改了哪里。
+- 在长文里可跳到靠后的改动，展开原文；切换逐行查看再回来，当前编号、展开状态和选区会保留。
+- 超过正文排版容量时，仍可用逐行查看核对改动。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build391/Markeen-0.1.0-alpha-build391.zip" length="6789334" type="application/octet-stream" sparkle:edSignature="vq9bfxfED8I4OMOF+eYaRtJzmWefPgbKp3D+Ysa1tkdtQy/FxCl0SYRI2Suct6ji7nOxlKEfUz/0/Nmgg4o+AA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 5od21q+EWHVLHsZlz2bJWaEBFBPjTubJqOTTTmNM3ZJzuj12Erp0jbdCcbVsJulceWrEqSedg4xwNH2TR9+iCw==
+length: 1417
 -->
