@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 357</title><sparkle:version>357</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 357</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build357 从首次阅读到连续审阅 Git 文档
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 358</title><sparkle:version>358</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 358</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build358 从核对改动到原地改字
 
-- 打开项目后，Markeen 先呈现正文，再轻量检查已有的 Git 文档改动。有发现时，侧栏「更新」会显示 Git 提示。点开可查看完整列表和篇数。
-- 在正文和逐行视图里都可以按筛选结果连续看下一篇。核对出处后能回到同一处改动。结束后可直接返回开始审阅前的文档、阅读位置和选区。
-- 切换前会核对当前 Git 提交。版本变化时，可以就在当前文档用新提交版对照，也可以继续看筛选内还未提交的文档。对照文字相同时，保留原文展开、改动编号和选区。
+- 在正文选中文字即可用「修改文字」替换。应用到草稿后仍在原段落，可直接撤销、重做或接着修改。跨格式和多行替换可继续用源码处理。
+- 在 Git 对照和阅读更新里，核对出处后可以直接修改新版文字。输入框避开所选行，取消会回到原来的改动、展开状态和选区。
+- 点「保存到文件」后，可用「继续核对改动」重新对照刚保存的版本。还能看到同一处时，恢复对应的前后摘录和选区。改回原文的差异会从对照里消失。
 
-适用于 macOS 12 及以上的 Intel 和 Apple Silicon。本轮实机走查在 Intel Mac 完成，此 Alpha 仍未公证。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build357/Markeen-0.1.0-alpha-build357.zip" length="6644473" type="application/octet-stream" sparkle:edSignature="E7nhXpOoZqZZjwsv6LHRe5QAqAjc4ehuuRnTIp8PEZj+J5XBbgqjNhlPeP7tfJHv4w2ZJSjViIrV+8L4VKy1DA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: Zkjs6JOI2GtrzqY/Qx4IFGEtTN8ZSAmfczhe64ybcmflhTSiKy82o/LDLSfiPywPzAV37RozSYQtEuvzsApyAQ==
-length: 1791
+适用于 macOS 12 及以上的 Intel 和 Apple Silicon。本次实机走查在 Intel Mac 完成，此 Alpha 仍未公证。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build358/Markeen-0.1.0-alpha-build358.zip" length="6652180" type="application/octet-stream" sparkle:edSignature="tESKJ0/huHjHIWh9wuEnK5b7H89zTQ555eR8BgI4l6YwIF+7l4+ppbl/u5Wy4FomS1oCH4wywH7oGNYJ6zjZCQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: i0qCJKfCBUOWcRCx74WVXHoBYVE7o5+wJn/Zwqzx5vuhnZG4ngJzSaUiKJulDHHN6q77YNRU2nKLcVYuV+lKCw==
+length: 1741
 -->
