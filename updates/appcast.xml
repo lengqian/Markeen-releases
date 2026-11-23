@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 384</title><sparkle:version>384</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 384</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build384 · 连续更新完整对照
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 385</title><sparkle:version>385</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 385</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build385 · 一眼看懂短词替换
 
-- 同一篇文档在一轮里连续更新时，「查看改动」可看到从这轮开始前到最新内容的差异。即使去读其他文档时又有更新，回来也能接着核对已经提示的这一轮。
-- 有选区时，可先对照还未载入的新版，再决定继续阅读。返回能接着读当前文档，选区和阅读位置保留。
-- 点「忽略」后，下次从这篇的当前版本开始对照。完整回退到这轮开始前的版本时，原来的改动提示会消失。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build384/Markeen-0.1.0-alpha-build384.zip" length="6756021" type="application/octet-stream" sparkle:edSignature="kpccDYhEOdr9iocJrV7VO//5Rz6cZumeFEzEDcLLFmnHn1KZliDAjTnZn6/XjHGJFScaC8ofornIon1FG2k9BQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: bQccVmRnzSoQ0TM9a1Jp8/LJfK6rgwqe62RI8SjpM8BeS7yXb5qKqTfZ6yeqtOP36xE54lxdmOUgaTKakcj2AA==
-length: 1555
+- 点「查看改动」后，像「90 秒」改成「60 秒」这样能精确对应的短词替换，会在顶部同时显示前后值。按上下箭头或用「跳到改动」，顶部随当前改动更新。正文继续标出具体改词。
+- 展开原文时，空间允许就把「修改前」和对应新版文字放在同一屏。可打开出处、返回同一处继续核对，或切换逐行查看。
+- 同一处包含多段文字或复杂结构变化时，继续按正文和原文核对。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build385/Markeen-0.1.0-alpha-build385.zip" length="6757192" type="application/octet-stream" sparkle:edSignature="xA3LJEydvRuqMkFZ6ek57QrdYP/3ZhtdKHeckX4tPuo2KlQut44gqVRSYFf952tfQy07joPdbV+dzOWX+v1TCA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 3Xz5hweOKneau9bI1+vfk+w6QHQqFvaggA9RYFJcGBSAwsQUHWc7zlShxaIgMf4W1LigBGOpC5zO2KiEhmBbCQ==
+length: 1552
 -->
