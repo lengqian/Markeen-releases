@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 386</title><sparkle:version>386</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 386</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build386 · 改完一句，继续核对
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 387</title><sparkle:version>387</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 387</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build387 · 切回文档，接着核对
 
-- 从「编辑这处」打开源码后，可用「返回改动」接着核对刚才的段落和原文。只查看源码就返回时，会恢复原有的选区。
-- 保存后用「继续核对改动」回到同一轮对照。先预览草稿再保存时，正文工具栏仍提供入口。可以继续看其他改词，也可以核对刚保存的结果。
-- 编辑期间如果文件收到新版，可先核对并选定要保留的内容。合并并保存后，会尝试回到对应段落，即使前面插入了另一处改动。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build386/Markeen-0.1.0-alpha-build386.zip" length="6757852" type="application/octet-stream" sparkle:edSignature="raMDFYCmJF1JNBd1nNcaIr1D5GVS5yuUria7VG2af/yERIf97IckkR1BDRtushe6buAyDrw7xYk5ldYiGbHCCQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: r8EFroHvqxpeqG7aXWhk7/3GxGcITGZ8OzPCteM5rNAo99KJZzZVJ/hIsPZJoeB9YJvqJW1cywxJd1AbntzPBw==
-length: 1585
+- 从改动里编辑并保存后，即使先去读另一篇，回到这篇仍可点「继续核对改动」。正文直接改词和打开源码共用同一个入口。
+- 离开期间文件又有更新，续审会包含这些改动。能定位到原段落时，回到原处并保持展开的原文。
+- 当前会话中的续审按文档保留。忽略这一篇的改动后，其他文档仍可照常核对。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build387/Markeen-0.1.0-alpha-build387.zip" length="6758062" type="application/octet-stream" sparkle:edSignature="ICDL2ceLdI1Kun+vvy1zuEL368LICOUjUQHyoWbjgu5uQJgCu7RF6quvBepkeXJMX4bRD2E23LbSCtWDCv9wBQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: F/Rz5fLQnGeoSBUByJtdxa66G82e97uCtKyhh39td+ZoZjs4pe8zstekur8Vz0Nq8WtV+JaCpkrAGbVX778zBA==
+length: 1465
 -->
