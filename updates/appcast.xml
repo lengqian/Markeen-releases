@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 360</title><sparkle:version>360</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 360</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build360 沿着项目文档里的文件夹继续读
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 361</title><sparkle:version>361</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 361</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build361 看清链接怎么改，核对出处是哪一版
 
-- 项目内的文件夹链接可以在 Markeen 中浏览 Markdown，适用于没有 README 或索引页的目录。可按文档标题、文件名或路径筛选，同名文档会显示各自的目录。
-- 打开列表中的文档后，点「返回文件夹」直接接回筛选、列表位置和上次打开的文档。也可以用旁边的返回按钮直达引用处。
-- 从改动的展开原文出发，文件夹会标明看到的是当前内容。关闭文件夹后能接着核对同一处改动，恢复原文的展开状态、滚动位置和选区。「在 Finder 中显示」仍可使用。
+- 「查看改动」会标出链接地址真正变化的字符。长路径换行时，文件名和行号的差异仍看得清，完整的新旧地址都可以打开。
+- 「跳到改动」可以搜显示出来的地址，例如带空格的文件名。结果会注明来自更新前还是更新后。按回车定位地址，再按回车打开出处。切到逐行查看可以核对相应的原始写法。
+- 从改动打开另一篇 Markdown 时，会说明链接来自哪个版本，以及目标文档显示的是当前内容还是保留的旧版。核对后可回到同一处，保留展开的原文和选区。
 
 适用于 macOS 12 及以上的 Intel 和 Apple Silicon。此次实机走查在 Intel Mac 完成，此 Alpha 仍未公证。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build360/Markeen-0.1.0-alpha-build360.zip" length="6670274" type="application/octet-stream" sparkle:edSignature="qTjgrea3OJrH959Mm02Osv1vioIXffACXu1avTQzTJ/nZoWPiqAmtkbHNJaSTqOxf/vCZI+gk6zRy8PuQe/tAw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: rfsWWaFigoPr9MPW8yQApQ1bXaXA60bRb3sRvUYnepx1PUXaAxE0ohw+n5+yE0hR5zhmtvImGgNsD6v53NyFCA==
-length: 1785
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build361/Markeen-0.1.0-alpha-build361.zip" length="6672086" type="application/octet-stream" sparkle:edSignature="tEQr2zTiQhsDvkY2hpKp18KBnkFLlw8LaNJRIYDgvgbgKkKxwqlq2hJMalZqn/04i4fEYxz3YbtpaViNTOGlCA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: l0sNc4eGZ50cHbjjyJwGme88oEETC/YdIWAiYAVvH+UBdQ955kKTiYc5OZ6dQnNbbgH85uLgQl/pyGeYBAlXCw==
+length: 1806
 -->
