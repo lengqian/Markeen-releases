@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 385</title><sparkle:version>385</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 385</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build385 · 一眼看懂短词替换
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 386</title><sparkle:version>386</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 386</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build386 · 改完一句，继续核对
 
-- 点「查看改动」后，像「90 秒」改成「60 秒」这样能精确对应的短词替换，会在顶部同时显示前后值。按上下箭头或用「跳到改动」，顶部随当前改动更新。正文继续标出具体改词。
-- 展开原文时，空间允许就把「修改前」和对应新版文字放在同一屏。可打开出处、返回同一处继续核对，或切换逐行查看。
-- 同一处包含多段文字或复杂结构变化时，继续按正文和原文核对。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build385/Markeen-0.1.0-alpha-build385.zip" length="6757192" type="application/octet-stream" sparkle:edSignature="xA3LJEydvRuqMkFZ6ek57QrdYP/3ZhtdKHeckX4tPuo2KlQut44gqVRSYFf952tfQy07joPdbV+dzOWX+v1TCA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 3Xz5hweOKneau9bI1+vfk+w6QHQqFvaggA9RYFJcGBSAwsQUHWc7zlShxaIgMf4W1LigBGOpC5zO2KiEhmBbCQ==
-length: 1552
+- 从「编辑这处」打开源码后，可用「返回改动」接着核对刚才的段落和原文。只查看源码就返回时，会恢复原有的选区。
+- 保存后用「继续核对改动」回到同一轮对照。先预览草稿再保存时，正文工具栏仍提供入口。可以继续看其他改词，也可以核对刚保存的结果。
+- 编辑期间如果文件收到新版，可先核对并选定要保留的内容。合并并保存后，会尝试回到对应段落，即使前面插入了另一处改动。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build386/Markeen-0.1.0-alpha-build386.zip" length="6757852" type="application/octet-stream" sparkle:edSignature="raMDFYCmJF1JNBd1nNcaIr1D5GVS5yuUria7VG2af/yERIf97IckkR1BDRtushe6buAyDrw7xYk5ldYiGbHCCQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: r8EFroHvqxpeqG7aXWhk7/3GxGcITGZ8OzPCteM5rNAo99KJZzZVJ/hIsPZJoeB9YJvqJW1cywxJd1AbntzPBw==
+length: 1585
 -->
