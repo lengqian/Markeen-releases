@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 376</title><sparkle:version>376</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 376</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build376 · 打开项目就能接着读
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 377</title><sparkle:version>377</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 377</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build377 · 把粘贴的 Markdown 保存到项目
 
-- 首次打开 Markdown 和 HTML 混合项目时，优先打开有正文的指南。HTML 的网页标题、注释和隐藏内容不会让空模板占据首屏。有正文的 HTML README 仍可作为项目入口。
-- 文件夹链接预览会优先推荐可直接阅读的指南。打开后可以从「返回引用处」回到刚才的文档。
-- 只有空模板时，提供「编辑源码」。明确打开过的文档仍可在下次打开项目时续读。
+从聊天或 Agent 复制一整份 Markdown，粘贴后就能排版阅读。整篇包在 Markdown 围栏里时，可以点「提取正文」。里面的代码块保持完整，也可以从同一位置恢复外层围栏。
 
-适用于 macOS 12 或更新版本，支持 Intel 与 Apple Silicon。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build376/Markeen-0.1.0-alpha-build376.zip" length="6728785" type="application/octet-stream" sparkle:edSignature="nXAdMzwI0HbUAisaZQ3eEEKlfSMKLV59kEz2ub/C3MwKjpwAdihcnwUUdjAM8VFGPXNOjR8LOg0dbhZSwOPEDQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: kuGG3R9DZ7Td8M5klaEgyApiDwtQkdl/7H4l/zcQCsX3PW3XnrCsg+wV2jfrmB5vC46SG4K3cqw2wHDNHFcLCQ==
-length: 1578
+- 按稿内链接跳到对应章节。关闭再打开粘贴预览时，接着上次的预览位置继续。
+- 从项目内发起粘贴预览时，保存面板优先打开当前文档所在的可写文件夹，并显示完整的 Markdown 文件名。
+- 关闭草稿回到原来读的段落。保存后直接打开新文件，侧栏选中新文件，按选定目录解析相对引用。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build377/Markeen-0.1.0-alpha-build377.zip" length="6732420" type="application/octet-stream" sparkle:edSignature="IVKbP0hH+zBfYLpipZEK9u3FoFmrMAhUzHugnpOsu/bDQYd9Y7BX3SvWBUuoUj0R3Ew8H+fFXP/5OQFE9LdVAQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: M1oD/+FRP9RMHXAoIvWC8Cyd/aaViIotvGko1hhL37AulCQjftsp9xmAj6fPRxDuq/MfJpCpXRTjVqyBomYiAg==
+length: 1675
 -->
