@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 380</title><sparkle:version>380</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 380</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build380 · 大项目的文件导航
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 381</title><sparkle:version>381</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 381</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build381 · 窄窗里核对改动与出处
 
-打开文件很多的项目时，可以更快展开目录、拖动滚动条或用键盘浏览。分层目录按需显示文件，平铺目录也会随滚动显示附近的文件行。
-
-- 搜索中打开了另一篇文档，清除搜索会在文件列表中显示当前位置。手动折叠的目录会保留折叠并标记，仍可从文档名菜单精确定位到文件。
-- 只搜索、没有切换文档时，清除搜索会回到侧栏原来的位置。用历史前进和后退时，搜索和它的出发位置也能继续接上。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build380/Markeen-0.1.0-alpha-build380.zip" length="6751691" type="application/octet-stream" sparkle:edSignature="jtY1zoVJPaACtp9VYfaBK2RH1j/xqeVVpSEUqpA4fyGxUgl2JOXJDqhzVUD5gpNJ50o82t/+T8yX7riqkLepDA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: tbn5y9VGsNUTcVX65j11ZMtfhzWsqvUxvY81+qnGEJB62P3bVtMX6YP1PDbyrfUO0iq6r2V1cyxpgI99k/XxDA==
-length: 1590
+- 展开列表中同一处改动的原文时，较矮的窗口会把更多空间留给两份摘录。优先让修改前后对应的文字和版本标签一起出现在视野里。
+- 从「查找依据」预览源码时，较长的路径占用更少空间。预览会优先显示被引用的行，仍可滚动查看前后文。
+- 查看逐行对照或打开源码后，可以回到原来的改动、选区和阅读位置，接着修改并保存。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build381/Markeen-0.1.0-alpha-build381.zip" length="6752209" type="application/octet-stream" sparkle:edSignature="mNc1bPaw9B2f5I5f5RinEsiDD8EHcNA5peT+b4EEYF2+5sPy5KsuVwCe4ouU9m4xzxRCn4E7eff3ak02HG64BA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: BQ4N32vdwFNF3I6pEGlNrmWJe9Fqnd4wwf0iuqaIW3jDgA5RfrYgpRBLDqroPkzSHKM3WiFsSeCbXNQ+IskWDg==
+length: 1507
 -->
