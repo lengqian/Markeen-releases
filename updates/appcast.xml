@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 374</title><sparkle:version>374</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 374</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build374 · 在 Markeen 阅读 HTML
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 375</title><sparkle:version>375</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 375</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build375 · 核对完一篇，接着读下一篇
 
-- 打开或拖入 UTF-8 的 `.html`、`.htm` 文件。HTML 和 Markdown 共用文件树、项目搜索、阅读清单、置顶和阅读历史。
-- 阅读器按 Markeen 的明暗外观排版 HTML 标题、列表、表格和本地插图。正文支持目录、查找、章节锚点及项目内相对链接。
-- 切换到源码可编辑和保存 HTML。更新差异按源码逐行查看。
-- HTML 的脚本、表单、内嵌页面及自定义样式留在源码中。阅读页按静态文档显示。
+- Markdown 改动提交后，Git 列表会提示有哪些文档比上次读到的版本更新。只有一篇时可以直达对照，有多篇时会带着当前筛选进入阅读更新列表。
+- 连续核对时可以点「标为已读并看下一篇」。只想记下当前进度时，仍可单独「标为已读」。已选中的原文位置可以在返回阅读时继续使用。
+- 核对期间如果文件再次更新，旧对照会保留供阅读，可刷新后再确认。
 
-适用于 macOS 12 或更新版本，支持 Intel 与 Apple Silicon。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build374/Markeen-0.1.0-alpha-build374.zip" length="6717239" type="application/octet-stream" sparkle:edSignature="AKe5EPTuwV97BEjRa/lwjPnx8ybFakdw/8H7Rt6LmgG6EUSib6uF36DeQGk1Zmk3r6C3FvaQYHesOGVbqt7tBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: MCmRdJ8lFYL7kbIx+wT67/6MqE1Pqj6BCB7dXHSTbo1Xb9JAKRYzNcqQvJGxQIZpqV+bLf5p0488h1DlypRVAQ==
-length: 1614
+本版为 macOS 12 或更新版本的 Universal Alpha 包。正式包走查使用 Intel Mac。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build375/Markeen-0.1.0-alpha-build375.zip" length="6717765" type="application/octet-stream" sparkle:edSignature="TaaHnoCNJ0B8RBRNZGOsoK0FpF6/zIYA7LzGxUxCOo1pCuCzHX4yx9HDO+WoOcv2Qlyn0vjPyCDABs9/zTXbCQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: GEMgW/THzW6ZL5dl5D6240WTbhvzLEwWbBkRR7Ou/2pnbvtx6SFjxNZc7AwHsxh1Fwhztx/bIc8csWs7AR3CCw==
+length: 1632
 -->
