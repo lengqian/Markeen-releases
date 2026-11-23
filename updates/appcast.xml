@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 382</title><sparkle:version>382</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 382</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build382 · 从正文编辑到保存
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 383</title><sparkle:version>383</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 383</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build383 · 同一处改动的合并
 
-- 打开已有文档，工具栏直接提供「编辑」。选中文字后进入编辑，可从同一选区开始修改。
-- 有未保存的修改时，如果文件已有新版，主按钮会显示「核对新版」。从草稿预览或源码编辑都能直接比较，返回时接续原来的选区和位置。
-- 逐行选好要保留的内容，可带回编辑器继续改。点「保存到文件」才写入原文件。恢复草稿的「保存到本机」会存入本机恢复区。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build382/Markeen-0.1.0-alpha-build382.zip" length="6752353" type="application/octet-stream" sparkle:edSignature="5hSScOdNBpo3Ks6HCavCskUN4HvGx5tVMXwITA0qzqfVdJfSTzXme5a8tnNU+TdOs6+mxcIt3xnOfuHvtUwSDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: iSej6CVhQyn3DgJ0XkUuOxxo8FWwm2M1xY5ZOLgj1EmAYEx99gUozo0l1u/YzymF37D4AogtcPPwnXHaIdtxBA==
-length: 1540
+- 逐行处理草稿与文件新版时，改动的词使用单独高亮。两边改了同一行里的不同文字且可以分别保留时，可点「合并两边」预览结果。
+- 两边改到同一处时，可点「编辑结果…」，对着两份文字填写要保留的内容，再带回编辑器。点「保存到文件」才会写入原文件。
+- 文件再次更新时，请刷新对照。已经填写的内容可在当前文档中取回，并按最新版本重新确认。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build383/Markeen-0.1.0-alpha-build383.zip" length="6755686" type="application/octet-stream" sparkle:edSignature="bNvNxL2LFqU93kcD+qk0/AZ5VvkttM2DjLuMeBu9azo6JXJrunMM74amSidVj7rFa/Y61UEPr6WNY0+RDmYZBw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: nSRu4ZdwEedJAa/OedqrjkCckbiS3Dual5W4NVozLrjYxMpnoZ4UzHqv1pW6TPW0FLFZi5V+OKZDivLEyndMCg==
+length: 1537
 -->
