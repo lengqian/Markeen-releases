@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 388</title><sparkle:version>388</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 388</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build388 · 重开后继续核对
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 389</title><sparkle:version>389</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 389</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build389 · 从正在读的地方看改动
 
-- 开启「保留旧版供对照」后，从改动编辑并保存，再打开 Markeen 可点「继续核对改动」回到刚才的位置。原位改词和源码编辑都支持这个入口。
-- 文件还是保存时的版本时，会恢复能准确匹配的选区和已展开的原文。新旧文字能放进同一屏时，可直接对读。
-- 退出期间文件又更新时，继续对照最新内容。能从旧版确认对应改动时，仍回到该处。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build388/Markeen-0.1.0-alpha-build388.zip" length="6787559" type="application/octet-stream" sparkle:edSignature="SD4rTNcFPdiwc52oaZW3HpxTE57bwAW4Qt9GwM5PZZgxepiJfA893R358JUCCO5Jn7j0P1FILcyw1Zmgli+pBQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: QYmE8UsLnKXwHrKqQzqaqoFAyovyFnhxltxIhHID+impooKhkoeh4jahPKvsnTyXXF1DCGjidYnTk+8j1R55Dg==
-length: 1510
+- 在长文中点「查看改动」，优先打开选中文字或当前视野对应的改动。没有对应改动时，从第一处开始。
+- 点「查看原文」可核对该处的前后内容，返回阅读仍在同一段。
+- 继续阅读新版时，可准确定位的原选区会按原方向恢复，浮动操作在重新选字时显示。被删掉的文字会清除选区。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build389/Markeen-0.1.0-alpha-build389.zip" length="6788644" type="application/octet-stream" sparkle:edSignature="DMax96ulCxZkcvmNcdU9KuHq2l4eV9AVDNAgaugWCjwux3oZXq2hcgj+uQf9COnh9oYOugbbDs4XPuQ47tVcBQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: qhSs9zueFrmLWCX6Iog0RAsdfkMe9H9GkIIZzt0GRNJ/J5rUEldDSV4bEKHwBhPdCKji+2sjW8MVfS3XMN2DAw==
+length: 1441
 -->
