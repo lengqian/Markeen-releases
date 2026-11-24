@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 412</title><sparkle:version>412</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 412</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build412 · 查完依据，回到原句
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 413</title><sparkle:version>413</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 413</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build413 · 文档更新后，继续核对原处
 
-- 在项目搜索中打开普通结果或「更多匹配」里的段落，键盘焦点会进入正文，可以直接翻页。
-- 从引用先回到搜索命中，再回到搜索前的段落时，会恢复阅读位置和原来的选区。调整窗口或放大字号后也可接着读。
-- 查证期间原文有更新时，能唯一确认的原句会重新选中。原句被改写或无法区分相同段落时，返回仍打开新版正文，选区保持清除。
+- 看完引用返回时，会重新定位原来选中的搜索命中。旁边改了几个字，或者前面多出一个相同段落时，仍可接着核对。
+- 原命中已被删改时，会提示「原匹配已变化」。能够确认的引用仍在视野里。
+- 同一次核对中，搜索起点、依据文档和引用目标都更新后，仍可沿原路返回。能确认的选区、阅读位置和搜索词会恢复。
 
-这是面向受邀试用的 macOS Universal Alpha，支持 macOS 12 或更新系统，包含 Intel 和 Apple Silicon 版本。实窗与升级走查使用 Intel Mac。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build412/Markeen-0.1.0-alpha-build412.zip" length="6842347" type="application/octet-stream" sparkle:edSignature="MxuDSgyk+P2oN6/fK3hPbxyDe+AZ6gJd2cArNZN5O8rz5aMiJmFWe0RoY9QNlG43bskERG7uZcHgBf2ke12SAw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: TtZu7pG9IT+V9TvDQ8Un0Vr4gy8j0VnZSJBNBt/jaRJCEmjFWSIDooT84nC96L8YbRROVFOaLDxJbxqNjy5oBw==
-length: 1679
+这是面向受邀试用的 macOS Universal Alpha，支持 macOS 12 或更新系统。实窗与升级走查使用 Intel Mac。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build413/Markeen-0.1.0-alpha-build413.zip" length="6846559" type="application/octet-stream" sparkle:edSignature="4HOCu6opBDOBGcjB4svhzkJxMpWbDqabv4MVXwwjb99tNOhyztuhHFjm0nMiJ4+dw6VwDQMVBITSD2aSfnLZAg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 3JvjYsHSo+O1K4oYPJe34KytqZI1j67mu1CjEH/9sNILihc/SP5TwMH42cWM3Y6zvgwaduPP9tp+p4al/Z9XCA==
+length: 1612
 -->
