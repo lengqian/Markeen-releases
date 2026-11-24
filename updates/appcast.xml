@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 393</title><sparkle:version>393</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 393</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build393 · 连续查找与撤销后接着读
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 394</title><sparkle:version>394</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 394</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build394 · 文件更新后继续查找和编辑
 
-- 在正文里查找已停留的匹配时，保留原来的阅读高度。跳到同一段的另一处匹配后，返回可回到开始查找的位置。
-- 新一轮查找从当前阅读位置建立返回点。关闭查找后，可以用前进、后退继续核对。
-- 在选中文字前插入相同的字，切回正文时仍选中原来的字。保存后撤销或重做，预览继续停留在原处。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build393/Markeen-0.1.0-alpha-build393.zip" length="6790110" type="application/octet-stream" sparkle:edSignature="wqNiXkcXoLgzbVGwqllvzdmoux+MGJyXXPqoh6aYS3rO7Q1qHC3/o10VajuUCdd8otbu6OmqPVJrtUwGIraTDA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: x6L+PGDZcnxnq38/xMHKBl9zvtzycETgCilUobS2N5SCF/rbC+b85TmvZbQJahG3E205jQgWeqFh8DOlfGTIBw==
-length: 1468
+- 外部工具保存新版时，正文查找保留搜索词和输入焦点。同一个匹配能准确对应时，仍选中原来的那处，并同步更新结果编号。
+- 原匹配被删掉或无法对应时，查找栏提示「原匹配已变化」。可以用前后按钮查看其余结果。
+- 可从确认过的匹配直接进入源码编辑，预览后再保存。已有本机草稿时，外部新版继续留待核对，当前草稿和查找结果会保留。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build394/Markeen-0.1.0-alpha-build394.zip" length="6790860" type="application/octet-stream" sparkle:edSignature="h21BuIIELvR04JluLI09Y3Z+FK2cSP5Z0MtMhzEFk/xF+OwBffnR5+KrsnHbCUzVitswmRpg6eX0p6kRusXqBQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 0/rkUIsBag8ITMOhbHHlOyFx2RXtrCcq86raoRZEQ7KVqy3aZY/rbNeC0onDpcaVFTECgYs7GWQVPhhAt5YhBw==
+length: 1534
 -->
