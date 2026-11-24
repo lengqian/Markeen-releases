@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 414</title><sparkle:version>414</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 414</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build414 · 从搜索、核对到返回原处
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 415</title><sparkle:version>415</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 415</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build415 · 从项目改动到依据，再接着核对
 
-- 从项目搜索进入「阅读更新」或 Git 改动，点「返回原处」会恢复具体命中和选区。多词搜索会保留当时用于定位的词。
-- Git 原文中的项目链接可以打开，Markdown 跳到对应章节，源码引用可以在 Markeen 只读定位到行。界面会标明读到的是目标的当前内容。
-- 看完引用后会回到原来的改动编号。原文展开和选区会接上，再次返回可继续之前的搜索。
+- 侧栏发现 Git 改动后，点击「更新 Git」直接进入这类改动。检查期间可以切换到「阅读更新」，完成后保留所选页面。
+- Git 原文里的文档已经改名、搬移或删除时，可按原章节或文件名搜索项目。从结果页可以回到同一处改动，恢复选区和阅读位置。
+- 查证返回后保留先前的搜索和筛选。项目没有变化时可直接核对下一篇，Git 提交版变化时会提示切换。
 
-这是面向受邀试用的 macOS Universal Alpha，支持 macOS 12 或更新系统。实窗与升级走查使用 Intel Mac。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build414/Markeen-0.1.0-alpha-build414.zip" length="6848258" type="application/octet-stream" sparkle:edSignature="7EILkE8l/gmdfd0x5KVkE88oLJLMDirti4/wfD4OGX8O9QfraPw2hWOA28n7QW3usDEmLaRUfyU1+IBwaWkqDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: qssCPxNVpxsfVWmmAMu1mad8XELTocZor4a+G2j9wJH7x6aEkPfnD17GLh1g34BDvzYsYg8jRCCrum75iZrPDA==
-length: 1645
+这是面向受邀试用的 macOS Universal Alpha，支持 macOS 12 或更新系统。实窗和升级走查使用 Intel Mac。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build415/Markeen-0.1.0-alpha-build415.zip" length="6848896" type="application/octet-stream" sparkle:edSignature="1X4FXUc7dKOr66Y33mfV2was6TGidD/UwLfNAY7pcWGDocXyFDs9+DGwrdMcpSHT4/kwT/6U2wMnWrroFfcuDg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: XBdEbmEul2pJh7p9KeQx8pM2wnFFH1ZgZP5v/OL/qmRfpjaUQROg0k7x8l7qx8wXB0UNTKPRDgdjL0LfZFQ8AA==
+length: 1665
 -->
