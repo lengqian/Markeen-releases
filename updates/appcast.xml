@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 405</title><sparkle:version>405</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 405</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build405 · 找到依据，再接着读
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 406</title><sparkle:version>406</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 406</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build406 · 改完这句话，接着读
 
-- 项目搜索没有匹配时，结果和下一步留在侧栏。点「继续阅读」可回到原句和选区。在核对改动或编辑时，也可回到当前操作。
-- 回车打开搜索结果后，方向键可以直接继续阅读。清空搜索框后按回车会回到当前文档。
-- 预览从 Markdown 切到 HTML 或返回时，摘录和引用范围跟随当前文件。关闭预览会回到最后查看的结果。
-- 来源文件更新时，先提示刷新。重新核对后，可继续查看仍能确认的选中文字，并按当前文件的行号收藏。
+- 在正文里修改选中的文字时，按 ⌘S 可直接保存当前输入。保存后回到改过的词句，保留选区和阅读位置。
+- 改字途中打开搜索、切换文档、关闭窗口或退出，编辑框会保留当前输入并提示如何继续。可以应用到草稿，也可以明确放弃这次输入。
+- 编辑期间原文件被其他应用改动时，当前输入可以保留到草稿。保存前可核对两个版本。原文件暂不可用时，草稿仍可留在本机。
 
 这是面向受邀试用的 macOS Universal Alpha。支持 macOS 12 或更新系统，包含 Intel 和 Apple Silicon 版本。窗口与升级走查在 Intel Mac 上进行。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build405/Markeen-0.1.0-alpha-build405.zip" length="6827016" type="application/octet-stream" sparkle:edSignature="cI0u1GSx3FymTsCBwKe6tKwyLFajIj151jAP5jlM5s+jbFMZfL//Es9stiEN35UEEP1s6NctqHoAtsFHju9xBA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: GTUX1TigVMcItrQNj4VhGGfMeInRMZs2iGwcsg6Gw735C6Tg+46xeO0r0cjpik9uLjQyboMdyfP9kR1FAr2uDQ==
-length: 1795
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build406/Markeen-0.1.0-alpha-build406.zip" length="6828553" type="application/octet-stream" sparkle:edSignature="prE4YYJ8s6I1F43ls9BPhltO1rJux35UWVcNDNt9yyfrC0nP+yCI0ZfsI6rXf6Qc1qd7rgbwM8NLwXnjO4FoAQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: tkME28/L83acjBxQUQsX9xZbqecTKGT5lHN+ASgwMo+CndlIolsG71InWcfmTd7LZvdf52TdH09pdYvPOL8jBA==
+length: 1725
 -->
