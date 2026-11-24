@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 397</title><sparkle:version>397</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 397</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build397 · 刷新后继续核对原摘录
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 398</title><sparkle:version>398</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 398</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build398 · 核对来源后再带回引用
 
-- 项目搜索预览打开后，如果来源文件更新，点「查看最新上下文」会接着显示能够确认的原摘录，即使前面新增了含同一个搜索词的段落。
-- 原文和选区可准确对应时，会保留所选文字。收藏引用或跳到正文时，仍对着这处文字。返回后可以在出发的位置接着读。
-- 如果原匹配已删除或无法区分，预览会提示重新核对。原段落仍在但已选文字有变化时，会提示重新选择引用范围。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build397/Markeen-0.1.0-alpha-build397.zip" length="6793570" type="application/octet-stream" sparkle:edSignature="bBxnd7E5e1/mg4ZdAcUASP6KHc2BIs7HXT+7xbGvvgp5dxSTpjRuodX9HI93w1lUJXcPuh6T+VNmoysT7fAKDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: Ylbs4cSVMsz0wcthwyN/bw2Dvj7U1Qbuz3v4mMRMCqC8wrFcYDlYfc44e8ScnsGQHZhWjCydhzrER/tAkQhjBQ==
-length: 1567
+- 来源更新时，如果找不到原匹配，搜索预览保留「更新前摘录」。点「浏览最新匹配」后再选择新的出处。结果已消失时，可直接回到搜索，保持搜索词和阅读位置。
+- 已收藏的原句随原段落移到新位置时，核对引用会显示新版行号。只有相同字句、又找不到原上下文时，会标明收藏时的位置。可以查看新版来源，并重新收藏正确的出处。
+- 从 Git 改动带回引用后，会看到来源和要插入的段落。确认后先写入草稿，保存时才写入原文件。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build398/Markeen-0.1.0-alpha-build398.zip" length="6793579" type="application/octet-stream" sparkle:edSignature="8BBEm4b4Ogm+xYl33AdINwvTQQdzALAKllIvi8osz/QtBaXCUNWCt8IhtdFiHR+6+nzhWN2q1+36kuAHMMWAAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: bozAKa6tjYomk9aQkw/8SN4qeX/Nv6IG0qW47l2l5jeOkt6Po8+0pONpYYfK+WTwDY6Nj+t+qvfm/MAIGgcPCw==
+length: 1644
 -->
