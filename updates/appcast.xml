@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 395</title><sparkle:version>395</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 395</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build395 · 从查找到改动，再回到同一句
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 396</title><sparkle:version>396</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 396</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build396 · 刷新改动后继续核对同一句
 
-- 带着当前匹配打开「查看改动」时，对照会在新版标出同一次命中。展开原文后，计数会更新，当前高亮仍留在新版对应文字。
-- 切换「逐行查看」和「按正文查看」时保留对应的改动编号。宽窗能同时显示两处改动时，也会停在刚选中的那一处。
-- 返回旧版或继续阅读已核对的新版，能接着查找。文件中出现多处无法区分的匹配时，仍可查看结果总数并自行选择。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build395/Markeen-0.1.0-alpha-build395.zip" length="6791486" type="application/octet-stream" sparkle:edSignature="nJF3ukINaJqy9iNXeiOLejykJN6Nk57/AqC8fALzF3I/aYVOCUGO+k4IINKCgbh6HHjqO7iMPip1vbOdYU9fDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: o638KZmBmtOdJtC5NdvDe4rnyQ5HUoHdsYhASDjAKjIGPW/2GeR9WkKTDgNxC6xjryWhCEwTti5OmLHzahp7Cg==
-length: 1558
+- 审阅时收到外部新版，点「查看最新改动」后，仍可按原来的搜索词核对同一次命中。只要对应关系能确认，新版和展开的原文都能接回同一句。
+- 前方新增改动时，编号随新版更新，展开的原文和能确认的选区随对应改动保留。切换正文与逐行查看后，也能继续核对。
+- 原匹配被删掉或出现无法区分的重复时，查找栏提示「原匹配已变化」。选区如果就是原匹配，也会清除，之后可手动选择剩余结果。
+- 在新版对照中选中文字，再点「继续阅读新版」，会把该选区带到最新正文。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build396/Markeen-0.1.0-alpha-build396.zip" length="6792634" type="application/octet-stream" sparkle:edSignature="o01DZ6nPsfuyDw2R80WRF+iRjKF1LJDJq4/dIJqrbo2s9BmAF57yw8faROMugkVaUMUYnterLfGsoVdlMzi8BA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: R+q5mlNiYZaLSZgyR4d9rcllt2GiEMxC6/2vhXUZiIo4LVfpMsjQnWeNFM+C9Bxa/di1zjQCzCx5pr/z6qzwAA==
+length: 1711
 -->
