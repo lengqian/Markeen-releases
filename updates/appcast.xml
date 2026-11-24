@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 396</title><sparkle:version>396</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 396</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build396 · 刷新改动后继续核对同一句
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 397</title><sparkle:version>397</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 397</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Markeen Build397 · 刷新后继续核对原摘录
 
-- 审阅时收到外部新版，点「查看最新改动」后，仍可按原来的搜索词核对同一次命中。只要对应关系能确认，新版和展开的原文都能接回同一句。
-- 前方新增改动时，编号随新版更新，展开的原文和能确认的选区随对应改动保留。切换正文与逐行查看后，也能继续核对。
-- 原匹配被删掉或出现无法区分的重复时，查找栏提示「原匹配已变化」。选区如果就是原匹配，也会清除，之后可手动选择剩余结果。
-- 在新版对照中选中文字，再点「继续阅读新版」，会把该选区带到最新正文。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build396/Markeen-0.1.0-alpha-build396.zip" length="6792634" type="application/octet-stream" sparkle:edSignature="o01DZ6nPsfuyDw2R80WRF+iRjKF1LJDJq4/dIJqrbo2s9BmAF57yw8faROMugkVaUMUYnterLfGsoVdlMzi8BA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: R+q5mlNiYZaLSZgyR4d9rcllt2GiEMxC6/2vhXUZiIo4LVfpMsjQnWeNFM+C9Bxa/di1zjQCzCx5pr/z6qzwAA==
-length: 1711
+- 项目搜索预览打开后，如果来源文件更新，点「查看最新上下文」会接着显示能够确认的原摘录，即使前面新增了含同一个搜索词的段落。
+- 原文和选区可准确对应时，会保留所选文字。收藏引用或跳到正文时，仍对着这处文字。返回后可以在出发的位置接着读。
+- 如果原匹配已删除或无法区分，预览会提示重新核对。原段落仍在但已选文字有变化时，会提示重新选择引用范围。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build397/Markeen-0.1.0-alpha-build397.zip" length="6793570" type="application/octet-stream" sparkle:edSignature="bBxnd7E5e1/mg4ZdAcUASP6KHc2BIs7HXT+7xbGvvgp5dxSTpjRuodX9HI93w1lUJXcPuh6T+VNmoysT7fAKDg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: Ylbs4cSVMsz0wcthwyN/bw2Dvj7U1Qbuz3v4mMRMCqC8wrFcYDlYfc44e8ScnsGQHZhWjCydhzrER/tAkQhjBQ==
+length: 1567
 -->
