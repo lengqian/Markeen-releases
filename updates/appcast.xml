@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 467</title><sparkle:version>467</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 467</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build467 · 打开文档，直接核对本篇 Git 改动
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 468</title><sparkle:version>468</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 468</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build468 · 找到文档后，接着核对本篇 Git 改动
 
-- 打开有 Git 改动的文档后，可直接点「查看本篇 Git 改动」。已修改和新增的文档都支持。
-- 当前篇没有改动时，仍可打开项目 Git 改动列表。切换文档时，检查结果会更新对应文档的入口。
-- 本篇 Git 对照使用「返回阅读」，回到打开对照前的位置，保留可精确定位的选区。
+- 从项目搜索结果或正文链接打开有改动的文档，可直接查看本篇 Git 改动。原来的返回入口仍可用。
+- 从搜索打开的对照会带上当前搜索词。返回阅读后，可接着看原来的命中和选中的文字，再返回搜索前的文档。
+- 左侧面板较宽时，文档名称和常用工具放在第一行，返回入口和 Git 改动放在第二行。
 
 这是面向受邀试用的 macOS Universal Alpha。实窗验收使用 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build467/Markeen-0.1.0-alpha-build467.zip" length="6908462" type="application/octet-stream" sparkle:edSignature="cDUJqCHXNAxN+petWX1JVBGWMaR239pQQ1JNoOik2OotPwdMgd6DbS52b8zKOtdw+PLKNdHSk6MJAfiDfXiqBw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: Yt+GQGLm6LUqOC6CZm7z5viDhfkZNrVti3gbVCLDcckDg6JgbgXXMjfdvOE1wEKsqGElFvN7R8rZXh/5tGZHBQ==
-length: 1521
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build468/Markeen-0.1.0-alpha-build468.zip" length="6908563" type="application/octet-stream" sparkle:edSignature="vAPhdZ55DCyS0uvhP7SY2psCHd2oWD/yrNjdD0Uan+hDT8kvR/rA0a7iN+G4cMCEXDSzJMbKXvHYLWVGFmGfCw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: QtBSLYIp3FjUXajJ88aiyE3ZOWl3UDfjpuhN6Uzss9tQ4v4Tb6bK8Wp9aGzg0HEQ6dNENHIgxHsXfDECgS/iAQ==
+length: 1559
 -->
