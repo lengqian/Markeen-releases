@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 473</title><sparkle:version>473</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 473</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build473 · 改到哪一句，就接着读哪一句
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 474</title><sparkle:version>474</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 474</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build474 · 阅读清单可以接着翻
 
-- 在正文改字时，缩窄窗口或放大字号后，空间允许时整句原文和「应用到草稿」会同时保持可见。
-- 取消改字后，回到原句并恢复选区。打开源码核对后，直接返回也能接着看完整的选中内容。
-- 保留「本文查找」的关键词。继续应用到草稿或显式保存时，只修改选中的文字。
+- 清单里的文件如果暂时无法打开，提示会标在对应条目。点文件名可重试，文件恢复后标记自动清除。
+- 「上一份」「下一份」会跳过本次打开期间已确认不可读的文件。可继续阅读其余文件，或保留失败条目稍后处理。
+- 关闭清单后回到原来的段落和选区。单独移除清单里的条目不会改动源文件。
 
-这是面向受邀试用的 macOS Universal Alpha。Intel macOS 12 实窗定向验证覆盖正文改字、字号与窗口调整、源码往返、草稿与保存。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build473/Markeen-0.1.0-alpha-build473.zip" length="7024408" type="application/octet-stream" sparkle:edSignature="ElfVHvrtIkxwMnzEh7ZsmltMkVjDbkzRdjU9RtCmCiz9erLISl0EZRWpOr5sIB5a/LzP/89a4FhWGyaouF6SCA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 6mD/ZyhTpIWbhCvPivXAwlGqhAP8lb8rmB+H7N7iQ7wzBDWGgoh00nMbk6o5d7rfBOFn7CTsMhbzN2vHJ+eWCw==
-length: 1595
+macOS Universal Alpha。定向实窗验证覆盖深色窄窗和浅色宽窗下的前后翻阅、文件移走与恢复、重试、关闭清单续读和移除条目。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build474/Markeen-0.1.0-alpha-build474.zip" length="7024901" type="application/octet-stream" sparkle:edSignature="cY7Ysg+O/dgAnWAg447nfkk1FvNKcGrGMBcaoH8nVw9igrqv9hYoy3CNFcvwI3ElqoNy3UjnfPOG0OUlTsuMAQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: uVN3fvSbp0dCuCYZYzOTvMccg0u2FBTdTHiB971WsOsTXIPK/5Idmv+MREtD9cMGuFld/5hZKZcn5sdqaNXZDw==
+length: 1615
 -->
