@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 475</title><sparkle:version>475</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 475</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build475 · 换个词搜，也能接着读示例
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 476</title><sparkle:version>476</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 476</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build476 · 在对照里核对本文附录
 
-- 在首次体验里用自己选中的文字查找依据，或清除关键词后，仍可直接点「阅读补充说明」。
-- 打开补充说明会定位到解释段落，保留你刚才的搜索条件。可以直接返回同一处改动，也可以把原句带回并核对引用位置。
-- 从自己的文档进入示例后，仍可回到原来读的段落和选区。
+- 「查找依据」会列出这处改动指向的本文章节和其他文件。预览本文章节时可以看见对应对照版本。
+- 点「跳转」可读本文的出处，返回后接着核对同一编号，保留展开的原文和文字选区。
+- 章节缺失时，会在原处提示。重新查看出处时，旧提示会收起。
 
-macOS Universal Alpha。本轮定向验证覆盖首次示例、浅深色窗口、选择文字后查找、清除搜索、返回改动，以及在项目中把文字依据带回改动。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build475/Markeen-0.1.0-alpha-build475.zip" length="7025142" type="application/octet-stream" sparkle:edSignature="JJNy7uRYkSLifuXqgrysst1I3xsGgkPbquRkRpOe5LbvSngAJTBn7c+ChezuhK5EI5oaDh3mMDBP5am+UU30Cw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: m79FJdyUA4UIkPkPtGwD4hliNqbakJQzoXZavBW9riCXB5eyFkIuf5ZGlNLgMoFnpsbXJAG5z2/xrG3w2JXuAA==
-length: 1615
+macOS Universal Alpha。本轮定向走查覆盖从项目搜索和正文链接进入 Git 对照、预览本文章节与跨文件出处、缺失章节及返回改动。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build476/Markeen-0.1.0-alpha-build476.zip" length="7025364" type="application/octet-stream" sparkle:edSignature="iGdRGQwQZPjlMam7obR67UqoAT/mUxPJRwNZ28muxssIupg6/zNIlIwUaWN8kAGxaWTzjBhVkDFMp40B/GVrDg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: FoyEIecDlXnpwxIRJ/wXrbyHfuOv4+twofqqp25pXzpxcSdDbFEkmGfjR4bDoHU9o6NCTfxCINHAhx58q/q/Bg==
+length: 1560
 -->
