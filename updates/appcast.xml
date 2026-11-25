@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 443</title><sparkle:version>443</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 443</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build443 · 在列表里认出要看的改动
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 444</title><sparkle:version>444</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 444</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build444 · 第一次打开项目，从合适的文档开始
 
-- 「跳到改动」会显示表格的行、列和改动字词。整行新增或删除时，以易读的单元格文字预览。
-- 从逐行查看或按正文查看打开列表，都能看到表格、代码和正文的改动片段。
-- 搜索表格里的改动时，即使同一个词也出现在未改的单元格，仍会优先定位到实际改过的地方。跨 Markdown 格式的短语也能找到，返回逐行或正文时可继续核对同一处。
-- 筛选长改动列表时，结果会一起更新，减少输入时的停顿。
+- 常见文档目录下的中英文入门指南可作为项目入口。存在空 README 或历史归档时，有正文的入门指南会优先打开。
+- 首次扫描期间可以直接搜索。输入时保留当前搜索，按回车后可直接进入找到的正文。
+- 搜索没有结果时，可继续改关键词，也可从正文区域打开项目入口。清空搜索后，会继续打开原定的入口。
 
 这是面向受邀试用的 macOS Universal Alpha，支持 macOS 12 或更新系统。实窗和升级走查使用 Intel Mac。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build443/Markeen-0.1.0-alpha-build443.zip" length="6881048" type="application/octet-stream" sparkle:edSignature="r9tF04OJlvkdGcHRoWHnkmOuUYh3/p9/peDS4R8jPX08FK0QGaScp/vaq2OWAFxDrsfOA/8pjnpcH9QQCsihCg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: p8yD3WiSCLT5maUas10sxb79iIwSAf9FXM+8JQ/C1qI8TFrXTsjJeDGsIyMDFLAD0/pfPlSUyiB6j0bwUKy9AA==
-length: 1721
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build444/Markeen-0.1.0-alpha-build444.zip" length="6881547" type="application/octet-stream" sparkle:edSignature="clkthqsBhTQbe+z+JJRMFT+au8fW3v781nYVgAv7ZkVHnOtYNMQtZ2mRNnvITzuRiiMRWH8xpd3fSvX+bsOrCw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: wUPsLO2hppBB/Yc+csDXsK8SYZpDcRpwCYj3RVsTQC7wsqyX9j7C/e9Co3zRldcAFVYrymhbedInEu4Xvu0gAA==
+length: 1611
 -->
