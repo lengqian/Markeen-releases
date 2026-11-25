@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 468</title><sparkle:version>468</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 468</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build468 · 找到文档后，接着核对本篇 Git 改动
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 469</title><sparkle:version>469</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 469</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build469 · 多篇 Git 改动，各自接着核对
 
-- 从项目搜索结果或正文链接打开有改动的文档，可直接查看本篇 Git 改动。原来的返回入口仍可用。
-- 从搜索打开的对照会带上当前搜索词。返回阅读后，可接着看原来的命中和选中的文字，再返回搜索前的文档。
-- 左侧面板较宽时，文档名称和常用工具放在第一行，返回入口和 Git 改动放在第二行。
+- 切换文档时，各自记住上次看的改动、展开的原文和可恢复的选区。重新打开 Markeen 后也能继续。
+- 侧栏和「跳到文档」都提示「继续核对」或「查看最新改动」，同名文件显示各自的目录。
+- 窄窗中，短词替换的修改前后内容单独占一行，方便直接对照。
 
-这是面向受邀试用的 macOS Universal Alpha。实窗验收使用 Intel macOS 12。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build468/Markeen-0.1.0-alpha-build468.zip" length="6908563" type="application/octet-stream" sparkle:edSignature="vAPhdZ55DCyS0uvhP7SY2psCHd2oWD/yrNjdD0Uan+hDT8kvR/rA0a7iN+G4cMCEXDSzJMbKXvHYLWVGFmGfCw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: QtBSLYIp3FjUXajJ88aiyE3ZOWl3UDfjpuhN6Uzss9tQ4v4Tb6bK8Wp9aGzg0HEQ6dNENHIgxHsXfDECgS/iAQ==
-length: 1559
+每个项目保留最近 8 篇文档的 Git 对照位置。这是面向受邀试用的 macOS Universal Alpha，实窗验收使用 Intel macOS 12。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build469/Markeen-0.1.0-alpha-build469.zip" length="6910234" type="application/octet-stream" sparkle:edSignature="nWSXJ/xRvYjNew9alIsDYmUu24ZhBXF0Q/PqcsOKSN3gZD9g29VvhDlFmCrSxv5gcKCOu4Aofq9ROsaSCc9YDg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 0wct9NkKfWzjcew9UyqKXw8TsnIk0hRhop7r9DfM+rF2BCUNS2UoEJG1aBfKCHYVPnDChozFaysEwQurI63GCw==
+length: 1551
 -->
