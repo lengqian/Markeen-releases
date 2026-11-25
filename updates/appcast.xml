@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 459</title><sparkle:version>459</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 459</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build459 · 打开引用前，先认清出处
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 460</title><sparkle:version>460</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 460</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build460 · 查证和改字，各有清楚入口
 
-- 链接预览会把章节标题、文件名和目录分开显示。项目内有同名文件时，目录会保留区分它们的部分。
-- 深层路径会缩写，悬停可查看完整路径。仍可用键盘打开预览中的章节，查证后回到原链接、阅读位置和选区。
+- 正文或展开的原文选中文字后，悬停附近的链接会保留选区工具。源码、文档和章节链接采用同一规则。
+- 用键盘聚焦链接时可打开预览。按 Esc 关闭后，选区工具回到原位，可以继续改字和保存。
+- 本轮定向验证文本选择、引用预览、原文和逐行查看切换，以及公开升级。
 
-这是面向受邀试用的 macOS Universal Alpha，支持 macOS 12 或更新系统。实窗与升级走查使用 Intel Mac。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build459/Markeen-0.1.0-alpha-build459.zip" length="6902797" type="application/octet-stream" sparkle:edSignature="qt2mjq2DD2jJ2Bq1LzxYjCWGghN/AG+UYnMzCAYiUYQJGvgtsid7rocXl5jzOklPTEosDB+Mgv+KzvPllL7TDg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: INGdKJ6aGuAo25juB3qYpOQoSm5OZIOw0eYA67J159Ubs25odGzur8fm0FegZXU/q2nctrWC7JYJo1flqzEjBg==
-length: 1471
+这是面向受邀试用的 macOS Universal Alpha。实窗验收使用 Intel macOS 12。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build460/Markeen-0.1.0-alpha-build460.zip" length="6902979" type="application/octet-stream" sparkle:edSignature="dVGd6jyM/VbxJTpzsS1U1LbV+FBzcPOSz/j0hFYCTvpMIdN7tkdsSdnazjOBfpsgux4r7L402021UI2JCkzpCA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 9pXbU7XyNOzCG29c2nPeQQYZTKx7v7DFB5F7a1XXQDruMGGMTVeSh3AYGkqKyDza0lclwvJypg0WqmrzTrVGBQ==
+length: 1513
 -->
