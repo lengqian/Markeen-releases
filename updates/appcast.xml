@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 426</title><sparkle:version>426</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 426</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build426 · 原文更新后，回到原来的那一处
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 427</title><sparkle:version>427</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 427</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build427 · 返回后，看全刚才选中的那句话
 
-- 从重复的搜索命中打开出处时，原文被更新也能按原章节核对位置。正文、搜索当前项、选区和出处标记会回到可确认的那一处。
-- 原处被删、只剩其他章节里的副本，或同一章节路径出现相同副本时，会提示原匹配已变化。还能确认的原链接仍会标出。
-- 窄窗返回时会保留文字选区，选区工具条留到下一次主动选择时显示。留在同一篇文档载入新版时，也会接着核对原命中。
+- 查证途中调大字号，再返回原文时，能在同一屏容纳的选中文字和出处会完整露出。原文在查证期间更新后，也会用已核对的原位置来恢复。
+- 已完整可见时保留原阅读位置。长选区超出一屏时维持出处可见，选中的文字和方向仍然保留。
+- 载入新版、从源码返回到原阅读位置和撤销正文措辞修改时，恢复后的跨行选区也会尽量完整显示。
 
 这是面向受邀试用的 macOS Universal Alpha，支持 macOS 12 或更新系统。实窗和升级走查使用 Intel Mac。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build426/Markeen-0.1.0-alpha-build426.zip" length="6870907" type="application/octet-stream" sparkle:edSignature="Od/B/QQjhoATjcY6FoKuUdRh/+LhrE2BrWp5HgdwGCp0blAa9XavEAqHpfztsAd5f2gqrWH0+mlAnbq21/yrAw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: Bpe496LHYksG8Xo9BVzYmIkb/kSm00we5/VQGpIrAB1s66doQxs0snETsHd+v3r8N0ofbjDHbkKSMtlPJ6iwDg==
-length: 1696
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build427/Markeen-0.1.0-alpha-build427.zip" length="6871186" type="application/octet-stream" sparkle:edSignature="G7lr/q5i30W4vtZUeD9BjAbldvxm/Rv5HuSV7xX1sma10KUQV4V36/d0arA5YZsxSmLjW03kwwaf7q32duRTBw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: fZwAf/q7IfhezrOG5sGxF2JTwU0LJ5i4/EkwYvmscP419fmLrk0rgpS7RZb2WSEhA7iqrALkG2W2ZrQ/L8O1AQ==
+length: 1645
 -->
