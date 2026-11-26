@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 480</title><sparkle:version>480</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 480</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build480 · 搜不到依据时，回到原改动
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 481</title><sparkle:version>481</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 481</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build481 · 从搜索摘录直接回到改动
 
-- 查证没有匹配时，侧栏会显示原改动编号，例如「返回第 2 处改动」。点击或按 Esc，可恢复展开的原文、位置和选区。
-- 清空关键词后仍可继续查证。换词后，其他出处排在正在核对的文档前面。
-- 查证临时展开的侧栏会在返回后恢复原样。查证期间手动调整过侧栏时，保留这次选择。
+- 查证时从搜索结果预览选中文字，可以用「收藏并带回第 2 处…」直接核对引用和插入位置。已有收藏也可带回。确认插入后才生成草稿。
+- 核对来源期间换了摘录，预览留在当前选区。插入后重新进入改动对照，仍可接着看原文和选中的位置。
 
-macOS Universal Alpha。本轮定向回归覆盖无结果返回、换词、打开搜索结果、旧版引用查找和欢迎示例。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build480/Markeen-0.1.0-alpha-build480.zip" length="7026402" type="application/octet-stream" sparkle:edSignature="L7gYOnjmODAfCdDHWyq1PUqXUS61cd9aerxHyoe3sFW/t1idwZpVMi3ffYMl5a4kjQGzdnqSvB4knnaJAhu7Cg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: MF66l64PUzu6tGilux7Dx/R56Dq5D6JGrgk33ayrX96ZtGzG6McMqmPDyynbVFFXh/niDlrAw1NFC+DhEBaMDg==
-length: 1574
+macOS Universal Alpha。本轮定向回归覆盖搜索预览、引用确认和保存、摘录移动，以及查证返回。产品版本仍为 `0.1.0-alpha`。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build481/Markeen-0.1.0-alpha-build481.zip" length="7026557" type="application/octet-stream" sparkle:edSignature="5vh0whpz5PTUQygy+HDyoJSfVovMcs/SkeMSQHi6ZtWmUdTn3yoZ+LrsGH7ohJxZC/XM7lBCJ26mhqGwxTr3Cw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: Y3g+SxJgkkI9ml4LuXkS4mvUE6yGqJpwebAzf+JzjlJXMtD8hp/b+dxtfcAD6Mxsx/GKxhVPwan/lD47m0ZnAg==
+length: 1542
 -->
