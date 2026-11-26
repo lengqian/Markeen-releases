@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 478</title><sparkle:version>478</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 478</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build478 · 核对本文出处后回到原处
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 479</title><sparkle:version>479</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 479</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build479 · 先确认关键词，再去查证
 
-- 文末的引用即使已经在视野内，也能跳到出处标题，再回到点开引用的地方。
-- 从「查找依据」进入本文出处时，工具栏会显示原改动编号，例如「返回第 2 处」。
-- 查阅出处时收起出发处的选区操作。返回后恢复原改动、展开的原文、阅读位置和选区。
+- 改动没有项目内引用时，「查找依据」会在当前对照里打开关键词输入框。可以直接用选中的词，也可以改成更准确的关键词。
+- 确认搜索后才进入项目结果。从出处返回，能接着核对原来的改动。关闭输入框会保留原文展开、阅读位置和选区。
+- 欢迎示例沿用同一套查证步骤。
 
-macOS Universal Alpha。本轮定向走查覆盖正文链接和出处菜单、Git 对照与阅读更新对照的本文跳转，以及表格出处和对照查找接续。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build478/Markeen-0.1.0-alpha-build478.zip" length="7025698" type="application/octet-stream" sparkle:edSignature="kqapt3iK0VnE5X8GgKmIDUwwYBVaE4ElU1OOy4jBIn2Tlj7wtqXsKyKWi2KXXb5OO96GhSXoUf87LBn9bY5BAQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: KTmIdjs3iKzBKTagISu70RVqVOTnjT2zg8BkBKkPxGYDf12slSZ5cKUSgpANg6dOz5i4r+QITuOzx3X6oeRKAg==
-length: 1565
+macOS Universal Alpha。本轮定向回归覆盖示例、项目内搜索与引用带回，以及已有的章间和表格出处。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build479/Markeen-0.1.0-alpha-build479.zip" length="7026234" type="application/octet-stream" sparkle:edSignature="/35CIQ6d5eqYSVtbFzeeTCOBh7XCzcqqaNtHQsU7oIeERPq9zpsMNWoVgRU08+v72up64RiO7fCKw2O95clpDA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: tEyiU+G/SZ4lPmDCPqGH1zeO+gmpvLJpCdqrJOMBUQxspkGnmvIxXI3xRnXbA7i22z0uyAWolCU1bIxUx2B1Bw==
+length: 1558
 -->
