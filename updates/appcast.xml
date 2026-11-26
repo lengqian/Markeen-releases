@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 494</title><sparkle:version>494</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 494</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build494 文件改名后，按章节找回原文
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 495</title><sparkle:version>495</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 495</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# 阅读接续与改动核对
 
-- 从项目搜索、快速打开或正文中的失效章节链接进入。旧路径找不到时，可以凭章节在当前项目已读取的文档中查找，即使文件名已经改变。
-- 候选显示文件路径和章节摘录。同一项目有多个匹配时，可以先看内容，再选定要打开的文件。遇到同名文件也可以切到「按章节查找」。
-- 取消或返回原文档后，继续查看原来的阅读位置与选区。如果有文档尚未核对，面板会给出提示。
+- 打开项目后，首篇已经可读时，侧栏立即标出它。点到暂时读不出的文件时，可以直接继续读同项目的入口文档。
+- 旧链接的文件仍在、章节已经迁走时，可以按章节找回新版位置。候选显示路径和摘录，核对后可回到原引用修复链接。
+- 同名参考稿用路径区分。带回源码、PDF 或项目摘录时，在排版正文里核对出处和插入位置。窄窗也能看到文件名、行号和引用原文，确认后先预览草稿。
+- 粘贴 Markdown 后，取消保存或写入失败时保留输入和位置。保存的便签立即可读，也能在项目索引完成前搜到。已经打开的文件暂时不可读时，可在原保存位置重试，保留草稿与选区。
 
-适用于 macOS 12.0 及以上，包含 Intel 和 Apple 芯片版本。产品版本仍为 `0.1.0-alpha`。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build494/Markeen-0.1.0-alpha-build494.zip" length="7054837" type="application/octet-stream" sparkle:edSignature="yCZild7faW+XjEl96yddMKq6/8TsgVChF96y36s8g6ePiDllAtTXwFq9fkqgAQDHNaO1F8Sm6sJJcgb+IgiYAw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: 4qDRuzvIIRjPcoY5xFgz994tZpEzCdPK/vX8y11uNF6Dsj0A00Cuu69jNLuPInBgf1mQERFbEFI3qFbaAmhJAA==
-length: 1673
+macOS 12 或更新版本，Universal Alpha。产品版本仍为 0.1.0-alpha。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build495/Markeen-0.1.0-alpha-build495.zip" length="7072255" type="application/octet-stream" sparkle:edSignature="dLlMtdiCcPqmq24zJ/OQdZPyMPWupWZdtZw5B68kEGsZBcC22bbyWUvCi2L8/vvG3JpT8wKS4SydIcg3leObCQ==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: Yx1if9YOHVITK5T2jpJZRtBDJ4bxOcB84LcDka2Spp+7XOhReuaM6urXCxVrN6vUClkcKld+ecZqv3UXc1WoBA==
+length: 1881
 -->
