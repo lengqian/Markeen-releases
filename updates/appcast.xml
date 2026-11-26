@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 486</title><sparkle:version>486</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 486</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build486 · 给正文留出更多空间
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 487</title><sparkle:version>487</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 487</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build487 · 查找和目录一起用
 
-- 单篇文档在工具栏只显示一次文件名。窄窗把文档名称与查找、目录、编辑放到同一排。更新提醒和待保存状态出现时，文档栏会展开。
-- 阅读区域足够宽时，目录显示在正文旁边。文件侧栏挤占空间时，目录可切回上方。切换布局后可继续读所选段落。
-- 阅读外观打开时先显示字号和主题。字体、行距、宽度和代码折行可在「更多排版设置」展开。
-- 正文有选区时，文件菜单按一次 Esc 即可关闭，焦点回到文件名，原段和选区都保留。
+- 无标题的文档直接使用完整阅读区。原先开着目录时，换到有标题的文档会恢复目录。
+- 正文旁有空间时，「查找」和目录可以同时使用。查找时可继续看到目录筛选结果。
+- 矮窗中如果文件侧栏挤窄了正文，查找会暂时收起目录。空间恢复或关闭查找后，目录接回原来的筛选。关闭查找后可继续阅读原来的选区。
 
-macOS Universal Alpha，产品版本为 `0.1.0-alpha`。本轮定向走查覆盖工具栏、目录、外观、外部更新和草稿。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build486/Markeen-0.1.0-alpha-build486.zip" length="7035841" type="application/octet-stream" sparkle:edSignature="5ueZvxH3NFckk13239elUhcOcURLoOlunWrXtwjPRUUarrY4B6r6eklREPmdjbfhd25YCdx/4lvEypQA0n2lDQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: O6yS4KLkjGHKJDBqClw0k+0Qt80IIBbClsDJAY8473qZ4XMzbGk4nngZSRckif8EhAB5lHgJOpKyO1E8MqoFBw==
-length: 1769
+macOS Universal Alpha，产品版本为 `0.1.0-alpha`。本轮定向验证覆盖目录、本文查找、不同窗口和阅读位置恢复。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build487/Markeen-0.1.0-alpha-build487.zip" length="7035993" type="application/octet-stream" sparkle:edSignature="e1tOO7zuhi2K19fa6seUJbOHshAuC/O7YGBJ79cBpX1EhSN8JJQYgRb1L3hQcBQI0XIO1JXbHDfMx90S+qcHBw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: MOQwLmOaj3ItSRWkpWsxOz4o7HDm7+wx8YH8nLiE95wV4B/3oeMvfkIo0t79sG/dKkub9MK1UGJpW5RoMY4JDg==
+length: 1608
 -->
