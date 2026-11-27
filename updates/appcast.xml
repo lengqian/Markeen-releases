@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 497</title><sparkle:version>497</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 497</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build497 · 搜到原句，接着核对
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 498</title><sparkle:version>498</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 498</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build498 · 在 HTML 中显示 AntV 图表
 
-- 第一次打开项目时，如果已经找到正文摘录，可以直接打开并定位。搜索其余文档时仍可改词、取消等待或查看结果。
-- 从「查看改动」查依据时，包含匹配原句的文档会排在仅文件名相近的结果之前。输入完整文件名仍可直达。
-- 预览时新结果加入，正在点击的「上一篇」或「下一篇」保留原目标。「带回第 N 处改动」也会在收藏状态更新时留在原位置。
-- 核对引用后可取消并回到原改动，恢复原文展开、选区和阅读位置。确认插入后可先预览，保存时写入文件。
+- 打开使用 AntV Infographic 字面量定义和 `mount` 容器的 HTML 时，Markeen 预先生成 SVG，原样和阅读排版都可直接显示。
+- 图表使用内置渲染器和 MDI 图标，无需联网。HTML 原文件可以直接使用。
 
 适用于 macOS 12 或更新版本，支持 Intel 与 Apple Silicon。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build497/Markeen-0.1.0-alpha-build497.zip" length="7075884" type="application/octet-stream" sparkle:edSignature="FXcRPlYQMhukpzOysWOkG0Cn4GzVyeUEsCuVwQ9KfHAkKHp2bxgaKgQUnvahSkKU1RtcG7it93CGvBsFzdoQBg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: /0+gnIs9iRBqKpXrEbLHppEPKrwEGJjSoJj4JZ/tYfUQ9+zcOSHzhwvlt5KuhExwykOEm9ZSoRXy/XUle14kAQ==
-length: 1745
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build498/Markeen-0.1.0-alpha-build498.zip" length="8168676" type="application/octet-stream" sparkle:edSignature="tnq5iRLxtmk4i1e5De7t3n3AW/XR4KqRewY6eattmLn9p30wsoiHL7/ozzATRAwOFE+rX/jADANfqURqSHQPBw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: lnXjaTr/PkhJXLKvMJatu8NgvPEQ8rwNNcs9dkvGXQD1wt014Ej3xPG0UAT5mPnBvq3fYA0v8zNb4q/hvlgVBg==
+length: 1371
 -->
