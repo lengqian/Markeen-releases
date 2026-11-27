@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 496</title><sparkle:version>496</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 496</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build496 · HTML 中的 SVG
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 497</title><sparkle:version>497</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 497</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build497 · 搜到原句，接着核对
 
-- 「阅读排版」保留内联 SVG，并显示 HTML 引用的项目内 SVG 文件。
-- 通过 `object` 或 `embed` 嵌入的本地 SVG 按图像显示。SVG 不会作为独立页面运行。
+- 第一次打开项目时，如果已经找到正文摘录，可以直接打开并定位。搜索其余文档时仍可改词、取消等待或查看结果。
+- 从「查看改动」查依据时，包含匹配原句的文档会排在仅文件名相近的结果之前。输入完整文件名仍可直达。
+- 预览时新结果加入，正在点击的「上一篇」或「下一篇」保留原目标。「带回第 N 处改动」也会在收藏状态更新时留在原位置。
+- 核对引用后可取消并回到原改动，恢复原文展开、选区和阅读位置。确认插入后可先预览，保存时写入文件。
 
 适用于 macOS 12 或更新版本，支持 Intel 与 Apple Silicon。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build496/Markeen-0.1.0-alpha-build496.zip" length="7073148" type="application/octet-stream" sparkle:edSignature="C5Fhu/GiAbLDRCWkMcHHbmODXFzLhUzkZlhgCJVFtjW+AjP+YxX6iHRadg0WLvXxBnXpmQr1aFww4c/Wx9qSCA==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: daxAHaMmuGH5hVGIZLB9cXKNzRG7YrjUyGWsuVDfIc7KTvnMyasLhVxaWuYFDPvnPgUnnnzFctq7IyRXUZ93Ag==
-length: 1302
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build497/Markeen-0.1.0-alpha-build497.zip" length="7075884" type="application/octet-stream" sparkle:edSignature="FXcRPlYQMhukpzOysWOkG0Cn4GzVyeUEsCuVwQ9KfHAkKHp2bxgaKgQUnvahSkKU1RtcG7it93CGvBsFzdoQBg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: /0+gnIs9iRBqKpXrEbLHppEPKrwEGJjSoJj4JZ/tYfUQ9+zcOSHzhwvlt5KuhExwykOEm9ZSoRXy/XUle14kAQ==
+length: 1745
 -->
