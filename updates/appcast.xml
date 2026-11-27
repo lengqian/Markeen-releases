@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 499</title><sparkle:version>499</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 499</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build499 · 从 HTML 导出 SVG
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 500</title><sparkle:version>500</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 500</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build500 · 打开文档后接着读
 
-- 点击 AntV 图表右上角的「导出 SVG」，即可选择位置保存对应的 SVG 文件。
-- 原样和阅读排版均支持导出。SVG 包含图表的文字与内置图标。
+- 退出后重开同一篇文档，恢复阅读段落和仍然有效的文字选区。文件移走时，可查看原路径、重试或另选文件。
+- 核对更新时，明确显示对照的是上次阅读版、Git 提交版还是本机示例。
+- 打开示例、取消文件选择和恢复本机草稿时，更容易辨认当前位置和保存状态。
 
-适用于 macOS 12 或更新版本，支持 Intel 与 Apple Silicon。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build499/Markeen-0.1.0-alpha-build499.zip" length="8181813" type="application/octet-stream" sparkle:edSignature="4hB8QaheTyxvwr/VqXGgfE3FfRGNU8stRlnopX++AwQqxDsCY4hTAWuAFqWCoYHyk+ILl4IDN2ZoQkEEEojJCg==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: oTZe7rTSUxyWaoHV2Gq8B1N9+ov6upOXWN4G7XzgNbfOP8rUsD3XDRSJAuv+OFJqv7Gyam0hJ2KjJhq6v29tDQ==
-length: 1297
+这是 Markeen 0.1.0 Alpha 的更新构建。已安装 Markeen 的用户可以从「Markeen → 检查更新…」安装。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build500/Markeen-0.1.0-alpha-build500.zip" length="8213732" type="application/octet-stream" sparkle:edSignature="4KdpdhvnpTl4UJiutuwFC7MNZOip5gaJkiX6e5h5kxXLCcIti9NnUnZb8uu59Y8KDOOJSOcJPTaLk8NlnCXgAw==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: 1tl+Vxg3/lRooQo84pgoXAxKHSOHoaG+150/YRMIB9FSzSu+oOpxESoDLZSLIa/WC0XY3VtApv7vrW5Iaa0IBA==
+length: 1526
 -->
