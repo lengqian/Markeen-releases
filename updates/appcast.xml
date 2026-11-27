@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 498</title><sparkle:version>498</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 498</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build498 · 在 HTML 中显示 AntV 图表
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 499</title><sparkle:version>499</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 499</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build499 · 从 HTML 导出 SVG
 
-- 打开使用 AntV Infographic 字面量定义和 `mount` 容器的 HTML 时，Markeen 预先生成 SVG，原样和阅读排版都可直接显示。
-- 图表使用内置渲染器和 MDI 图标，无需联网。HTML 原文件可以直接使用。
+- 点击 AntV 图表右上角的「导出 SVG」，即可选择位置保存对应的 SVG 文件。
+- 原样和阅读排版均支持导出。SVG 包含图表的文字与内置图标。
 
 适用于 macOS 12 或更新版本，支持 Intel 与 Apple Silicon。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build498/Markeen-0.1.0-alpha-build498.zip" length="8168676" type="application/octet-stream" sparkle:edSignature="tnq5iRLxtmk4i1e5De7t3n3AW/XR4KqRewY6eattmLn9p30wsoiHL7/ozzATRAwOFE+rX/jADANfqURqSHQPBw==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: lnXjaTr/PkhJXLKvMJatu8NgvPEQ8rwNNcs9dkvGXQD1wt014Ej3xPG0UAT5mPnBvq3fYA0v8zNb4q/hvlgVBg==
-length: 1371
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build499/Markeen-0.1.0-alpha-build499.zip" length="8181813" type="application/octet-stream" sparkle:edSignature="4hB8QaheTyxvwr/VqXGgfE3FfRGNU8stRlnopX++AwQqxDsCY4hTAWuAFqWCoYHyk+ILl4IDN2ZoQkEEEojJCg==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: oTZe7rTSUxyWaoHV2Gq8B1N9+ov6upOXWN4G7XzgNbfOP8rUsD3XDRSJAuv+OFJqv7Gyam0hJ2KjJhq6v29tDQ==
+length: 1297
 -->
