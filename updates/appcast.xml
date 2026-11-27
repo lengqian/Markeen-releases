@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 495</title><sparkle:version>495</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 495</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# 阅读接续与改动核对
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Markeen Alpha</title><link>https://github.com/lengqian/Markeen-releases/releases</link><description>Verified Markeen Alpha updates</description><item><title>Markeen Alpha · Build 496</title><sparkle:version>496</sparkle:version><sparkle:shortVersionString>0.1.0 Alpha · Build 496</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>&lt;html&gt;&lt;body&gt;&lt;pre style="white-space:pre-wrap;font:14px -apple-system;line-height:1.6"&gt;# Build496 · HTML 中的 SVG
 
-- 打开项目后，首篇已经可读时，侧栏立即标出它。点到暂时读不出的文件时，可以直接继续读同项目的入口文档。
-- 旧链接的文件仍在、章节已经迁走时，可以按章节找回新版位置。候选显示路径和摘录，核对后可回到原引用修复链接。
-- 同名参考稿用路径区分。带回源码、PDF 或项目摘录时，在排版正文里核对出处和插入位置。窄窗也能看到文件名、行号和引用原文，确认后先预览草稿。
-- 粘贴 Markdown 后，取消保存或写入失败时保留输入和位置。保存的便签立即可读，也能在项目索引完成前搜到。已经打开的文件暂时不可读时，可在原保存位置重试，保留草稿与选区。
+- 「阅读排版」保留内联 SVG，并显示 HTML 引用的项目内 SVG 文件。
+- 通过 `object` 或 `embed` 嵌入的本地 SVG 按图像显示。SVG 不会作为独立页面运行。
 
-macOS 12 或更新版本，Universal Alpha。产品版本仍为 0.1.0-alpha。
-&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build495/Markeen-0.1.0-alpha-build495.zip" length="7072255" type="application/octet-stream" sparkle:edSignature="dLlMtdiCcPqmq24zJ/OQdZPyMPWupWZdtZw5B68kEGsZBcC22bbyWUvCi2L8/vvG3JpT8wKS4SydIcg3leObCQ==" /></item></channel></rss><!-- sparkle-signatures:
-edSignature: Yx1if9YOHVITK5T2jpJZRtBDJ4bxOcB84LcDka2Spp+7XOhReuaM6urXCxVrN6vUClkcKld+ecZqv3UXc1WoBA==
-length: 1881
+适用于 macOS 12 或更新版本，支持 Intel 与 Apple Silicon。
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><enclosure url="https://github.com/lengqian/Markeen-releases/releases/download/v0.1.0-alpha-build496/Markeen-0.1.0-alpha-build496.zip" length="7073148" type="application/octet-stream" sparkle:edSignature="C5Fhu/GiAbLDRCWkMcHHbmODXFzLhUzkZlhgCJVFtjW+AjP+YxX6iHRadg0WLvXxBnXpmQr1aFww4c/Wx9qSCA==" /></item></channel></rss><!-- sparkle-signatures:
+edSignature: daxAHaMmuGH5hVGIZLB9cXKNzRG7YrjUyGWsuVDfIc7KTvnMyasLhVxaWuYFDPvnPgUnnnzFctq7IyRXUZ93Ag==
+length: 1302
 -->
